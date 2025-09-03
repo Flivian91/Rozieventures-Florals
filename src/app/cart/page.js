@@ -1,7 +1,7 @@
 import React from "react";
 
 function page() {
-  return <div>All product listing</div>;
+  return <div>Cart</div>;
 }
 
 export default page;
