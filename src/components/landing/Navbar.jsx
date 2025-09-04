@@ -15,6 +15,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "../ui/sheet";
+import { Separator } from "../ui/separator";
 
 function Navbar() {
   const pathname = usePathname();
@@ -92,15 +93,16 @@ function Navbar() {
               </Button>
             </div>
           </SheetTrigger>
-          <SheetContent className="w-64">
+          <SheetContent className="w-64 lg:hidden" side="left">
             <SheetHeader>
-              <SheetTitle>
+              <SheetTitle className={"flex items-center -mb-4"}>
                 <Link href="/" className="flex items-center space-x-2">
                   <Image
                     src={"/logo.svg"}
                     width={50}
                     height={50}
                     alt=" Rozieventures Florals modern Logo"
+                    className=""
                   />
                   <span className="text-xl font-semibold hidden sm:inline-block">
                     Rozieventures Florals
@@ -108,6 +110,7 @@ function Navbar() {
                 </Link>
               </SheetTitle>
             </SheetHeader>
+            <Separator />
             {/* LINKS */}
             <ul className="gap-2 items-center flex-col transform transition-all duration-200 flex w-full px-4">
               {navLinks.map((link) => {
@@ -115,10 +118,10 @@ function Navbar() {
                   <li key={link.name} className="w-full">
                     <Link
                       href={link.path}
-                      className={`hover:bg-accent px-2 py-1 rounded text-sm w-full tracking-wide font-semibold ${
+                      className={`hover:bg-accent px-2 py-1 rounded text-sm  tracking-wide font-semibold ${
                         link.path === pathname
-                          ? " bg-accent "
-                          : " bg-transparent "
+                          ? " bg-accent w-full "
+                          : " bg-transparent w-full "
                       }`}
                     >
                       {link.name}
@@ -127,6 +130,7 @@ function Navbar() {
                 );
               })}
             </ul>
+
             <SheetFooter>
               <Button variant={"outline"} className="cursor-pointer" asChild>
                 <Link href={"/auth/login"}>
