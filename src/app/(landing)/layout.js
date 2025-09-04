@@ -1,10 +1,12 @@
+import Navbar from "@/components/landing/Navbar";
 import React from "react";
 
 function layout({ children }) {
   return (
     <div>
-      <span>Client page now</span>
-      {children}
+      {/* Navbar */}
+      <Navbar />
+      <main>{children}</main>
     </div>
   );
 }
