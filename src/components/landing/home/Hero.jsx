@@ -7,6 +7,7 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
+    // Hero Section
     <section className="min-h-screen bg-primary/60 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <div className="flex flex-col gap-2">
         <span>Fresh Flowers</span>
