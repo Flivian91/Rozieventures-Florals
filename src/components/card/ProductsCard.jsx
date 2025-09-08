@@ -20,14 +20,14 @@ function ProductsCard({ data }) {
       <CardHeader>
         <div className="relative overflow-hidden transition-all duration-300">
           <Image
-            src={data.image}
+            src={"/images/purple-roses.jpg"}
             height={100}
             width={100}
             alt={data.name}
             className="group-hover:scale-105 group-hover:opacity-40 object-cover w-full"
           />
           <div className="absolute z-10 top-2 left-0 w-full flex items-center justify-between">
-            <Badge className={"bg-accent"}>{data.badge}</Badge>
+            <Badge className={"bg-accent"}>New</Badge>
             <Button className={"bg-slate-100 text-slate-800"}>
               <Heart />
             </Button>

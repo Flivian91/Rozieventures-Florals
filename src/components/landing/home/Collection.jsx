@@ -5,9 +5,9 @@ import products from "../../../../data/MOCK_DATA.json";
 import React from "react";
 
 function Collection() {
-  const visibleProducts = products.filter((product) => product.id < 3);
+  const visibleProducts = products.filter((product) => product.id < 7);
   return (
-    <div className="py-16 px-4">
+    <div className="py-16 px-4 flex flex-col gap-5">
       <div className="flex flex-col gap-3 items-center">
         <Heading text={"Featured Collections"} />
         <p className="text-center tracking-wide text-lg md:text-2xl w-[700]">
@@ -21,7 +21,7 @@ function Collection() {
         })}
       </div>
       <div className="flex items-center justify-center">
-        <Button>View All Products</Button>
+        <Button variant={"outline"}>View All Products</Button>
       </div>
     </div>
   );
