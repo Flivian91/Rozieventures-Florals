@@ -5,7 +5,7 @@ import products from "../../../../data/MOCK_DATA.json";
 import React from "react";
 
 function Collection() {
-  const visibleProducts = products.filter((product) => product.id < 7);
+  const visibleProducts = products.filter((product) => product.id < 4);
   return (
     <div className="py-16 px-4 flex flex-col gap-5">
       <div className="flex flex-col gap-3 items-center">

@@ -47,11 +47,9 @@ function ProductsCard({ data }) {
       <CardContent className={"flex flex-col gap-2"}>
         <div className="flex items-center gap-2">
           <div className="flex items-center gap-1 text-accent">
-            <FaStar />
-            <FaStar />
-            <FaStar />
-            <FaStar />
-            <FaStar />
+            {[...Array(Math.floor(data.rating))].map((_, i) => (
+              <FaStar key={i} className="h-5 w-5 text-accent fill-accent" />
+            ))}
           </div>
           <div className="flex items-center gap-1 tracking-wide font-mono">
             <span>{data.rating}</span>
