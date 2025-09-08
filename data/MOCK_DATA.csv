@@ -1,0 +1,1001 @@
+id,name,price,originalPrice,image,rating,review,description,category
+1,Nutty Quinoa Salad,$12.84,$57.95,http://dummyimage.com/193x100.png/ff4444/ffffff,3.5,910.7,"A delicious salad with quinoa, nuts, and cranberries.",FLEX
+2,Memory Foam Mattress Pad,$72.46,$62.60,http://dummyimage.com/194x100.png/cc0000/ffffff,3.8,979.3,Extra layer of comfort for your mattress.,RLJE
+3,Nature Explorer Lens Kit,$32.57,$59.54,http://dummyimage.com/141x100.png/cc0000/ffffff,2.3,856.0,Magical lens kit for kids to explore the outdoors.,CAPR
+4,Mediterranean Chickpea Salad,$74.48,$22.20,http://dummyimage.com/250x100.png/ff4444/ffffff,4.2,908.9,"A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",PRTY
+5,Aged White Cheddar Popcorn,$3.63,$65.09,http://dummyimage.com/159x100.png/dddddd/000000,2.6,102.5,Light and fluffy popcorn coated in aged white cheddar.,JCOM
+6,Coconut Rice,$42.26,$71.53,http://dummyimage.com/107x100.png/5fa2dd/ffffff,4.1,421.4,Fluffy rice cooked with coconut milk for a tropical twist.,MYD
+7,Roasted Garlic Mashed Potatoes,$19.62,$71.97,http://dummyimage.com/142x100.png/cc0000/ffffff,3.4,88.6,Creamy mashed potatoes infused with roasted garlic flavor.,USB
+8,Travel Jewelry Organizer,$53.86,$98.19,http://dummyimage.com/247x100.png/ff4444/ffffff,2.0,53.0,Compact storage for your jewelry while traveling.,EMF
+9,Banana Nut Oatmeal Cups,$57.37,$2.30,http://dummyimage.com/225x100.png/5fa2dd/ffffff,3.2,753.8,"Quick oatmeal cups with banana and nut flavor, great for breakfast.",RS
+10,Sports Bottle,$48.91,$9.12,http://dummyimage.com/178x100.png/ff4444/ffffff,3.9,938.5,BPA-free sports bottle with flip-top lid.,MOFG
+11,Teriyaki Beef Jerky,$81.86,$12.76,http://dummyimage.com/250x100.png/cc0000/ffffff,2.2,690.7,Savory and chewy beef jerky with teriyaki flavor.,SYY
+12,Spicy Garlic Edamame,$18.99,$30.59,http://dummyimage.com/103x100.png/cc0000/ffffff,3.0,433.6,"Steamed edamame tossed in a spicy garlic sauce, great for snacking.",HCI
+13,Beef Stroganoff Mix,$88.49,$31.91,http://dummyimage.com/208x100.png/5fa2dd/ffffff,2.4,452.1,Everything you need to create a hearty beef stroganoff.,HESM
+14,Stainless Steel Water Pitcher,$18.27,$73.42,http://dummyimage.com/200x100.png/cc0000/ffffff,4.3,852.0,Insulated pitcher to keep beverages cold or hot.,PKI
+15,Cheesy Broccoli Soup Mix,$25.89,$99.86,http://dummyimage.com/210x100.png/dddddd/000000,4.2,666.3,Just add water for a hearty cheese and broccoli soup in minutes.,CREG
+16,Organic Black Bean Burger,$71.88,$80.50,http://dummyimage.com/173x100.png/cc0000/ffffff,3.3,586.9,Delicious plant-based burger made with organic black beans and spices.,XGTIW
+17,Chocolate Hazelnut Spread,$84.86,$92.93,http://dummyimage.com/173x100.png/5fa2dd/ffffff,2.2,612.1,"A creamy spread made with chocolate and hazelnuts, perfect for toast.",BBC
+18,Trail Mix (Deluxe),$24.04,$41.32,http://dummyimage.com/231x100.png/ff4444/ffffff,2.0,910.3,"A delightful mix of nuts, fruit, and chocolate.",KIM^I
+19,Dog Training Collar,$92.21,$50.66,http://dummyimage.com/140x100.png/5fa2dd/ffffff,1.3,930.8,Rechargeable training collar for effective behavior training.,DRUA
+20,Organic Whole Wheat Flour,$13.49,$87.61,http://dummyimage.com/220x100.png/cc0000/ffffff,4.7,273.8,High-quality whole wheat flour for baking and cooking.,WATT
+21,Flavored Rice Cakes,$21.22,$26.01,http://dummyimage.com/126x100.png/ff4444/ffffff,3.5,281.4,Light and crunchy rice cakes with a variety of flavors.,DTLA^
+22,Maple Almond Granola,$83.44,$41.09,http://dummyimage.com/121x100.png/cc0000/ffffff,1.3,199.6,Crunchy granola with maple flavor and almond pieces for breakfast.,BBSI
+23,Fall-Themed Table Runner,$12.91,$83.71,http://dummyimage.com/212x100.png/ff4444/ffffff,4.1,922.9,Decorative table runner perfect for autumn gatherings.,KMPA
+24,Honey Glazed Carrots,$50.20,$71.52,http://dummyimage.com/227x100.png/cc0000/ffffff,2.2,895.5,"Sweet and savory carrots glazed in honey, perfect as a side dish.",ASTC
+25,Terry Cloth Robe,$96.77,$20.28,http://dummyimage.com/101x100.png/5fa2dd/ffffff,1.2,519.6,"Soft and comfortable robe, perfect for lounging at home.",ASCMA
+26,Lightweight Rain Jacket,$12.62,$68.11,http://dummyimage.com/203x100.png/dddddd/000000,3.9,837.3,"Water-resistant jacket ideal for outdoor activities, featuring a packable design.",ABCB
+27,Jennifer's Amazing Lip Balm Kit,$92.79,$16.11,http://dummyimage.com/173x100.png/ff4444/ffffff,3.1,325.4,DIY kit to make your own lip balms in various flavors.,CHEK
+28,Yoga Strap,$71.08,$77.05,http://dummyimage.com/127x100.png/ff4444/ffffff,3.0,798.4,Durable yoga strap for deeper stretches.,SHG
+29,Honey Lemon Tea,$60.47,$71.67,http://dummyimage.com/188x100.png/dddddd/000000,2.4,957.4,"Refreshing tea with honey and lemon flavor, perfect for a warm drink.",FMB
+30,Digital Wireless Camera,$36.78,$53.77,http://dummyimage.com/167x100.png/dddddd/000000,3.4,421.8,Secure digital wireless security camera system.,DLR^H
+31,Sturdy Bookends,$28.27,$63.31,http://dummyimage.com/248x100.png/dddddd/000000,3.0,613.4,Stylish bookends to keep books organized on shelves.,TGS
+32,Vegetarian Stir Fry Sauce,$71.40,$33.58,http://dummyimage.com/138x100.png/cc0000/ffffff,4.7,291.2,Flavorful sauce perfect for stir-frying vegetables and tofu.,ARDX
+33,Kids' Outdoor Explorer Kit,$52.21,$45.28,http://dummyimage.com/151x100.png/dddddd/000000,2.7,612.1,Fun kit for aspiring explorers with binoculars and a compass.,R
+34,Wrap Jumpsuit,$50.17,$47.26,http://dummyimage.com/141x100.png/cc0000/ffffff,2.3,333.7,Chic wrap jumpsuit that flatters the body and is perfect for any occasion.,TJX
+35,Smart Water Bottle with Hydration Reminder,$97.92,$96.63,http://dummyimage.com/194x100.png/dddddd/000000,1.1,900.2,Bottle that tracks your water intake and reminds you to drink.,ZION
+36,Sunglasses,$99.91,$47.82,http://dummyimage.com/125x100.png/cc0000/ffffff,3.8,715.6,Polarized sunglasses with UV protection.,EEI
+37,Almond Crunch Granola Bars,$52.97,$75.50,http://dummyimage.com/136x100.png/dddddd/000000,3.4,969.6,Nutty granola bars for healthy snacking.,PSB^U
+38,Salsa,$88.65,$93.97,http://dummyimage.com/184x100.png/ff4444/ffffff,1.6,944.3,"Fresh and zesty salsa, perfect for nachos.",GTXI
+39,Gaming Headset,$77.64,$55.96,http://dummyimage.com/204x100.png/5fa2dd/ffffff,4.6,140.4,Comfortable gaming headset with surround sound.,DAVE
+40,Gardening Gloves,$79.16,$4.46,http://dummyimage.com/168x100.png/ff4444/ffffff,1.2,691.6,Durable gardening gloves with reinforced fingertips.,SSP
+41,Toy Building Set,$14.74,$72.31,http://dummyimage.com/131x100.png/dddddd/000000,1.3,976.6,Creative building set for kids to spark imagination.,ESRX
+42,Hair Dryer,$94.68,$8.11,http://dummyimage.com/170x100.png/cc0000/ffffff,1.5,141.4,Compact hair dryer with multiple heat settings.,BMA
+43,Organic Quinoa,$51.54,$16.25,http://dummyimage.com/100x100.png/ff4444/ffffff,3.7,660.8,Nutritious organic quinoa for salads or sides,NLSN
+44,Stainless Steel Travel Mug,$80.33,$8.59,http://dummyimage.com/117x100.png/dddddd/000000,2.7,125.5,Insulated mug to keep drinks hot on the go.,OR
+45,Instant Camera,$64.38,$53.93,http://dummyimage.com/124x100.png/ff4444/ffffff,4.7,627.8,Retro instant camera for capturing and printing photos instantly.,NRCIB
+46,Kids' Gardening Kit,$73.25,$69.73,http://dummyimage.com/214x100.png/5fa2dd/ffffff,4.4,875.4,Complete set designed for children to learn gardening.,PID
+47,Wireless HDMI Receiver,$92.16,$28.91,http://dummyimage.com/136x100.png/cc0000/ffffff,4.4,240.5,Stream HD video wirelessly from devices to TV.,KEX
+48,Foldable Yoga Mat Carry Bag,$93.32,$22.92,http://dummyimage.com/160x100.png/ff4444/ffffff,2.7,774.8,Durable bag for carrying your yoga mat and accessories.,JHA
+49,Vegetable Pizza Rolls,$16.84,$67.77,http://dummyimage.com/206x100.png/5fa2dd/ffffff,1.0,966.0,"Frozen pizza rolls filled with vegetables and cheese, perfect for snacks.",METC
+50,Kettle Chip Variety Pack,$80.47,$97.79,http://dummyimage.com/125x100.png/ff4444/ffffff,3.4,818.7,A crunchy collection of flavored kettle chips in a convenient pack.,ELSE
+51,Pear and Gorgonzola Salad,$47.86,$18.15,http://dummyimage.com/120x100.png/dddddd/000000,1.4,56.9,"Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch.",EURN
+52,Wireless Game Controller,$11.82,$25.10,http://dummyimage.com/191x100.png/ff4444/ffffff,5.0,612.4,Ergonomic wireless controller for gaming consoles.,GGZ
+53,Adjustable Window Blind,$94.80,$52.21,http://dummyimage.com/182x100.png/dddddd/000000,3.3,820.7,Customizable window cover for light control and privacy.,NTNX
+54,Balsamic Vinaigrette,$57.93,$97.84,http://dummyimage.com/234x100.png/ff4444/ffffff,2.5,771.6,Rich and tangy dressing perfect for salads.,CASS
+55,Pet Tracking Collar,$55.57,$22.29,http://dummyimage.com/170x100.png/ff4444/ffffff,3.8,444.2,GPS pet collar that helps locate your pet via smartphone app.,PWOD
+56,Fashionable Fanny Pack,$86.09,$26.48,http://dummyimage.com/165x100.png/5fa2dd/ffffff,4.2,256.4,"A trendy fanny pack, perfect for hands-free outings.",COF^D
+57,Herbed Chicken Breast,$54.36,$43.74,http://dummyimage.com/179x100.png/5fa2dd/ffffff,3.0,26.4,"Marinated chicken breast seasoned with herbs, ready for grilling.",SMRT
+58,Wireless Security Camera,$94.61,$25.80,http://dummyimage.com/192x100.png/cc0000/ffffff,4.9,225.2,1080p wireless security camera with night vision.,JBK
+59,Elegant Lace Dress,$30.76,$76.80,http://dummyimage.com/211x100.png/cc0000/ffffff,1.5,822.7,A stunning lace dress perfect for special occasions.,QVCB
+60,Microfiber Cleaning Cloths,$47.90,$12.88,http://dummyimage.com/205x100.png/dddddd/000000,4.4,431.9,Pack of ultra-soft microfiber cloths for cleaning.,FPAY
+61,Portable Speaker Stand,$89.30,$58.20,http://dummyimage.com/214x100.png/5fa2dd/ffffff,1.9,981.7,Adjustable stand for portable speakers and devices.,APTI
+62,Breezy Off-The-Shoulder Top,$73.84,$48.12,http://dummyimage.com/144x100.png/dddddd/000000,1.3,270.5,A light and breezy top ideal for warm days.,PCH
+63,Vintage Button-Down Shirt,$46.68,$84.47,http://dummyimage.com/214x100.png/dddddd/000000,3.9,428.9,A retro-style button-down shirt with a relaxed fit.,MCRI
+64,Beef Stroganoff Mix,$58.33,$23.07,http://dummyimage.com/194x100.png/dddddd/000000,3.8,404.5,Everything you need to create a hearty beef stroganoff.,ASPN
+65,Wild Rice Pilaf,$90.70,$18.41,http://dummyimage.com/165x100.png/5fa2dd/ffffff,2.5,314.4,"A mix of wild rice with herbs and spices, ready to serve.",NPK
+66,Portable Leaf Blower,$8.30,$22.86,http://dummyimage.com/236x100.png/cc0000/ffffff,4.1,117.0,Lightweight leaf blower for maintaining outdoor spaces.,AMAG
+67,Puffed Rice Cake,$88.83,$97.26,http://dummyimage.com/195x100.png/cc0000/ffffff,2.3,322.2,Low-calorie rice cake for snacks.,FTFT
+68,Chocolate Hazelnut Granola,$56.15,$13.91,http://dummyimage.com/109x100.png/ff4444/ffffff,2.6,180.0,Crunchy granola with chocolate and hazelnuts for breakfast.,CTWS
+69,Car Seat Organizer,$20.56,$62.90,http://dummyimage.com/185x100.png/ff4444/ffffff,3.9,283.6,Storage solutions for keeping your car tidy and organized.,LTM
+70,Teriyaki Chicken Stir-Fry,$82.13,$14.93,http://dummyimage.com/107x100.png/5fa2dd/ffffff,3.9,716.1,"Frozen stir-fry mix with chicken, veggies, and teriyaki sauce.",MILN
+71,Chili Lime Shrimp,$49.35,$34.81,http://dummyimage.com/182x100.png/dddddd/000000,2.7,711.7,"Frozen shrimp seasoned with chili and lime, perfect for quick dinners.",DCOM
+72,Classic Leather Wallet,$27.26,$67.53,http://dummyimage.com/170x100.png/ff4444/ffffff,2.7,261.6,A sleek leather wallet that combines style and functionality.,CGG
+73,Ceramic Cookware Set,$9.52,$10.33,http://dummyimage.com/185x100.png/cc0000/ffffff,4.1,291.6,Durable and non-stick ceramic cookware for healthy cooking.,DSPG
+74,Digital Camera,$63.63,$44.94,http://dummyimage.com/189x100.png/5fa2dd/ffffff,1.9,966.4,Compact digital camera with 20MP resolution.,CAH
+75,Portable Bluetooth Headphones,$59.69,$76.25,http://dummyimage.com/212x100.png/dddddd/000000,3.9,122.4,Wireless headphones with noise-canceling features.,RGSE
+76,Cilantro Lime Rice,$63.53,$99.23,http://dummyimage.com/177x100.png/dddddd/000000,3.8,613.2,"Easy-to-prepare rice with cilantro and lime flavors, great as a side.",PIY
+77,Adjustable Yoga Mat Strap,$17.79,$31.40,http://dummyimage.com/193x100.png/5fa2dd/ffffff,3.1,216.9,Convenient strap for carrying yoga mats to class.,SKX
+78,Noise Reduction Headphones,$57.26,$35.17,http://dummyimage.com/218x100.png/cc0000/ffffff,3.0,345.3,Passive noise reduction headphones for focus.,BBT
+79,Electric Rice Cooker with Steamer,$62.43,$38.09,http://dummyimage.com/201x100.png/ff4444/ffffff,3.9,265.6,Cook rice and steam vegetables simultaneously for healthy meals.,PEO
+80,Ceramic Planter Set,$87.28,$72.07,http://dummyimage.com/220x100.png/cc0000/ffffff,4.8,326.1,Set of decorative ceramic planters for indoor plants.,QLYS
+81,Coconut Chia Seed Pudding,$65.02,$92.43,http://dummyimage.com/215x100.png/5fa2dd/ffffff,3.4,674.3,"Ready-to-eat chia seed pudding made with coconut milk, perfect for breakfast or dessert.",WBS
+82,Electric Pressure Cooker,$62.21,$22.91,http://dummyimage.com/198x100.png/ff4444/ffffff,1.7,25.5,"Multi-function pressure cooker that can sauté, steam, and slow cook.",COMT
+83,Natural Peanut Butter,$57.79,$99.12,http://dummyimage.com/136x100.png/dddddd/000000,3.9,523.0,Creamy peanut butter with no added sugar or oils.,MTLS
+84,Ankle Boots,$8.46,$98.26,http://dummyimage.com/105x100.png/5fa2dd/ffffff,3.9,57.2,"Stylish leather ankle boots with a block heel, perfect for fall styling.",DHR
+85,Air Mattress,$31.82,$62.90,http://dummyimage.com/138x100.png/5fa2dd/ffffff,3.9,494.7,Inflatable air mattress for convenient sleeping.,FSCFL
+86,Honey Graham Crackers,$49.27,$19.02,http://dummyimage.com/116x100.png/cc0000/ffffff,1.5,98.3,Sweet and crunchy honey-flavored graham crackers.,JSM
+87,Coconut Curry Lentils,$44.55,$86.87,http://dummyimage.com/241x100.png/ff4444/ffffff,1.4,850.2,Lentils cooked in a coconut curry for a hearty meal.,GXP
+88,Honey Garlic Sauce,$23.12,$98.95,http://dummyimage.com/108x100.png/cc0000/ffffff,4.8,55.0,A delicious sauce perfect for stir-frying or glazing meats.,NCZ
+89,Almond Joy Snack Bars,$75.74,$86.86,http://dummyimage.com/230x100.png/cc0000/ffffff,2.9,604.5,Chewy snack bars with coconut and almonds coated in chocolate.,DAC
+90,Smart Thermos,$94.79,$69.06,http://dummyimage.com/243x100.png/dddddd/000000,2.6,768.1,Thermos that tracks your water intake and temperature.,DLBS
+91,Set of Herb Garden Markers,$87.79,$8.65,http://dummyimage.com/196x100.png/ff4444/ffffff,2.6,96.2,Stylish markers for labeling your indoor garden plants.,FCAP
+92,Balsamic Glaze,$66.04,$5.61,http://dummyimage.com/104x100.png/cc0000/ffffff,3.4,969.1,Sweet and tangy balsamic reduction for drizzling.,BXMT
+93,Multi-Cooker,$95.41,$46.93,http://dummyimage.com/220x100.png/dddddd/000000,1.6,867.1,Versatile multi-cooker for pressure cooking and slow cooking.,BHAC
+94,Green Smoothie Mix,$8.52,$10.35,http://dummyimage.com/245x100.png/cc0000/ffffff,3.9,463.4,A convenient powder mix combining greens and fruits for smoothies.,DDR^K
+95,Vegetarian Chili,$24.52,$37.48,http://dummyimage.com/121x100.png/5fa2dd/ffffff,4.7,549.1,"Hearty chili made with beans and vegetables, a savory meal option.",DDF
+96,Kettle Corn Popcorn,$22.28,$35.34,http://dummyimage.com/174x100.png/cc0000/ffffff,2.5,460.0,"Sweet and salty kettle corn, perfect for snacking.",JCI
+97,Decorative LED Neon Sign,$6.89,$18.45,http://dummyimage.com/227x100.png/cc0000/ffffff,2.9,259.1,"Bright, vibrant sign to add flair to any space.",PTR
+98,Jump Rope with Counter,$86.20,$56.07,http://dummyimage.com/230x100.png/dddddd/000000,4.2,716.9,Durable jump rope with built-in counter for workouts.,TTMI
+99,Vegetable Stir-Fry Kit,$15.26,$35.06,http://dummyimage.com/207x100.png/5fa2dd/ffffff,2.5,703.9,"A mix of fresh vegetables with a savory stir-fry sauce, ready to cook.",EFOI
+100,Dual Function Electric Skillet,$43.81,$96.48,http://dummyimage.com/198x100.png/ff4444/ffffff,3.7,58.5,"Skillet that can fry, grill, and sauté with ease.",SALM
+101,Children's Art Set,$31.03,$19.61,http://dummyimage.com/239x100.png/dddddd/000000,2.1,652.1,All-in-one art set for kids to unleash creativity.,VTR
+102,Crispy Kale Chips,$62.17,$15.00,http://dummyimage.com/199x100.png/dddddd/000000,2.1,875.2,"Baked kale chips seasoned for a healthy, crunchy snack.",DWAQ
+103,Reusable Silicone Food Storage Bags,$26.82,$25.08,http://dummyimage.com/203x100.png/dddddd/000000,4.4,308.7,Eco-friendly bags for storing food without plastic waste.,ACN
+104,Watercolor Set,$83.58,$42.50,http://dummyimage.com/244x100.png/5fa2dd/ffffff,1.4,793.8,Complete watercolor set with paints and brushes.,MRDN
+105,Vanilla Ice Cream,$52.27,$48.10,http://dummyimage.com/188x100.png/cc0000/ffffff,2.4,504.8,"Creamy and rich vanilla ice cream, a classic dessert.",CBS.A
+106,Beef Sirloin Steak,$62.34,$54.94,http://dummyimage.com/151x100.png/cc0000/ffffff,2.1,132.1,"Juicy and tender beef sirloin steak, grass-fed.",PIR
+107,Italian Herbal Seasoning,$15.48,$71.14,http://dummyimage.com/124x100.png/cc0000/ffffff,1.7,455.8,A fragrant blend of Italian herbs for pasta sauces and marinades.,LRN
+108,Energy Bites,$33.59,$44.97,http://dummyimage.com/115x100.png/dddddd/000000,1.0,947.0,Healthy energy bites made with oats and natural sweeteners.,CPN
+109,Spicy BBQ Sauce,$44.79,$28.82,http://dummyimage.com/239x100.png/cc0000/ffffff,2.9,516.9,A tangy and spicy BBQ sauce that's perfect for grilling.,UDBI
+110,Sesame Garlic Stir-Fry Sauce,$78.55,$31.46,http://dummyimage.com/240x100.png/5fa2dd/ffffff,3.2,141.9,A flavorful sauce for stir-frying vegetables and meats.,PSTB
+111,Cauliflower Crust Pizza,$9.54,$91.11,http://dummyimage.com/173x100.png/cc0000/ffffff,4.1,846.9,A gluten-free pizza crust made from cauliflower.,TPC
+112,Granola Clusters,$99.17,$64.27,http://dummyimage.com/211x100.png/ff4444/ffffff,2.0,760.4,"Crunchy granola clusters, perfect for snacking or topping yogurt.",SRT
+113,Organic Baby Spinach,$65.07,$76.56,http://dummyimage.com/225x100.png/dddddd/000000,4.7,361.6,"Fresh baby spinach leaves, great for salads and smoothies.",GLT
+114,Portable Leaf Blower,$8.93,$97.25,http://dummyimage.com/143x100.png/5fa2dd/ffffff,4.7,719.1,Lightweight leaf blower for maintaining outdoor spaces.,FAD
+115,Organic Whole Grain Oats,$13.53,$36.76,http://dummyimage.com/119x100.png/cc0000/ffffff,4.3,426.9,Whole grain oats that are perfect for breakfast or baking.,DCUD
+116,Baking Powder,$87.66,$84.08,http://dummyimage.com/151x100.png/dddddd/000000,1.2,983.0,Essential ingredient for baking fluffy cakes and pastries.,SJW
+117,Buffalo Stilton Cheese,$11.91,$88.20,http://dummyimage.com/214x100.png/cc0000/ffffff,4.5,809.3,Spicy blue cheese with a hint of buffalo flavor.,ABEV
+118,Gardening Tools Set,$55.43,$65.22,http://dummyimage.com/189x100.png/5fa2dd/ffffff,3.3,808.9,Complete set of gardening tools for outdoor tasks.,PNC
+119,Italian Pasta,$89.83,$51.41,http://dummyimage.com/190x100.png/cc0000/ffffff,3.1,385.5,"Authentic Italian pasta, perfect for a classic meal.",MXIM
+120,Freestanding Wine Rack,$86.64,$38.25,http://dummyimage.com/168x100.png/5fa2dd/ffffff,1.5,730.5,Stylish wine rack to store and display bottles.,AGO^F
+121,Cable Knit Cardigan,$67.04,$53.08,http://dummyimage.com/246x100.png/5fa2dd/ffffff,4.6,1.6,Cozy cable knit cardigan to layer during chilly evenings.,WBA
+122,Hand Crank Blender,$25.43,$29.17,http://dummyimage.com/215x100.png/cc0000/ffffff,1.7,585.5,Manual blender for smoothies and mixing ingredients on the go.,MBII
+123,Salsa,$93.42,$52.74,http://dummyimage.com/184x100.png/dddddd/000000,1.1,566.3,"Fresh and zesty salsa, perfect for nachos.",IKNX
+124,Dish Rack,$42.32,$0.94,http://dummyimage.com/154x100.png/5fa2dd/ffffff,2.0,188.9,Collapsible dish rack for kitchen countertop use.,FBNC
+125,Fresh Basil Pesto,$59.97,$93.05,http://dummyimage.com/106x100.png/5fa2dd/ffffff,5.0,881.6,"A fresh, flavorful basil pesto for pasta and more",SAEX
+126,Suede Ankle Booties,$81.75,$75.64,http://dummyimage.com/143x100.png/dddddd/000000,1.5,116.1,"Chic suede ankle booties, perfect for dressing up or down.",AFSI^E
+127,Peach Slices (canned),$94.04,$45.04,http://dummyimage.com/250x100.png/cc0000/ffffff,2.3,514.9,"Juicy peach slices in syrup, perfect for desserts.",AEY
+128,Creamy Avocado Dip,$83.92,$56.27,http://dummyimage.com/171x100.png/ff4444/ffffff,4.7,938.2,"Rich and creamy dip made with real avocado, great for chips.",FNFV
+129,Smart Fitness Scale,$96.54,$44.79,http://dummyimage.com/197x100.png/cc0000/ffffff,4.4,79.7,Bluetooth scale that tracks body composition through an app.,RFP
+130,Honey Garlic Shrimp,$95.26,$87.86,http://dummyimage.com/208x100.png/5fa2dd/ffffff,4.2,77.3,"Shrimp marinated in a honey garlic sauce, ready to cook.",SWIR
+131,Whipped Cream Cheese,$8.75,$45.89,http://dummyimage.com/206x100.png/dddddd/000000,1.5,401.7,"Light and fluffy cream cheese, perfect for bagels or cooking.",PLAY
+132,Travel Hair Straightener,$30.90,$32.27,http://dummyimage.com/157x100.png/dddddd/000000,3.9,131.4,Compact hair straightener for travel.,SHPG
+133,Elderberry Syrup Kit,$70.03,$91.03,http://dummyimage.com/225x100.png/5fa2dd/ffffff,3.5,340.9,DIY kit to make your own elderberry syrup.,ZTR
+134,Summer Tank Dress,$3.49,$24.76,http://dummyimage.com/243x100.png/cc0000/ffffff,4.6,983.7,"A lightweight tank dress, ideal for warm weather outings.",PSB^W
+135,Fresh Lemons,$57.20,$70.56,http://dummyimage.com/184x100.png/cc0000/ffffff,4.4,854.1,Citrusy lemons perfect for drinks and cooking.,HDSN
+136,Fitness Tracker Watch,$49.23,$49.26,http://dummyimage.com/220x100.png/5fa2dd/ffffff,4.9,481.9,Water-resistant activity tracker and smartwatch features.,DNOW
+137,Smartphone Gimbal,$79.08,$64.37,http://dummyimage.com/190x100.png/ff4444/ffffff,1.2,763.8,Stabilizing gimbal for smooth video recording.,GATX
+138,Compact Electric Kettle,$29.88,$18.96,http://dummyimage.com/195x100.png/5fa2dd/ffffff,3.1,519.9,Quick-boiling kettle for home and office use.,SMG
+139,Honey Wheat Pretzels,$85.09,$85.43,http://dummyimage.com/128x100.png/dddddd/000000,3.9,774.5,Crunchy pretzel sticks made with honey and whole wheat.,WCFB
+140,Organic Coconut Oil,$53.61,$98.87,http://dummyimage.com/211x100.png/dddddd/000000,4.5,304.5,"Cold-pressed coconut oil, perfect for cooking, baking, or skin care.",CENX
+141,Smart Scale,$56.33,$79.66,http://dummyimage.com/153x100.png/dddddd/000000,3.4,413.3,Wi-Fi smart scale for tracking weight and BMI.,SGRP
+142,Baked Falafel,$88.33,$73.31,http://dummyimage.com/156x100.png/5fa2dd/ffffff,2.0,235.1,"Crispy baked falafel balls, perfect for salads",GLP
+143,Honey Mustard Pretzel Bites,$43.24,$1.93,http://dummyimage.com/176x100.png/5fa2dd/ffffff,3.3,275.4,"Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping.",AAL
+144,Field Journal,$48.01,$87.40,http://dummyimage.com/171x100.png/5fa2dd/ffffff,2.2,845.8,Durable journal for nature observations and notes.,CASH
+145,Fresh Lemons,$18.89,$32.45,http://dummyimage.com/243x100.png/cc0000/ffffff,3.0,613.9,Citrusy lemons perfect for drinks and cooking.,GDL^B
+146,Veggie Chips Variety Pack,$77.96,$2.39,http://dummyimage.com/137x100.png/5fa2dd/ffffff,3.2,304.4,A colorful variety of crunchy veggie chips for snacking.,PSDO
+147,Asian Salad Mix,$30.55,$30.75,http://dummyimage.com/105x100.png/5fa2dd/ffffff,2.9,82.7,Fresh greens and veggies for a quick Asian-inspired salad.,AVA
+148,Flavored Popcorn Mix,$94.94,$31.81,http://dummyimage.com/136x100.png/dddddd/000000,2.8,759.2,Popcorn tossed with sweet or savory flavors for a tasty snack.,AVT
+149,Creamy Ranch Dressing,$40.03,$13.00,http://dummyimage.com/242x100.png/ff4444/ffffff,4.8,362.9,Classic ranch dressing for salads and dipping.,WY
+150,Sweet BBQ Dipping Sauce,$20.47,$58.84,http://dummyimage.com/172x100.png/ff4444/ffffff,3.3,918.6,Perfectly balanced sweet and tangy BBQ sauce for dipping or grilling.,FLL
+151,Cranberry Lime Sparkling Water,$0.01,$56.38,http://dummyimage.com/128x100.png/dddddd/000000,2.1,347.1,Refreshing sparkling water infused with cranberry and lime flavors.,EEX
+152,Handheld Shower Head,$13.51,$79.82,http://dummyimage.com/209x100.png/5fa2dd/ffffff,1.4,184.9,Adjustable shower head for a luxurious shower experience.,CIE
+153,Kid's Fruit Snacks,$41.79,$13.25,http://dummyimage.com/114x100.png/dddddd/000000,3.4,814.1,Assorted fruit-flavored gummy snacks that kids love.,GSUM
+154,Electric Egg Cooker,$97.94,$0.08,http://dummyimage.com/201x100.png/cc0000/ffffff,5.0,408.2,Automatically cooks eggs to your desired level.,ABTL
+155,Organic Spinach,$55.07,$10.59,http://dummyimage.com/250x100.png/dddddd/000000,3.2,409.9,"Fresh organic spinach, great for salads or cooking.",PENN
+156,Chicken Sausage,$4.76,$2.11,http://dummyimage.com/245x100.png/5fa2dd/ffffff,3.0,136.5,"Flavorful chicken sausage, low in fat and fully cooked.",NDRA
+157,Coconut Curry Lentil Soup,$81.86,$21.75,http://dummyimage.com/207x100.png/ff4444/ffffff,3.4,271.3,"A hearty soup made with lentils, coconut milk, and a blend of spices for a tropical flavor.",FITB
+158,Pet Hair Vacuum Attachment,$37.31,$94.41,http://dummyimage.com/185x100.png/dddddd/000000,1.6,6.7,Special attachment for vacuum cleaners to remove pet hair easily.,DGRW
+159,Compact Hair Dryer,$23.60,$94.48,http://dummyimage.com/225x100.png/5fa2dd/ffffff,2.2,131.2,Lightweight hair dryer with multiple speed settings.,PKI
+160,Tandoori Chicken Marinade,$47.20,$39.24,http://dummyimage.com/167x100.png/5fa2dd/ffffff,2.7,920.9,Delicious and tangy marinade for grilling or baking chicken.,DVMT
+161,Chocolate Raspberry Tart,$92.17,$93.87,http://dummyimage.com/152x100.png/ff4444/ffffff,1.6,298.5,"Rich tart filled with chocolate and raspberry, a gourmet dessert.",RSO^B
+162,Sturdy Bookends,$90.22,$89.49,http://dummyimage.com/241x100.png/cc0000/ffffff,1.2,762.4,Stylish bookends to keep books organized on shelves.,TRNC
+163,Air Fryer,$95.11,$22.65,http://dummyimage.com/147x100.png/5fa2dd/ffffff,2.8,925.3,Compact air fryer for healthier cooking.,SO
+164,Pasta Maker,$37.30,$80.26,http://dummyimage.com/102x100.png/cc0000/ffffff,2.1,582.1,Manual pasta maker for homemade pasta.,BANF
+165,Smart LED Desk Lamp,$66.50,$27.64,http://dummyimage.com/151x100.png/dddddd/000000,2.9,844.5,Adjustable lamp with multiple brightness levels and colors.,IFGL
+166,Stainless Steel Straws,$8.14,$78.72,http://dummyimage.com/192x100.png/dddddd/000000,1.4,86.4,Set of reusable stainless steel straws for drinks.,FLKS
+167,Protein Bar Variety Pack,$31.37,$77.94,http://dummyimage.com/116x100.png/cc0000/ffffff,2.3,224.7,A pack of assorted nut and protein bars for a quick energy boost.,ULH
+168,Electric Heating Pad,$77.59,$14.43,http://dummyimage.com/128x100.png/5fa2dd/ffffff,1.7,841.9,Microwaveable heating pad for muscle pain relief and relaxation.,LBTYA
+169,Pet Carrier,$87.84,$27.75,http://dummyimage.com/209x100.png/ff4444/ffffff,3.2,418.3,Comfortable pet carrier for travel and vet visits.,ASPN
+170,Gardening Gloves with Claws,$39.66,$64.10,http://dummyimage.com/185x100.png/ff4444/ffffff,2.8,144.0,Durable gloves with built-in claws for digging and planting.,SGBX
+171,Customizable Photo Calendar,$83.90,$24.04,http://dummyimage.com/115x100.png/cc0000/ffffff,3.3,867.0,Personalized calendar with your favorite photos.,VNO^K
+172,Taro Chips,$88.50,$62.15,http://dummyimage.com/220x100.png/cc0000/ffffff,3.0,491.0,"Crispy chips made from taro root, a wonderful snack.",CIL
+173,Garlic Breadsticks,$64.43,$53.46,http://dummyimage.com/162x100.png/5fa2dd/ffffff,2.8,46.1,"Ready-to-bake garlic breadsticks, perfect with pasta dishes.",RNWK
+174,Wireless Security Camera,$68.98,$58.98,http://dummyimage.com/213x100.png/ff4444/ffffff,2.4,174.3,1080p wireless security camera with night vision.,BFO
+175,Karaoke Microphone,$91.37,$64.45,http://dummyimage.com/128x100.png/dddddd/000000,3.2,370.5,Wireless microphone for singing and performances.,RGT
+176,Walnut Halves,$46.67,$46.91,http://dummyimage.com/161x100.png/ff4444/ffffff,4.8,788.5,Fresh walnut halves for baking or snacking.,RNVA
+177,Cream Cheese,$57.50,$32.31,http://dummyimage.com/119x100.png/5fa2dd/ffffff,3.4,240.3,"Smooth and creamy, ideal for spreads or baking.",ZFGN
+178,Microfiber Cleaning Cloth Set,$42.36,$82.72,http://dummyimage.com/158x100.png/5fa2dd/ffffff,4.0,360.4,Assorted cloths for cleaning electronics and delicate surfaces.,ADUS
+179,Peach Fruit Cups,$96.30,$64.62,http://dummyimage.com/126x100.png/dddddd/000000,3.4,967.4,"Juicy peach slices in light syrup, in convenient cups.",QRVO
+180,Sturdy Bookends,$43.48,$54.36,http://dummyimage.com/156x100.png/5fa2dd/ffffff,4.4,209.6,Stylish bookends to keep books organized on shelves.,KNSL
+181,Pasta Maker,$77.17,$5.39,http://dummyimage.com/129x100.png/dddddd/000000,3.5,899.6,Manual pasta maker for homemade pasta.,PRE^G
+182,Orange Ginger Vinaigrette,$57.03,$21.05,http://dummyimage.com/157x100.png/ff4444/ffffff,1.4,640.1,Tangy vinaigrette with orange and ginger flavors.,ISRG
+183,Running Shorts,$13.60,$74.21,http://dummyimage.com/102x100.png/ff4444/ffffff,4.9,315.5,Lightweight and breathable running shorts for your workouts.,TLGT
+184,Wild Rice Pilaf,$76.06,$82.24,http://dummyimage.com/194x100.png/ff4444/ffffff,1.1,473.2,"A mix of wild rice with herbs and spices, ready to serve.",HVT.A
+185,Electric Heating Pad,$5.65,$46.50,http://dummyimage.com/109x100.png/5fa2dd/ffffff,4.3,122.0,Microwaveable heating pad for muscle pain relief and relaxation.,MRVL
+186,Personalized Pet ID Tags,$86.24,$72.91,http://dummyimage.com/207x100.png/dddddd/000000,2.7,530.4,Custom engraved ID tags for pets with your contact information.,MATW
+187,Buffalo Stilton Cheese,$82.31,$38.00,http://dummyimage.com/134x100.png/cc0000/ffffff,1.5,772.5,Spicy blue cheese with a hint of buffalo flavor.,CHA
+188,Sunflower Seeds,$73.79,$51.60,http://dummyimage.com/139x100.png/ff4444/ffffff,2.2,113.4,Salted sunflower seeds perfect for snacking.,PTIE
+189,Classic Leather Wallet,$16.28,$94.52,http://dummyimage.com/200x100.png/ff4444/ffffff,3.6,969.7,A sleek leather wallet that combines style and functionality.,HUNTW
+190,Baked Mac and Cheese,$80.69,$14.42,http://dummyimage.com/182x100.png/cc0000/ffffff,2.0,426.6,Creamy macaroni and cheese baked to perfection.,MLI
+191,Frozen Chicken Nuggets,$4.73,$47.26,http://dummyimage.com/176x100.png/5fa2dd/ffffff,2.2,296.3,Crispy chicken nuggets for quick meals.,HALO
+192,First Aid Kit,$32.68,$4.58,http://dummyimage.com/228x100.png/ff4444/ffffff,2.0,958.9,Comprehensive first aid kit for emergency situations.,BRO
+193,Wall Calendar,$81.59,$1.24,http://dummyimage.com/163x100.png/5fa2dd/ffffff,4.1,912.4,Beautiful wall calendar for organizing your schedule.,ALX
+194,Cinnamon Raisin Bread,$5.72,$34.58,http://dummyimage.com/223x100.png/5fa2dd/ffffff,3.5,44.7,"Sweet bread with cinnamon and raisins, great for breakfast or snacks.",HST
+195,Apple Cinnamon Breakfast Muffins,$98.76,$93.50,http://dummyimage.com/124x100.png/ff4444/ffffff,3.0,962.9,Delicious muffins filled with apples and a hint of cinnamon for breakfast.,AFSI
+196,Portable Refrigerator Freezer,$74.53,$56.86,http://dummyimage.com/217x100.png/cc0000/ffffff,2.4,314.6,Compact fridge ideal for camping and road trips.,WHLRW
+197,Essential Oil Diffuser,$8.83,$29.30,http://dummyimage.com/170x100.png/cc0000/ffffff,1.7,554.2,Ultrasonic diffuser that helps create a calming atmosphere.,GFN
+198,Peanut Butter Banana Smoothie,$45.58,$93.73,http://dummyimage.com/202x100.png/dddddd/000000,3.3,369.7,Smooth and creamy smoothie made with peanut butter and banana.,SWIN
+199,Sports Windbreaker,$99.42,$35.68,http://dummyimage.com/240x100.png/dddddd/000000,3.7,104.3,Lightweight windbreaker for outdoor activities.,AMRK
+200,Smoky BBQ Jackfruit,$14.63,$82.39,http://dummyimage.com/144x100.png/cc0000/ffffff,2.4,635.8,Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish.,SOHOB
+201,Gardening Fairy Figurines,$96.80,$92.40,http://dummyimage.com/213x100.png/cc0000/ffffff,3.8,890.7,Cute fairy figurines to decorate your garden or potted plants.,MILN
+202,Fruit and Nut Energy Bites,$83.58,$86.04,http://dummyimage.com/207x100.png/cc0000/ffffff,2.1,153.8,Natural energy bites packed with fruits and nuts for a perfect snack.,GNT
+203,Classic Baseball Cap,$47.86,$80.48,http://dummyimage.com/192x100.png/dddddd/000000,4.2,330.9,A timeless baseball cap that adds a sporty touch to any outfit.,PRIM
+204,Savory Oats,$58.00,$62.52,http://dummyimage.com/104x100.png/cc0000/ffffff,2.1,343.5,"Instant oats with a savory twist, such as herbs and spices.",FEMS
+205,Vegetable Quinoa Bowl,$35.14,$90.05,http://dummyimage.com/245x100.png/dddddd/000000,2.3,762.4,"A frozen meal featuring quinoa and mixed vegetables, ready to heat and eat.",VRNS
+206,Kids' Dinosaur-Themed Lunchbox,$91.50,$62.22,http://dummyimage.com/158x100.png/cc0000/ffffff,4.2,906.6,Fun lunchbox for kids with a sturdy design.,TSLA
+207,Almond Flour,$34.51,$40.91,http://dummyimage.com/152x100.png/5fa2dd/ffffff,2.4,537.4,"Gluten-free almond flour, perfect for baking.",NMR
+208,Belted Trench Coat,$41.64,$96.02,http://dummyimage.com/184x100.png/cc0000/ffffff,2.6,174.9,Timeless belted trench coat for a polished look during fall.,CCM
+209,Ready-to-Eat Chili,$16.90,$57.06,http://dummyimage.com/130x100.png/cc0000/ffffff,4.8,826.9,"Spicy chili in a can, ready to eat for a filling meal.",CXDC
+210,Wall-Mounted Organizer,$38.63,$54.24,http://dummyimage.com/126x100.png/ff4444/ffffff,1.4,470.4,Practical organizer for keeping your home tidy and clutter-free.,EEQ
+211,Greek Yogurt,$54.40,$54.45,http://dummyimage.com/199x100.png/ff4444/ffffff,4.0,311.1,Creamy Greek yogurt packed with protein and probiotics.,SPLS
+212,Luxury Bath Salts,$72.31,$97.71,http://dummyimage.com/203x100.png/ff4444/ffffff,3.3,416.1,Scented bath salts for relaxation and self-care.,HMC
+213,Non-Stick Crepe Pan,$95.37,$20.70,http://dummyimage.com/249x100.png/ff4444/ffffff,1.9,693.8,Perfectly designed pan for making crepes and pancakes.,THS
+214,Creamy Garlic Mashed Potatoes,$7.77,$3.87,http://dummyimage.com/222x100.png/5fa2dd/ffffff,3.5,764.1,Rich and buttery mashed potatoes with roasted garlic.,BIF
+215,Smart Wi-Fi Light Bulbs,$62.90,$11.12,http://dummyimage.com/102x100.png/5fa2dd/ffffff,2.2,791.5,Energy-efficient LED bulbs that can be controlled via smartphone.,DEO
+216,Peanut Butter Cookies,$10.64,$61.18,http://dummyimage.com/154x100.png/ff4444/ffffff,1.1,141.7,Soft and chewy cookies made with creamy peanut butter.,VTN
+217,Fall-Themed Table Runner,$51.35,$79.06,http://dummyimage.com/139x100.png/ff4444/ffffff,4.4,745.8,Decorative table runner perfect for autumn gatherings.,GFI
+218,Saffron Rice Mix,$70.84,$89.43,http://dummyimage.com/214x100.png/cc0000/ffffff,4.3,713.9,Flavorful rice mix with saffron and spices.,TAPR
+219,Satin Slip Dress,$98.70,$97.68,http://dummyimage.com/172x100.png/5fa2dd/ffffff,2.0,768.4,Luxurious satin slip dress for an elegant evening look.,BTEC
+220,Sweet Chili Dipping Sauce,$26.98,$42.19,http://dummyimage.com/165x100.png/ff4444/ffffff,4.6,410.0,A sweet and spicy sauce ideal for spring rolls or chicken nuggets.,AFI
+221,Trail Mix (Deluxe),$25.77,$63.39,http://dummyimage.com/107x100.png/ff4444/ffffff,4.7,59.4,"A delightful mix of nuts, fruit, and chocolate.",GWRE
+222,Honey,$65.59,$64.79,http://dummyimage.com/180x100.png/cc0000/ffffff,2.0,431.8,"Pure and natural honey, great for sweetening.",AIRT
+223,Honeycrisp Apples,$0.07,$71.11,http://dummyimage.com/175x100.png/5fa2dd/ffffff,2.5,311.2,"Crisp and sweet Honeycrisp apples, freshly picked.",AEP
+224,Adjustable Dumbbells,$95.35,$43.95,http://dummyimage.com/245x100.png/5fa2dd/ffffff,4.0,675.8,Space-saving adjustable dumbbells for strength training.,HBCP
+225,Artisan Flatbreads,$34.97,$33.87,http://dummyimage.com/167x100.png/5fa2dd/ffffff,4.8,914.1,"Thin and crispy flatbreads, perfect for dips.",ANCB
+226,Protein Pancake Mix,$31.64,$8.17,http://dummyimage.com/230x100.png/ff4444/ffffff,4.5,936.8,A protein-packed pancake mix for a nutritious breakfast.,AHL^D
+227,Canned Coconut Milk,$50.29,$15.63,http://dummyimage.com/114x100.png/ff4444/ffffff,1.2,440.3,"Rich coconut milk, great for cooking and baking.",REVG
+228,Woven Storage Baskets,$51.95,$64.82,http://dummyimage.com/219x100.png/5fa2dd/ffffff,2.5,448.5,Stylish baskets for organizing various items in your home.,PMPT
+229,Coconut Granola,$60.76,$92.05,http://dummyimage.com/165x100.png/5fa2dd/ffffff,4.3,428.6,Crunchy granola mixed with coconut flakes.,AKRX
+230,Outdoor String Lights,$36.50,$68.68,http://dummyimage.com/178x100.png/dddddd/000000,3.5,256.7,Fairy lights perfect for decorating patios and backyards.,MCD
+231,Apple Sauce,$62.34,$89.67,http://dummyimage.com/204x100.png/ff4444/ffffff,3.5,79.1,"Unsweetened apple sauce, great for snacks or baking.",UNM
+232,Stainless Steel BBQ Grill Set,$7.03,$45.32,http://dummyimage.com/191x100.png/ff4444/ffffff,2.4,49.5,Essential tools for outdoor barbecues including tongs and spatula.,BBG
+233,Pet Tracking Collar,$21.84,$30.36,http://dummyimage.com/233x100.png/ff4444/ffffff,2.5,896.0,GPS pet collar that helps locate your pet via smartphone app.,ANDAR
+234,Nordic Berry Smoothie,$6.96,$95.30,http://dummyimage.com/120x100.png/5fa2dd/ffffff,4.6,467.2,Frozen smoothie blend with berries for a quick and healthy breakfast.,TILE
+235,Smartphone Tripod with Bluetooth Remote,$23.92,$80.43,http://dummyimage.com/109x100.png/5fa2dd/ffffff,2.8,622.4,Tripod with wireless remote for effortless photo-taking.,SSRI
+236,Silicone Baking Cups,$21.72,$36.47,http://dummyimage.com/189x100.png/cc0000/ffffff,4.3,411.5,Set of reusable baking cups for muffins and cupcakes.,OCC
+237,Cinnamon Rolls,$97.96,$93.92,http://dummyimage.com/241x100.png/ff4444/ffffff,4.4,863.0,"Sweet and gooey cinnamon rolls, ready to bake.",RYAM
+238,Craft Beer Mustard,$34.21,$90.13,http://dummyimage.com/198x100.png/cc0000/ffffff,1.0,16.2,Stone-ground mustard infused with craft beer for a gourmet touch.,ESND
+239,High-Pressure Handheld Shower Head,$58.43,$47.68,http://dummyimage.com/193x100.png/ff4444/ffffff,4.8,422.6,Shower head designed for a strong spray and complete coverage.,KIM^J
+240,Comfort Flats,$89.17,$26.47,http://dummyimage.com/167x100.png/ff4444/ffffff,1.6,884.9,Everyday flats that combine comfort and style.,HMNF
+241,Vegetarian Stir Fry Sauce,$68.87,$45.94,http://dummyimage.com/157x100.png/cc0000/ffffff,1.5,144.8,Flavorful sauce perfect for stir-frying vegetables and tofu.,BID
+242,Dog Training Whistle,$41.88,$42.78,http://dummyimage.com/128x100.png/dddddd/000000,4.9,89.3,High-frequency whistle for training your dog effectively.,HIE
+243,Tandoori Chicken Skewers,$99.69,$5.41,http://dummyimage.com/110x100.png/cc0000/ffffff,4.0,57.2,Marinated chicken skewers infused with traditional tandoori spices.,CPF
+244,Spicy Salsa Verde,$14.93,$32.38,http://dummyimage.com/155x100.png/ff4444/ffffff,4.3,26.8,"Green salsa with a spicy kick, great for dipping.",VVUS
+245,Fresh Basil Pesto,$50.51,$49.13,http://dummyimage.com/137x100.png/ff4444/ffffff,2.8,94.4,"A fresh, flavorful basil pesto for pasta and more",PULM
+246,Educational STEM Kit,$39.74,$14.21,http://dummyimage.com/167x100.png/ff4444/ffffff,2.5,656.6,Hands-on experience with science and engineering projects.,PDBC
+247,Scent Diffuser,$8.05,$62.43,http://dummyimage.com/216x100.png/dddddd/000000,3.1,65.3,Ultrasonic essential oil diffuser with LED lights.,FBNC
+248,Infrared Thermometer,$57.33,$5.38,http://dummyimage.com/198x100.png/dddddd/000000,4.4,477.4,Non-contact thermometer for checking temperatures instantly.,GBNK
+249,Italian Herbal Seasoning,$47.33,$53.35,http://dummyimage.com/192x100.png/cc0000/ffffff,1.4,685.5,A fragrant blend of Italian herbs for pasta sauces and marinades.,HRTG
+250,Cereal Dispenser with Portion Control,$13.19,$87.87,http://dummyimage.com/101x100.png/ff4444/ffffff,2.1,474.8,Maintain freshness and dispense cereal easily.,SFBS
+251,Adjustable Standing Desk,$56.28,$16.39,http://dummyimage.com/147x100.png/cc0000/ffffff,3.6,8.5,Ergonomic desk that adjusts height for standing or sitting.,PFIN
+252,Whole Roasted Chicken,$52.98,$58.52,http://dummyimage.com/174x100.png/dddddd/000000,2.7,211.0,"Seasoned and roasted to perfection, ready to eat.",OVLY
+253,High-Speed Hand Blender,$30.75,$75.09,http://dummyimage.com/172x100.png/5fa2dd/ffffff,3.2,191.1,Powerful hand blender for soups and smoothies.,ELS
+254,Nut Butter Cups,$6.81,$80.34,http://dummyimage.com/193x100.png/5fa2dd/ffffff,3.6,773.5,Delicious dark chocolate with creamy nut butter inside.,TISA
+255,Faux Leather Leggings,$35.66,$9.07,http://dummyimage.com/178x100.png/ff4444/ffffff,2.6,991.1,Stylish faux leather leggings for a trendy outfit.,DNP
+256,Wireless Induction Charger,$22.97,$33.28,http://dummyimage.com/150x100.png/5fa2dd/ffffff,4.7,227.1,Qi-certified charger for fast wireless charging of smartphones.,SNV^C
+257,Bamboo Bathtub Caddy,$32.38,$4.94,http://dummyimage.com/240x100.png/dddddd/000000,2.5,775.8,"Expandable caddy for holding books, phones, and snacks while in the bath.",MVO
+258,Set of Measuring Spoons,$86.10,$55.62,http://dummyimage.com/117x100.png/ff4444/ffffff,3.9,69.5,Stainless steel measuring spoons set for cooking.,BGNE
+259,Mediterranean Couscous Salad,$64.44,$41.42,http://dummyimage.com/156x100.png/5fa2dd/ffffff,4.7,523.8,"Couscous salad with cucumbers, tomatoes, feta, and olives, ready to eat.",VWR
+260,Breathable Face Mask Set,$31.36,$36.82,http://dummyimage.com/135x100.png/cc0000/ffffff,1.4,956.0,Comfortable and reusable face masks in different styles.,AXTI
+261,Oven-Baked Potato Chips,$11.12,$89.02,http://dummyimage.com/136x100.png/dddddd/000000,2.2,118.9,Light and crispy baked potato chips in assorted flavors.,HAS
+262,Organic Coconut Flakes,$35.05,$14.62,http://dummyimage.com/133x100.png/cc0000/ffffff,3.3,55.4,Unsweetened coconut flakes for baking and snacking.,WNC
+263,Cinnamon Spiced Almonds,$70.54,$75.32,http://dummyimage.com/221x100.png/5fa2dd/ffffff,3.9,144.8,Crispy almonds coated with cinnamon and sugar for a sweet and crunchy snack.,SWM
+264,Basil Lemonade,$84.84,$21.25,http://dummyimage.com/180x100.png/dddddd/000000,3.0,310.0,Refreshing basil-infused lemonade for a cool drink.,DGLY
+265,Rice Pudding,$60.32,$93.40,http://dummyimage.com/116x100.png/5fa2dd/ffffff,4.0,630.5,Creamy dessert made with rice and cinnamon.,MRIN
+266,Educational STEM Kit,$3.35,$44.52,http://dummyimage.com/111x100.png/ff4444/ffffff,3.6,142.3,Hands-on experience with science and engineering projects.,CMFN
+267,Cheddar Cheese Slices,$97.25,$90.82,http://dummyimage.com/232x100.png/dddddd/000000,2.9,344.2,"Creamy cheddar cheese slices, perfect for sandwiches and snacks.",JSML
+268,Camera Lens Cleaning Kit,$38.37,$17.06,http://dummyimage.com/201x100.png/cc0000/ffffff,1.6,995.1,Complete cleaning kit for camera lenses.,ZN
+269,Bike Repair Tool Kit,$30.71,$29.11,http://dummyimage.com/101x100.png/cc0000/ffffff,2.7,698.1,Essential tools for bike maintenance and repair.,AMG
+270,Mango Chutney,$40.23,$78.74,http://dummyimage.com/238x100.png/dddddd/000000,4.4,906.5,Sweet and tangy mango chutney for a flavorful dip.,NTRI
+271,Chocolate Protein Powder,$7.78,$82.28,http://dummyimage.com/239x100.png/5fa2dd/ffffff,2.1,674.8,Rich chocolate protein powder for smoothies and baking.,DHT
+272,Canned Black Beans,$51.94,$96.49,http://dummyimage.com/112x100.png/5fa2dd/ffffff,4.1,260.0,"Delicious and hearty black beans, great for soups or salads.",JAX
+273,Ricotta Cheese,$78.50,$61.43,http://dummyimage.com/180x100.png/ff4444/ffffff,2.0,123.8,"Creamy ricotta cheese, great for cooking or making desserts.",GNTX
+274,Jigsaw Puzzle,$18.06,$9.06,http://dummyimage.com/238x100.png/5fa2dd/ffffff,4.5,759.1,500-piece jigsaw puzzle featuring beautiful scenery.,TIF
+275,Cocktail Shaker Set,$58.13,$4.47,http://dummyimage.com/126x100.png/dddddd/000000,1.1,70.6,"Bartender kit with shaker, jigger, and strainer.",SHIPW
+276,Ginger Turmeric Shots,$17.00,$53.49,http://dummyimage.com/122x100.png/5fa2dd/ffffff,3.4,678.0,Ready-to-drink shots made with fresh ginger and turmeric.,WSCI
+277,Coffee Subscription Service,$8.87,$51.95,http://dummyimage.com/158x100.png/ff4444/ffffff,2.2,4.0,Monthly subscription for freshly roasted coffee delivered to your door.,CHSCO
+278,Magnetic Spice Containers,$39.09,$16.00,http://dummyimage.com/141x100.png/cc0000/ffffff,2.2,759.1,Set of magnetic jars for convenient spice organization.,ADVM
+279,Garlic Parmesan Wings,$37.03,$93.08,http://dummyimage.com/145x100.png/cc0000/ffffff,4.9,902.5,Frozen chicken wings with garlic parmesan sauce.,PSEC
+280,Yoga Wheel,$35.92,$88.50,http://dummyimage.com/195x100.png/ff4444/ffffff,4.2,799.7,Supportive yoga wheel for deep stretching and balance.,RARE
+281,Zesty Garlic Hummus,$20.17,$54.78,http://dummyimage.com/152x100.png/5fa2dd/ffffff,4.9,569.4,Creamy chickpea dip infused with zesty garlic flavor.,CHMA
+282,Avocados,$17.59,$93.41,http://dummyimage.com/182x100.png/cc0000/ffffff,2.9,158.7,"Fresh, creamy avocados ideal for salads and guacamole.",MPW
+283,Home Cleaning Robot,$35.30,$64.76,http://dummyimage.com/124x100.png/cc0000/ffffff,1.3,898.6,Automated cleaning robot for hassle-free home maintenance.,KNOP
+284,Electric Razor,$49.25,$35.12,http://dummyimage.com/236x100.png/cc0000/ffffff,3.7,396.8,Rechargeable electric razor for a smooth shave.,SGBK
+285,Savory Italian Herbs,$55.48,$71.18,http://dummyimage.com/176x100.png/dddddd/000000,3.7,874.7,A blend of dried Italian herbs for cooking.,RKDA
+286,Pet Safety Harness,$28.76,$15.66,http://dummyimage.com/190x100.png/ff4444/ffffff,3.1,205.2,Comfortable harness designed to keep pets safe in the car.,UBP^F
+287,Gaming Mousepad,$46.35,$39.07,http://dummyimage.com/104x100.png/cc0000/ffffff,4.0,387.6,Oversized gaming mousepad with smooth surface.,FFWM
+288,Chickpea Pancakes,$64.53,$43.50,http://dummyimage.com/227x100.png/5fa2dd/ffffff,2.5,873.2,"Savory pancakes made with chickpea flour, high in protein.",LCAHU
+289,Sports Bottle,$61.27,$74.94,http://dummyimage.com/209x100.png/5fa2dd/ffffff,2.5,925.8,BPA-free sports bottle with flip-top lid.,MITT^B
+290,Frozen Burritos,$9.76,$56.31,http://dummyimage.com/236x100.png/ff4444/ffffff,2.1,268.1,Easy-to-heat frozen burritos for a quick meal.,AAPC
+291,Dog Training Clicker,$3.99,$85.54,http://dummyimage.com/168x100.png/cc0000/ffffff,4.7,909.3,Training tool for reinforcing commands and behavior in dogs.,BHACU
+292,Dog Training Whistle,$7.12,$52.10,http://dummyimage.com/186x100.png/ff4444/ffffff,4.5,444.6,High-frequency whistle for training your dog effectively.,ECL
+293,Mini Pretzels,$13.35,$22.59,http://dummyimage.com/154x100.png/cc0000/ffffff,4.3,260.9,"Crispy mini pretzels, a great snack any time of day.",EDGW
+294,Smart Light Bulbs,$93.62,$58.65,http://dummyimage.com/142x100.png/5fa2dd/ffffff,3.0,501.6,Color-changing smart LED bulbs compatible with Alexa.,CLNS^D
+295,Smartphone Gimbal Stabilizer,$42.45,$48.41,http://dummyimage.com/153x100.png/cc0000/ffffff,3.2,199.2,Stabilizer for smooth video recording with smartphones.,AGNCB
+296,Tailored Blazer,$59.37,$98.64,http://dummyimage.com/228x100.png/5fa2dd/ffffff,1.9,331.5,Sharp tailored blazer perfect for office wear and professional events.,MRTN
+297,Body Pillow Case,$59.02,$96.04,http://dummyimage.com/140x100.png/ff4444/ffffff,1.7,634.2,Soft and breathable pillowcase for body pillows.,TAYD
+298,Chunky Knit Sweater,$3.29,$59.40,http://dummyimage.com/195x100.png/cc0000/ffffff,4.8,414.8,Cozy oversized sweater perfect for chilly days with a textured knit design.,GM.WS.B
+299,Ethical Wool Scarf,$79.81,$18.56,http://dummyimage.com/124x100.png/ff4444/ffffff,2.9,10.4,A warm and sustainable wool scarf for chilly days.,HIX
+300,Self-Watering Planter,$4.02,$85.49,http://dummyimage.com/105x100.png/ff4444/ffffff,4.1,537.1,Planter with self-watering feature for easy plant care.,AUO
+301,Cranberry Orange Juice,$26.57,$49.65,http://dummyimage.com/192x100.png/ff4444/ffffff,2.8,497.6,Refreshing juice blend of cranberries and oranges.,FOANC
+302,Vanilla Bean Greek Yogurt,$44.99,$2.03,http://dummyimage.com/103x100.png/dddddd/000000,3.2,40.7,Smooth Greek yogurt infused with vanilla bean flavor.,WVVIP
+303,Stainless Steel Straws,$32.36,$43.22,http://dummyimage.com/144x100.png/5fa2dd/ffffff,1.6,509.1,Set of reusable stainless steel straws for drinks.,NEU
+304,Baby Safety Corner Guards,$95.16,$12.95,http://dummyimage.com/134x100.png/dddddd/000000,4.3,947.3,Soft corner protectors to keep babies safe at home.,DL
+305,Digital Meat Thermometer,$54.43,$45.71,http://dummyimage.com/134x100.png/ff4444/ffffff,4.9,818.8,Instant-read thermometer for precise cooking temperatures.,ARNC^B
+306,Vegan Mac & Cheese,$76.79,$9.36,http://dummyimage.com/116x100.png/ff4444/ffffff,4.1,528.2,Creamy vegan mac and cheese made with cashew cheese.,ESG
+307,Veggie Lovers Pizza,$62.48,$60.77,http://dummyimage.com/195x100.png/cc0000/ffffff,3.7,830.5,Frozen pizza loaded with fresh vegetables and mozzarella cheese.,JLS
+308,Basil Tomato Soup,$53.00,$22.16,http://dummyimage.com/159x100.png/ff4444/ffffff,3.4,943.7,"Rich tomato soup flavored with fresh basil, ready to heat up.",WWD
+309,Waffle Maker,$29.86,$41.98,http://dummyimage.com/203x100.png/cc0000/ffffff,1.3,7.4,Make delicious waffles with this user-friendly device.,SWNC
+310,Teriyaki Stir-Fry Sauce,$12.13,$12.19,http://dummyimage.com/209x100.png/ff4444/ffffff,1.0,543.5,Savory teriyaki sauce for stir-frying veggies or meats.,IMNP          
+311,Coconut Curry Lentils,$27.73,$78.32,http://dummyimage.com/227x100.png/cc0000/ffffff,3.8,288.9,Lentils cooked in a coconut curry for a hearty meal.,KFN^
+312,Sweet Potato Chips,$61.32,$97.03,http://dummyimage.com/231x100.png/5fa2dd/ffffff,2.2,682.4,"Deliciously crunchy sweet potato chips, seasoned to perfection.",EZPW
+313,Portable Leaf Blower,$59.10,$17.69,http://dummyimage.com/239x100.png/ff4444/ffffff,2.5,960.2,Lightweight leaf blower for maintaining outdoor spaces.,JSYNR
+314,Wireless Game Controller,$32.81,$3.96,http://dummyimage.com/111x100.png/dddddd/000000,2.5,800.3,Ergonomic wireless controller for gaming consoles.,TOL
+315,Glass Water Bottle,$18.25,$16.01,http://dummyimage.com/195x100.png/5fa2dd/ffffff,3.8,793.1,Borosilicate glass water bottle with silicone sleeve.,SQZZ
+316,Frozen Mixed Vegetables,$65.25,$84.81,http://dummyimage.com/177x100.png/dddddd/000000,3.6,633.0,"A mix of carrots, peas, and corn, easy to stir-fry.",PM
+317,Cheddar Cheese Crackers,$94.35,$15.22,http://dummyimage.com/179x100.png/dddddd/000000,4.8,504.1,Crunchy crackers topped with real cheddar cheese flavor.,MON
+318,Organic Coconut Flour,$11.02,$70.41,http://dummyimage.com/197x100.png/5fa2dd/ffffff,2.5,283.3,Finely ground flour from dried coconut meat.,WIW
+319,Classic Cheesecake Mix,$38.28,$47.46,http://dummyimage.com/124x100.png/cc0000/ffffff,1.0,253.5,"A simple, no-bake cheesecake mix to create your own delicious cheesecake.",KKR^B
+320,Lemon Sorbet,$26.76,$57.69,http://dummyimage.com/174x100.png/dddddd/000000,2.4,404.5,Refreshing sorbet with a zesty lemon flavor.,ABCD
+321,Sliced Bread,$12.21,$70.59,http://dummyimage.com/193x100.png/cc0000/ffffff,1.0,81.6,"Soft and fresh sliced bread, perfect for sandwiches.",ZEUS
+322,Mesh Laundry Bags Set,$49.23,$23.36,http://dummyimage.com/205x100.png/5fa2dd/ffffff,1.7,828.8,Laundry bags perfect for delicates and organizing clothes.,METC
+323,Tomato Basil Soup,$54.05,$28.73,http://dummyimage.com/149x100.png/5fa2dd/ffffff,1.1,990.1,"A classic soup combining tomatoes and basil, great with grilled cheese sandwiches.",PANL
+324,V-Neck Sweater,$28.96,$18.28,http://dummyimage.com/140x100.png/5fa2dd/ffffff,1.9,879.5,Classic V-neck sweater crafted from soft wool for warmth and style.,LAKE
+325,Luxury Bath Salts,$22.24,$57.16,http://dummyimage.com/148x100.png/dddddd/000000,2.3,922.0,Scented bath salts for relaxation and self-care.,GSM
+326,Electronic Drum Kit,$88.78,$20.08,http://dummyimage.com/123x100.png/ff4444/ffffff,3.9,861.8,Compact electronic drum kit for musicians of all levels.,RGEN
+327,Dark Chocolate Tart,$33.65,$66.97,http://dummyimage.com/229x100.png/ff4444/ffffff,4.1,734.9,Decadent tart made with rich dark chocolate.,CUBN
+328,Air Mattress,$77.10,$39.15,http://dummyimage.com/144x100.png/dddddd/000000,4.1,441.1,Inflatable air mattress for convenient sleeping.,RYAM^A
+329,Teriyaki Beef Strips,$46.46,$64.31,http://dummyimage.com/149x100.png/ff4444/ffffff,2.8,228.9,Marinated beef strips in teriyaki sauce for easy grilling.,APTO
+330,Stylish Wireless Earbuds,$4.08,$36.53,http://dummyimage.com/162x100.png/cc0000/ffffff,1.1,564.6,True wireless earbuds with excellent sound quality.,GPT^A
+331,Silicone Baking Molds,$4.57,$6.82,http://dummyimage.com/129x100.png/ff4444/ffffff,3.6,106.5,Set of flexible molds for baking cakes and pastries.,TMO
+332,Cinnamon Spiced Almonds,$17.90,$95.86,http://dummyimage.com/159x100.png/5fa2dd/ffffff,2.1,473.8,Crispy almonds coated with cinnamon and sugar for a sweet and crunchy snack.,BVSN
+333,Balsamic Glazed Brussels Sprouts,$49.65,$79.53,http://dummyimage.com/208x100.png/cc0000/ffffff,1.6,114.3,Roasted Brussels sprouts drizzled with balsamic glaze.,DL
+334,Over-The-Door Shoe Organizer,$77.08,$33.28,http://dummyimage.com/228x100.png/cc0000/ffffff,3.9,844.3,Space-saving shoe organizer for tight spaces.,NETS
+335,Pineapple Chunks (canned),$24.51,$43.14,http://dummyimage.com/234x100.png/cc0000/ffffff,1.1,386.6,Sweet pineapple chunks in syrup.,LPG
+336,Roasted Garlic Aioli,$58.69,$86.55,http://dummyimage.com/168x100.png/dddddd/000000,1.4,366.2,Flavored aioli made with roasted garlic,CMRE^D
+337,Peach Slices in Syrup,$60.88,$11.39,http://dummyimage.com/227x100.png/dddddd/000000,2.8,289.4,"Sweet and tender peach slices preserved in syrup, great for desserts.",AGFSW
+338,Tea Infuser,$32.96,$45.19,http://dummyimage.com/230x100.png/5fa2dd/ffffff,1.7,98.6,Silicone tea infuser for brewing loose leaf tea.,PAR
+339,Creamy Spinach Dip,$9.24,$36.05,http://dummyimage.com/244x100.png/5fa2dd/ffffff,4.1,705.2,"Deliciously creamy spinach dip, perfect for parties.",HTD
+340,Dog Training Clicker,$35.30,$95.84,http://dummyimage.com/209x100.png/5fa2dd/ffffff,5.0,39.7,Training tool for reinforcing commands and behavior in dogs.,KEY^I
+341,Rice Pilaf Mix,$54.78,$8.13,http://dummyimage.com/122x100.png/dddddd/000000,1.5,465.5,Quick and easy rice pilaf mix for side dishes.,AUY
+342,Pomegranate Juice,$23.49,$38.21,http://dummyimage.com/135x100.png/dddddd/000000,2.6,907.0,"Fresh pomegranate juice, rich in antioxidants.",MD
+343,Pet Bed,$9.64,$22.40,http://dummyimage.com/111x100.png/ff4444/ffffff,4.7,542.5,Comfortable pet bed for small to medium-sized dogs.,GDDY
+344,Wireless HDMI Transmitter,$36.52,$48.05,http://dummyimage.com/186x100.png/5fa2dd/ffffff,4.4,140.2,Stream HD video wirelessly to your TV.,MTB
+345,Smartphone Projector,$16.17,$1.82,http://dummyimage.com/237x100.png/dddddd/000000,2.8,404.5,DIY projector that magnifies your smartphone screen for movie nights.,TRNS
+346,Pet Hair Vacuum Cleaner Attachment,$64.34,$10.86,http://dummyimage.com/213x100.png/ff4444/ffffff,1.2,828.0,Specialized attachment for removing pet hair from surfaces.,SHW
+347,Mini Waffle Maker,$96.63,$53.05,http://dummyimage.com/214x100.png/dddddd/000000,3.7,704.2,Compact waffle maker for perfect small waffles.,BCEI
+348,Non-Stick Baking Sheets,$55.45,$30.20,http://dummyimage.com/191x100.png/ff4444/ffffff,2.7,50.4,Set of baking sheets for effortless baking.,BSET
+349,Natural Soy Candles,$79.48,$79.28,http://dummyimage.com/200x100.png/ff4444/ffffff,2.9,920.4,Eco-friendly soy candles with a variety of scents.,CRCM
+350,Wireless Security System,$25.35,$86.81,http://dummyimage.com/126x100.png/dddddd/000000,4.5,169.3,Comprehensive camera and alert system for home security.,AAPC
+351,Travel Document Organizer,$17.28,$31.45,http://dummyimage.com/207x100.png/dddddd/000000,1.7,320.9,"Organize travel documents, passport, and cards.",SB^B
+352,Adjustable Height Standing Desk Converter,$49.22,$28.83,http://dummyimage.com/219x100.png/5fa2dd/ffffff,2.5,453.4,Convert your desk to a standing desk easily.,JSML
+353,Almond Butter Cups,$84.44,$99.98,http://dummyimage.com/243x100.png/5fa2dd/ffffff,3.8,606.4,"Rich chocolate cups filled with almond butter, a delicious treat.",DGRS
+354,Pumpkin Spice Coffee,$60.45,$68.47,http://dummyimage.com/232x100.png/dddddd/000000,3.6,126.1,"Coffee blend infused with pumpkin spice, perfect for fall.",PSCE
+355,Organic Sweet Potatoes,$31.44,$16.32,http://dummyimage.com/169x100.png/cc0000/ffffff,1.1,555.6,"Fresh and organic sweet potatoes, ideal for roasting.",JSML
+356,Children's Educational Workbook,$95.57,$16.92,http://dummyimage.com/166x100.png/5fa2dd/ffffff,3.2,91.3,Activity workbook for early learning and fun.,KRO
+357,Handheld Vacuum,$80.59,$94.68,http://dummyimage.com/193x100.png/5fa2dd/ffffff,2.7,712.9,Cordless handheld vacuum for quick cleanups.,GENC
+358,Frozen Vegetarian Pizza,$55.08,$5.05,http://dummyimage.com/183x100.png/dddddd/000000,2.2,524.8,A delicious pizza loaded with vegetables,AHPAU
+359,Rainbow Veggie Chips,$79.03,$66.06,http://dummyimage.com/164x100.png/ff4444/ffffff,3.9,11.7,"Colorful veggie chips made from beets, carrots, and sweet potatoes.",EGO
+360,Honey Sriracha Chicken Bites,$24.21,$93.76,http://dummyimage.com/175x100.png/dddddd/000000,4.6,305.7,"Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.",PLW
+361,Over-Ear Headphones,$14.85,$6.55,http://dummyimage.com/174x100.png/dddddd/000000,1.5,710.4,Comfortable over-ear headphones with deep bass.,BXP^B
+362,Grapes (red),$47.70,$44.36,http://dummyimage.com/106x100.png/cc0000/ffffff,2.6,728.7,"Fresh seedless red grapes, perfect for snacking.",FRME
+363,Beef Jerky,$91.29,$9.16,http://dummyimage.com/250x100.png/cc0000/ffffff,5.0,803.2,"Savory, protein-rich beef jerky for on-the-go snacking.",DELT
+364,Camera Lens Cleaning Kit,$88.98,$77.98,http://dummyimage.com/128x100.png/cc0000/ffffff,2.7,857.1,Complete cleaning kit for camera lenses.,EPR
+365,Comfortable Jogger Pants,$23.94,$34.89,http://dummyimage.com/108x100.png/5fa2dd/ffffff,4.3,311.6,"Relaxed fit joggers made from soft fleece, ideal for lounging or workouts.",OMAB
+366,Portable Hammock with Stand,$94.48,$96.28,http://dummyimage.com/138x100.png/5fa2dd/ffffff,2.4,526.2,Lightweight hammock with a sturdy stand for relaxation anywhere.,NTRI
+367,Graphic Sweatshirt,$81.05,$61.76,http://dummyimage.com/147x100.png/ff4444/ffffff,4.2,769.6,A comfortable sweatshirt featuring a bold graphic print.,STRM
+368,Cheesy Cauliflower Bake,$10.85,$55.20,http://dummyimage.com/132x100.png/5fa2dd/ffffff,4.3,290.9,"A frozen cheesy bake made with cauliflower, great as a side dish or a vegetarian meal.",NTEST.B
+369,Puzzle 3D Model Kit,$76.96,$4.04,http://dummyimage.com/110x100.png/5fa2dd/ffffff,2.0,294.9,3D model puzzle kit for creative builders.,PACW
+370,Chocolate Chip Cliff Bars,$0.71,$15.18,http://dummyimage.com/217x100.png/ff4444/ffffff,2.2,478.6,Nutritious energy bars packed with chocolate chips.,FCH^A
+371,Wireless Charging Pad,$84.10,$42.77,http://dummyimage.com/184x100.png/dddddd/000000,2.6,680.3,Sleek wireless charging pad for smartphones.,AGI
+372,Leather Crossbody Bag,$58.04,$88.35,http://dummyimage.com/177x100.png/cc0000/ffffff,4.5,472.8,A chic leather crossbody bag for everyday use.,AXDX
+373,Elegant Maxi Skirt,$9.80,$7.47,http://dummyimage.com/237x100.png/5fa2dd/ffffff,2.5,389.4,Float through the day in this beautiful floor-length skirt.,OKE
+374,Spaghetti Squash,$57.32,$26.06,http://dummyimage.com/217x100.png/5fa2dd/ffffff,1.1,591.7,Low-carb vegetable for pasta alternatives.,HOFT
+375,Cheddar Cheese Crackers,$79.72,$29.57,http://dummyimage.com/168x100.png/5fa2dd/ffffff,3.5,300.1,Crunchy crackers topped with real cheddar cheese flavor.,DLPH
+376,Pet Training Clicker,$41.82,$29.09,http://dummyimage.com/210x100.png/5fa2dd/ffffff,4.2,745.5,Simple tool to train your pet with positive reinforcement.,GURE
+377,Roasted Sweet Corn,$47.60,$97.91,http://dummyimage.com/184x100.png/5fa2dd/ffffff,4.7,125.0,Sweet corn roasted to perfection for a delightful side.,KIN
+378,Mechanical Pencil Set,$44.83,$31.53,http://dummyimage.com/230x100.png/dddddd/000000,1.5,152.7,"Precision pencils for drawing, sketching, and writing.",VBLT
+379,Digital Wireless Meat Thermometer,$77.81,$80.81,http://dummyimage.com/224x100.png/dddddd/000000,4.1,594.3,Bluetooth thermometer that alerts you when your meat is done.,SOI
+380,Portable Hammock with Stand,$29.03,$43.55,http://dummyimage.com/239x100.png/cc0000/ffffff,3.8,881.7,Lightweight hammock with a sturdy stand for relaxation anywhere.,FKLYU
+381,Roasted Garlic Pasta Sauce,$63.78,$31.39,http://dummyimage.com/181x100.png/dddddd/000000,1.2,407.6,A flavorful pasta sauce made with roasted garlic.,KNDI
+382,Ice Cream Maker,$23.54,$76.54,http://dummyimage.com/200x100.png/ff4444/ffffff,4.2,766.7,Homemade ice cream maker for delicious desserts.,TECH
+383,Garlic Parmesan Wings,$63.33,$41.85,http://dummyimage.com/201x100.png/ff4444/ffffff,2.7,909.8,Frozen chicken wings with garlic parmesan sauce.,SXI
+384,Electric Wine Opener,$3.07,$68.17,http://dummyimage.com/199x100.png/ff4444/ffffff,3.9,817.3,Rechargeable electric wine opener for effortless uncorking.,OMAM
+385,Bock Beer Mustard,$31.37,$88.45,http://dummyimage.com/112x100.png/ff4444/ffffff,4.3,418.8,"Flavorful mustard with a tangy kick, perfect for hot dogs and sandwiches.",HIHO
+386,Hiking Water Bottle with Filter,$33.88,$53.34,http://dummyimage.com/220x100.png/ff4444/ffffff,4.3,764.5,8oz water bottle with built-in filter for clean drinking water.,SFR
+387,Safety Goggles,$86.75,$52.48,http://dummyimage.com/113x100.png/dddddd/000000,4.9,440.0,Protective goggles for DIY and construction work.,WALA
+388,Fitness Tracker Band,$51.69,$79.80,http://dummyimage.com/187x100.png/5fa2dd/ffffff,2.4,366.3,Affordable fitness tracker with heart rate monitor.,VDTH
+389,Weighted Blanket for Adults,$42.83,$17.84,http://dummyimage.com/210x100.png/dddddd/000000,3.1,194.1,A calming blanket that provides gentle pressure for relaxation.,FINX
+390,Basil-infused Olive Oil,$7.78,$21.99,http://dummyimage.com/190x100.png/cc0000/ffffff,3.1,729.5,Extra virgin olive oil infused with fresh basil.,RBA
+391,Cheddar & Bacon Potato Skins,$40.01,$45.90,http://dummyimage.com/206x100.png/ff4444/ffffff,2.0,91.1,Gourmet potato skins loaded with cheddar cheese and bacon.,ESXB
+392,Portable Bluetooth Headphones,$25.87,$88.05,http://dummyimage.com/205x100.png/cc0000/ffffff,1.9,657.1,Wireless headphones with noise-canceling features.,ASET
+393,Peach Fruit Cups,$70.43,$44.90,http://dummyimage.com/224x100.png/ff4444/ffffff,4.0,30.7,"Juicy peach slices in light syrup, in convenient cups.",CCI
+394,Cotton Sweatpants,$11.26,$63.39,http://dummyimage.com/100x100.png/dddddd/000000,1.4,236.4,Soft and breathable cotton sweatpants perfect for lounging or workouts.,CBPX
+395,Reflective Safety Vest,$73.72,$87.41,http://dummyimage.com/219x100.png/5fa2dd/ffffff,3.5,879.8,Bright safety vest for outdoor visibility during any activity.,EIGR
+396,Self-Adhesive Wallpaper,$24.28,$33.31,http://dummyimage.com/125x100.png/cc0000/ffffff,3.3,75.1,Peel and stick wallpaper for easy home decor changes.,WMAR
+397,Biodegradable Phone Case,$93.76,$45.94,http://dummyimage.com/106x100.png/ff4444/ffffff,1.0,502.4,Eco-friendly phone case designed to decompose safely.,CDEV
+398,Sesame Garlic Stir-Fry Sauce,$56.29,$71.66,http://dummyimage.com/123x100.png/ff4444/ffffff,4.4,278.7,A flavorful sauce for stir-frying vegetables and meats.,PNW
+399,Mini Projector,$56.79,$84.89,http://dummyimage.com/196x100.png/5fa2dd/ffffff,2.6,902.5,Portable projector with 1080p resolution for movies.,HL^B
+400,Self-Stirring Mug,$70.93,$11.47,http://dummyimage.com/216x100.png/5fa2dd/ffffff,1.7,835.5,Automated stirring for your drinks with just a press of a button.,ECHO
+401,Digital Thermostat,$3.21,$19.03,http://dummyimage.com/166x100.png/cc0000/ffffff,2.2,422.5,Programmable digital thermostat for home heating.,ASET
+402,Graphic Tee,$66.77,$91.00,http://dummyimage.com/248x100.png/5fa2dd/ffffff,1.6,889.5,Soft cotton graphic tee available in various designs.,INDY
+403,Coconut Almond Granola,$5.45,$22.49,http://dummyimage.com/170x100.png/dddddd/000000,2.6,786.2,"Crunchy granola made with oats, almonds, and coconut flakes.",GJP
+404,Kale Caesar Salad Kit,$64.75,$64.09,http://dummyimage.com/153x100.png/dddddd/000000,4.4,950.8,Fresh kale with Caesar dressing and croutons.,DTK
+405,Yoga Mat,$88.53,$47.91,http://dummyimage.com/126x100.png/dddddd/000000,1.4,861.4,Non-slip yoga mat for optimal grip and comfort.,VLY
+406,Gluten-Free Bread,$40.72,$45.92,http://dummyimage.com/223x100.png/cc0000/ffffff,4.6,963.7,Soft and tasty gluten-free sandwich bread.,PRO
+407,Portable Massage Gun,$52.97,$58.49,http://dummyimage.com/157x100.png/dddddd/000000,3.5,903.5,Personal massager for muscle recovery.,KO
+408,Fall-Themed Table Runner,$36.71,$96.13,http://dummyimage.com/179x100.png/ff4444/ffffff,3.8,297.3,Decorative table runner perfect for autumn gatherings.,ATHN
+409,Chia Seed Pudding,$76.97,$89.25,http://dummyimage.com/179x100.png/5fa2dd/ffffff,1.4,313.5,"Nutritious chia seed pudding in vanilla flavor, ready to eat.",POST
+410,Set of Decorative Storage Bins,$45.34,$9.34,http://dummyimage.com/184x100.png/dddddd/000000,2.5,951.1,Colorful bins to keep your space organized.,JKHY
+411,Vegetable Chips,$81.43,$65.27,http://dummyimage.com/178x100.png/ff4444/ffffff,4.4,97.8,Crispy and crunchy snack made from assorted vegetables.,TSI
+412,Skincare Set,$40.46,$80.27,http://dummyimage.com/214x100.png/cc0000/ffffff,1.9,502.7,All-natural skincare set for daily use.,AGRX
+413,Kids' Activity Book,$45.86,$61.35,http://dummyimage.com/167x100.png/ff4444/ffffff,3.3,218.9,Fun book filled with puzzles and games for kids.,WBA
+414,Vegetable Spiralizer,$3.83,$71.96,http://dummyimage.com/101x100.png/5fa2dd/ffffff,2.2,923.9,Create spiraled vegetable noodles easily for healthy meals.,GLOP
+415,Berries Medley,$41.55,$59.95,http://dummyimage.com/211x100.png/dddddd/000000,3.0,309.5,"A mix of fresh raspberries, blueberries, and blackberries.",DISCB
+416,Kale Caesar Salad Kit,$1.79,$16.65,http://dummyimage.com/129x100.png/ff4444/ffffff,1.9,496.9,Fresh kale with Caesar dressing and croutons.,GDL^B
+417,Survival Gear Kit,$94.78,$47.74,http://dummyimage.com/249x100.png/ff4444/ffffff,3.3,568.4,Essential survival gear kit for emergencies.,LMB
+418,Hydration Backpack,$49.78,$72.78,http://dummyimage.com/165x100.png/5fa2dd/ffffff,2.4,118.3,Lightweight backpack with an insulated water reservoir for hydration on the go.,GDEN
+419,Organic Quinoa,$25.90,$95.46,http://dummyimage.com/155x100.png/dddddd/000000,4.7,800.0,Nutritious organic quinoa for salads or sides,THQ
+420,Bamboo Toothbrush,$98.43,$46.83,http://dummyimage.com/161x100.png/5fa2dd/ffffff,3.7,592.2,Eco-friendly bamboo toothbrush for sustainable living.,UGP
+421,Apple Juice,$54.93,$54.53,http://dummyimage.com/128x100.png/ff4444/ffffff,3.8,604.1,"Refreshing apple juice, 100% juice with no added sugar.",HCN
+422,Fried Rice,$58.70,$54.26,http://dummyimage.com/230x100.png/cc0000/ffffff,4.3,86.1,"Pre-cooked vegetable fried rice, just heat and serve.",HIW
+423,Pet Grooming Gloves,$96.61,$80.42,http://dummyimage.com/154x100.png/ff4444/ffffff,3.7,277.4,Gentle grooming gloves for shedding pets.,AEH
+424,Sliced Bread,$59.99,$6.74,http://dummyimage.com/150x100.png/cc0000/ffffff,1.6,38.8,"Soft and fresh sliced bread, perfect for sandwiches.",GCV^B
+425,Wall Planner,$37.66,$31.51,http://dummyimage.com/158x100.png/cc0000/ffffff,3.0,166.7,Large wall planner for organizing schedules.,ALR
+426,Red Lentils,$16.89,$45.57,http://dummyimage.com/220x100.png/5fa2dd/ffffff,1.7,856.9,Nutritious and quick-cooking red lentils.,IRWD
+427,Organic Granola,$11.27,$47.66,http://dummyimage.com/242x100.png/cc0000/ffffff,3.9,329.4,Healthy granola made with oats and honey.,ISD
+428,Travel Eye Mask with Ear Plugs,$60.16,$27.06,http://dummyimage.com/245x100.png/ff4444/ffffff,1.6,740.6,Comfortable eye mask that includes noise-canceling ear plugs.,MOCO
+429,Rechargeable Laptop Battery Pack,$83.70,$2.70,http://dummyimage.com/224x100.png/dddddd/000000,3.9,290.9,Portable battery pack to charge laptops while on the move.,MACQ
+430,Cinnamon Roll Dough,$30.86,$55.94,http://dummyimage.com/202x100.png/dddddd/000000,4.0,142.6,Ready-to-bake cinnamon roll dough for easy breakfasts.,BGC
+431,Sweet Potato and Chickpea Bowl,$33.28,$15.82,http://dummyimage.com/243x100.png/dddddd/000000,1.7,56.2,A nourishing bowl of sweet potatoes and chickpeas with spices.,PCG
+432,Dark Chocolate Covered Raisins,$75.08,$88.50,http://dummyimage.com/219x100.png/5fa2dd/ffffff,1.9,468.3,Satisfy your sweet tooth with these dark chocolate-covered raisins.,VVPR
+433,Nail Polish Set,$75.31,$88.18,http://dummyimage.com/211x100.png/5fa2dd/ffffff,2.8,723.3,Assorted nail polish set for vibrant nails.,CII
+434,Smoked Paprika,$11.38,$79.26,http://dummyimage.com/171x100.png/dddddd/000000,2.9,57.7,Add a smoky flavor to your dishes.,PRQR
+435,Electric Heat Pad,$62.65,$96.67,http://dummyimage.com/111x100.png/ff4444/ffffff,2.3,905.3,Microwaveable heat pad for soothing muscle aches.,PBR.A
+436,Coffee Making Kit,$62.08,$36.13,http://dummyimage.com/129x100.png/dddddd/000000,4.1,35.9,Complete set to brew coffee with different methods.,PHI
+437,Herbal Tea Infuser,$64.16,$50.70,http://dummyimage.com/124x100.png/ff4444/ffffff,1.3,587.1,Infuser for brewing loose-leaf herbal teas easily.,KONE
+438,Herb Drying Rack,$4.73,$87.40,http://dummyimage.com/225x100.png/ff4444/ffffff,1.8,194.2,Mesh drying rack for preserving herbs and flowers.,ACGLP
+439,Vegetable Medley,$3.24,$54.99,http://dummyimage.com/199x100.png/ff4444/ffffff,4.1,99.5,Mixed fresh vegetables for stir-frying or roasting.,CLNS^E
+440,Adjustable Stand for Tablets and Smartphones,$32.25,$43.83,http://dummyimage.com/206x100.png/5fa2dd/ffffff,4.8,183.3,Multi-angle stand for easy viewing of devices.,PKX
+441,Pepper Jack Cheese Sticks,$66.67,$82.08,http://dummyimage.com/136x100.png/5fa2dd/ffffff,1.9,241.1,"A spicy, flavorful cheese stick great for snacks or lunchboxes.",PNTR
+442,Almond Flour Pancake Mix,$14.18,$34.60,http://dummyimage.com/196x100.png/dddddd/000000,2.3,264.1,Gluten-free pancake mix made with almond flour.,KRA
+443,Canned Coconut Milk,$56.74,$52.76,http://dummyimage.com/219x100.png/5fa2dd/ffffff,4.9,164.0,"Rich coconut milk, great for cooking and baking.",SNV
+444,Maple Almond Butter,$68.80,$77.08,http://dummyimage.com/158x100.png/dddddd/000000,4.3,389.8,Creamy almond butter sweetened with maple syrup for a delicious spread.,CWCO
+445,Toasted Coconut Granola,$26.35,$13.07,http://dummyimage.com/164x100.png/cc0000/ffffff,1.5,443.6,"Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks.",ENZL
+446,Vegetarian Stir Fry Sauce,$79.78,$84.86,http://dummyimage.com/100x100.png/ff4444/ffffff,3.2,369.9,Flavorful sauce perfect for stir-frying vegetables and tofu.,H
+447,Sweet Corn,$62.00,$91.03,http://dummyimage.com/147x100.png/5fa2dd/ffffff,1.9,307.9,"Tender sweet corn kernels, ready to eat or add to dishes.",SNCR
+448,Folding Backpack Chair,$59.02,$99.93,http://dummyimage.com/170x100.png/cc0000/ffffff,2.8,61.1,Versatile chair that easily folds up for carrying.,LII
+449,Lemon Garlic Shrimp,$90.81,$63.98,http://dummyimage.com/221x100.png/ff4444/ffffff,2.0,199.3,"Marinated shrimp in a garlic and lemon sauce, perfect for grilling.",NQP
+450,Bicycle Repair Kit,$51.88,$56.14,http://dummyimage.com/127x100.png/ff4444/ffffff,4.2,444.6,Essential tools for on-the-go bike maintenance.,KIO
+451,Coconut Yogurt,$28.19,$46.77,http://dummyimage.com/150x100.png/ff4444/ffffff,3.8,957.7,"Creamy yogurt made from coconut milk, dairy-free and delicious.",MEIP
+452,Cabbage Slaw Mix,$16.90,$60.16,http://dummyimage.com/233x100.png/dddddd/000000,1.2,451.2,Fresh cabbage and carrot slaw mix for salads.,CDE
+453,Spicy Beef Taco Mix,$39.87,$21.32,http://dummyimage.com/124x100.png/cc0000/ffffff,1.7,99.6,Easy mix for making spicy beef tacos.,PTR
+454,Sweet Potato and Chickpea Bowl,$43.87,$43.45,http://dummyimage.com/118x100.png/cc0000/ffffff,2.7,299.7,A nourishing bowl of sweet potatoes and chickpeas with spices.,ZBK
+455,Fall-Themed Table Runner,$45.93,$17.77,http://dummyimage.com/150x100.png/ff4444/ffffff,2.4,794.9,Decorative table runner perfect for autumn gatherings.,PDI
+456,Reusable Food Storage Bags,$93.17,$42.86,http://dummyimage.com/132x100.png/ff4444/ffffff,2.1,954.2,Eco-friendly silicone bags for food storage and snacks.,BAC^Y
+457,Self-Inflating Camping Mattress,$90.24,$68.20,http://dummyimage.com/126x100.png/cc0000/ffffff,4.4,255.2,Comfortable camping mattress that inflates automatically.,BXMX
+458,Glass Water Bottle,$29.16,$7.82,http://dummyimage.com/209x100.png/cc0000/ffffff,1.0,228.7,Borosilicate glass water bottle with silicone sleeve.,CENT
+459,Foot Massager,$64.12,$63.97,http://dummyimage.com/150x100.png/5fa2dd/ffffff,1.5,224.7,Electric foot massager with heat settings.,ORIT
+460,BBQ Jackfruit,$6.22,$23.30,http://dummyimage.com/247x100.png/5fa2dd/ffffff,3.6,530.4,"Tender jackfruit cooked in BBQ sauce, a delicious plant-based alternative.",POOL
+461,Herb Seasoned Rice,$40.90,$76.19,http://dummyimage.com/118x100.png/cc0000/ffffff,2.3,391.8,A flavorful rice side dish seasoned with herbs and spices.,TANNI
+462,Electric Food Steamer,$5.89,$59.00,http://dummyimage.com/201x100.png/cc0000/ffffff,5.0,77.8,Electric food steamer for healthy cooking.,WAYN
+463,Portable Ice Maker,$89.40,$73.23,http://dummyimage.com/127x100.png/5fa2dd/ffffff,2.1,394.3,Compact ice maker for creating ice at home or in offices.,VGI
+464,Tuscan Bean Soup,$0.31,$61.95,http://dummyimage.com/205x100.png/ff4444/ffffff,1.2,474.8,A hearty mix of beans in a flavorful tomato broth.,FYX
+465,Multicolored LED Strip Lights,$73.33,$54.13,http://dummyimage.com/110x100.png/ff4444/ffffff,3.5,914.3,Flexible LED lights for creative home lighting designs.,BRFS
+466,Sushi Roll Kit,$60.79,$82.23,http://dummyimage.com/112x100.png/dddddd/000000,1.3,528.3,All ingredients needed to make your own sushi,MSEX
+467,Aged White Cheddar Popcorn,$4.15,$86.97,http://dummyimage.com/245x100.png/cc0000/ffffff,4.2,984.0,Light and fluffy popcorn coated in aged white cheddar.,IDA
+468,Brownie Bites,$23.89,$86.04,http://dummyimage.com/222x100.png/dddddd/000000,1.1,40.3,"Fudgy brownie bites, perfect for sharing or snacking.",RPXC
+469,Kettle BBQ Grill,$67.64,$57.26,http://dummyimage.com/126x100.png/cc0000/ffffff,4.1,85.1,Charcoal kettle grill perfect for backyard barbecues.,CSFL
+470,Ginger Snaps,$48.14,$80.95,http://dummyimage.com/183x100.png/5fa2dd/ffffff,3.2,24.9,Spicy ginger cookies that are crunchy and delicious.,ACV
+471,Dark Chocolate Almond Butter Cups,$5.91,$95.96,http://dummyimage.com/147x100.png/cc0000/ffffff,1.7,861.3,Rich almond butter encased in dark chocolate.,PRN
+472,Almond Joy Protein Bars,$74.21,$88.47,http://dummyimage.com/197x100.png/ff4444/ffffff,4.3,967.2,Chocolate coconut protein bars inspired by the classic candy bar.,WHG
+473,Maple Almond Yogurt,$14.49,$36.54,http://dummyimage.com/214x100.png/cc0000/ffffff,5.0,650.8,Creamy yogurt made with maple and almond flavors.,ORMP
+474,Wireless Smart Plug,$23.99,$39.13,http://dummyimage.com/163x100.png/5fa2dd/ffffff,4.6,948.3,Control home appliances remotely using your smartphone app.,HBANN
+475,Smart Thermos,$99.35,$45.82,http://dummyimage.com/166x100.png/ff4444/ffffff,4.0,617.5,Thermos that tracks your water intake and temperature.,AMGN
+476,Honey BBQ Riblets,$88.04,$9.78,http://dummyimage.com/136x100.png/5fa2dd/ffffff,3.4,473.9,"Tender riblets coated in a honey barbecue glaze, perfect for grilling or baking.",CNOB
+477,Emergency Preparedness Kit,$48.02,$33.30,http://dummyimage.com/101x100.png/5fa2dd/ffffff,4.9,762.4,Complete kit for emergency situations including food and water.,KEX
+478,Portable Bluetooth Headphones,$29.62,$13.12,http://dummyimage.com/106x100.png/5fa2dd/ffffff,2.3,852.3,Wireless headphones with noise-canceling features.,NYMX
+479,Teriyaki Chicken Stir-Fry,$31.35,$97.15,http://dummyimage.com/179x100.png/ff4444/ffffff,1.3,33.7,"Frozen stir-fry mix with chicken, veggies, and teriyaki sauce.",VLP
+480,Olive Oil,$70.04,$30.27,http://dummyimage.com/123x100.png/5fa2dd/ffffff,2.8,41.2,"Extra virgin olive oil, ideal for cooking and salads.",ENS
+481,Breezy Off-The-Shoulder Top,$47.21,$36.38,http://dummyimage.com/138x100.png/cc0000/ffffff,2.7,482.9,A light and breezy top ideal for warm days.,LILA
+482,Roasted Garlic Pasta Sauce,$43.73,$59.15,http://dummyimage.com/248x100.png/cc0000/ffffff,1.8,344.4,A flavorful pasta sauce made with roasted garlic.,JPM
+483,Compost Bin,$94.96,$99.25,http://dummyimage.com/115x100.png/ff4444/ffffff,4.7,257.3,Countertop compost bin for kitchen waste.,TOL
+484,Hot Salsa,$35.95,$57.26,http://dummyimage.com/196x100.png/dddddd/000000,1.9,790.9,Spicy salsa made with fresh ingredients.,RMAX
+485,Classic Beef Chili,$45.25,$38.47,http://dummyimage.com/233x100.png/5fa2dd/ffffff,2.4,38.7,Hearty chili made with premium ground beef and kidney beans.,FCE.A
+486,Emergency Preparedness Kit,$7.77,$45.81,http://dummyimage.com/238x100.png/dddddd/000000,1.5,772.1,Complete kit for emergency situations including food and water.,BTZ
+487,Chocolate Fudge Brownie Mix,$38.27,$98.64,http://dummyimage.com/240x100.png/dddddd/000000,5.0,88.0,Just add water for delicious brownies.,WAB
+488,Zesty Cilantro Lime Dressing,$41.71,$10.42,http://dummyimage.com/114x100.png/cc0000/ffffff,4.5,322.9,A bright and zesty dressing perfect for salads and tacos.,TBK
+489,Microfiber Cleaning Cloth Set,$90.96,$29.44,http://dummyimage.com/233x100.png/cc0000/ffffff,1.9,833.7,Assorted cloths for cleaning electronics and delicate surfaces.,EHIC
+490,Red Lentils,$34.16,$86.16,http://dummyimage.com/117x100.png/dddddd/000000,2.9,302.4,Nutritious and quick-cooking red lentils.,VSI
+491,Brown Rice,$33.80,$66.93,http://dummyimage.com/196x100.png/dddddd/000000,4.8,412.4,Nutty and wholesome brown rice.,STT
+492,Gaming Headset,$57.70,$23.70,http://dummyimage.com/139x100.png/dddddd/000000,1.2,848.2,Comfortable gaming headset with surround sound.,SHIPW
+493,Sesame Garlic Noodles,$56.93,$51.13,http://dummyimage.com/129x100.png/5fa2dd/ffffff,4.5,506.6,Delicious noodles tossed in a sesamegarlic sauce.,NSR
+494,Lasagna Noodles,$21.58,$53.23,http://dummyimage.com/226x100.png/dddddd/000000,1.4,672.6,Wide pasta sheets for making lasagna.,OCLR
+495,Sports Bottle,$78.04,$78.94,http://dummyimage.com/145x100.png/dddddd/000000,3.1,950.6,BPA-free sports bottle with flip-top lid.,IAC
+496,Thai Peanut Dressing,$17.18,$69.57,http://dummyimage.com/244x100.png/ff4444/ffffff,3.9,802.2,A creamy and tangy dressing perfect for salads or as a dipping sauce.,SGZA
+497,Classic White T-Shirt,$30.80,$92.03,http://dummyimage.com/160x100.png/dddddd/000000,3.7,391.4,A timeless wardrobe staple crafted from soft cotton with a perfect fit.,PF
+498,Mini Indoor Herb Garden Kit,$49.51,$83.00,http://dummyimage.com/250x100.png/dddddd/000000,2.7,541.9,All-in-one kit for growing herbs in your kitchen.,BEN
+499,Reflective Safety Vest,$33.35,$72.17,http://dummyimage.com/142x100.png/cc0000/ffffff,3.7,800.1,Bright safety vest for outdoor visibility during any activity.,RIG
+500,Electric Fondue Pot,$71.56,$1.52,http://dummyimage.com/137x100.png/cc0000/ffffff,2.3,338.8,Set for making fondue at home.,RP
+501,Kids' Activity Book,$17.72,$77.35,http://dummyimage.com/152x100.png/dddddd/000000,1.8,653.9,Fun book filled with puzzles and games for kids.,WWE
+502,Athletic Compression Tights,$62.88,$81.51,http://dummyimage.com/112x100.png/5fa2dd/ffffff,3.1,431.3,High-performance compression tights designed for optimal support and comfort.,RETA
+503,Fleece Lined Leggings,$17.16,$72.20,http://dummyimage.com/213x100.png/dddddd/000000,1.3,128.9,Comfortable and warm leggings perfect for colder weather.,AHPAW
+504,Organic Spinach,$46.73,$52.48,http://dummyimage.com/194x100.png/5fa2dd/ffffff,3.5,857.1,"Fresh organic spinach, great for salads or cooking.",AGFSW
+505,Reusable Coffee Filter,$58.09,$27.69,http://dummyimage.com/213x100.png/cc0000/ffffff,4.1,637.8,Eco-friendly coffee filter for brewing.,HDNG
+506,Italian Breadsticks,$76.94,$64.20,http://dummyimage.com/124x100.png/ff4444/ffffff,1.2,273.3,Crispy breadsticks seasoned with herbs and garlic.,EVLV
+507,Organic Coconut Flour,$52.94,$34.79,http://dummyimage.com/112x100.png/ff4444/ffffff,4.7,559.1,Finely ground flour from dried coconut meat.,NSA
+508,Kids' Crafting Station,$62.35,$57.67,http://dummyimage.com/215x100.png/ff4444/ffffff,3.1,7.5,Complete station with supplies for kids' art projects.,FEI           
+509,Sunglasses,$73.33,$99.61,http://dummyimage.com/203x100.png/5fa2dd/ffffff,3.4,38.9,Polarized sunglasses with UV protection.,DLR^G
+510,Creamy Coleslaw Mix,$79.77,$43.73,http://dummyimage.com/229x100.png/ff4444/ffffff,1.4,472.9,Shredded cabbage and carrots for coleslaw.,WPXP
+511,Kids' Gardening Kit,$51.23,$64.88,http://dummyimage.com/227x100.png/ff4444/ffffff,2.2,820.4,Complete set designed for children to learn gardening.,DCT
+512,Tactical Backpack,$21.21,$14.18,http://dummyimage.com/113x100.png/ff4444/ffffff,3.6,65.1,Durable and versatile backpack for outdoor and travel use.,SNDE
+513,Greek Yogurt Parfait,$70.12,$57.03,http://dummyimage.com/122x100.png/5fa2dd/ffffff,2.6,850.8,"Layered Greek yogurt with granola and mixed berries, ready to enjoy.",EXTN
+514,Foldable Yoga Mat Carry Bag,$55.84,$16.10,http://dummyimage.com/228x100.png/5fa2dd/ffffff,4.6,671.2,Durable bag for carrying your yoga mat and accessories.,MBTF
+515,Thai Green Curry Paste,$40.40,$32.90,http://dummyimage.com/133x100.png/5fa2dd/ffffff,1.2,363.5,A rich curry paste for making authentic Thai green curry at home.,SAEX
+516,Pork Chops,$11.60,$59.33,http://dummyimage.com/243x100.png/cc0000/ffffff,2.0,620.3,"Tender and juicy pork chops, perfect on the grill.",SMHI
+517,Spicy Garlic Edamame,$28.72,$58.76,http://dummyimage.com/247x100.png/ff4444/ffffff,4.5,771.1,"Steamed edamame tossed in a spicy garlic sauce, great for snacking.",HY
+518,Gardening Gloves,$57.56,$48.39,http://dummyimage.com/149x100.png/cc0000/ffffff,2.3,720.9,Durable gardening gloves with reinforced fingertips.,FPRX
+519,Adjustable Resistance Bands,$17.31,$96.80,http://dummyimage.com/247x100.png/ff4444/ffffff,1.0,264.5,Set of resistance bands for versatile strength training workouts.,GIFI
+520,Electric Heat Press Machine,$91.55,$22.05,http://dummyimage.com/209x100.png/dddddd/000000,1.1,251.3,Ideal for creating custom designs on t-shirts and fabrics.,DWAC
+521,Zucchini Noodle Pasta,$38.11,$58.86,http://dummyimage.com/149x100.png/ff4444/ffffff,4.9,396.2,"Low-carb zucchini noodles, perfect for a healthy alternative to pasta.",BANX
+522,Outdoor Sports Backpack,$52.67,$86.31,http://dummyimage.com/123x100.png/5fa2dd/ffffff,4.3,215.6,Durable backpack designed for hiking and outdoor excursions.,VGIT
+523,Kettle Corn Popcorn,$84.36,$22.63,http://dummyimage.com/151x100.png/cc0000/ffffff,5.0,948.4,"Sweet and salty kettle corn, perfect for snacking.",CNOB
+524,Vegan Tacos,$29.57,$19.14,http://dummyimage.com/169x100.png/dddddd/000000,1.9,932.1,Frozen vegan tacos filled with plant-based protein and spices.,CZZ
+525,Skincare Fridge,$37.61,$42.56,http://dummyimage.com/100x100.png/dddddd/000000,3.1,92.5,Small fridge designed to keep skincare products cool and fresh.,LBAI
+526,Honey Ginger Tea,$81.96,$63.78,http://dummyimage.com/225x100.png/ff4444/ffffff,2.5,570.6,"Soothing tea with honey and ginger, great for relaxation.",LIVE
+527,Spinach and Cheese Stuffed Shells,$34.13,$33.92,http://dummyimage.com/132x100.png/dddddd/000000,2.7,195.8,Delicious pasta shells filled with spinach and cheese,FULLL
+528,Coffee Making Kit,$29.29,$73.58,http://dummyimage.com/132x100.png/cc0000/ffffff,3.5,498.8,Complete set to brew coffee with different methods.,POT
+529,Handmade Wooden Utensil Set,$34.09,$49.66,http://dummyimage.com/160x100.png/dddddd/000000,4.0,244.0,Unique handcrafted utensils for cooking and serving.,OOMA
+530,Wireless HDMI Transmitter,$32.69,$89.85,http://dummyimage.com/160x100.png/ff4444/ffffff,3.0,342.8,Stream HD video wirelessly to your TV.,CMCSA
+531,Zesty Cilantro Lime Dressing,$3.75,$24.53,http://dummyimage.com/194x100.png/5fa2dd/ffffff,4.2,331.2,A bright and zesty dressing perfect for salads and tacos.,RELY
+532,Mini Hand Gesture Drone,$28.17,$31.66,http://dummyimage.com/187x100.png/cc0000/ffffff,2.2,414.3,Toy drone that flies with gestures and is easy to control.,UN
+533,Digital Food Scale,$46.22,$17.50,http://dummyimage.com/206x100.png/dddddd/000000,4.4,129.9,Precision digital scale for accurate cooking measurements.,LTEA
+534,Tomato Basil Soup,$97.73,$61.70,http://dummyimage.com/192x100.png/cc0000/ffffff,3.4,334.5,"A classic soup combining tomatoes and basil, great with grilled cheese sandwiches.",FANH
+535,Garlic Parmesan Wings,$12.97,$85.26,http://dummyimage.com/202x100.png/cc0000/ffffff,1.3,783.2,Frozen chicken wings with garlic parmesan sauce.,CIDM
+536,Organic Cucumber,$60.87,$44.90,http://dummyimage.com/224x100.png/ff4444/ffffff,2.1,900.4,Fresh organic cucumber perfect for salads or snacking.,GRC
+537,Sriracha Sauce,$4.96,$58.36,http://dummyimage.com/135x100.png/ff4444/ffffff,1.4,685.7,Spicy chili sauce for an extra kick in your meals.,HOMB
+538,LED Strip Lights,$52.24,$73.06,http://dummyimage.com/172x100.png/ff4444/ffffff,2.2,459.0,Colorful LED strip lights for home decoration.,BOKF
+539,Diced Tomatoes (canned),$6.53,$44.48,http://dummyimage.com/222x100.png/ff4444/ffffff,3.6,373.4,"Canned diced tomatoes, great base for sauces and soups.",EACQ
+540,Weighted Blanket,$85.09,$39.79,http://dummyimage.com/146x100.png/dddddd/000000,4.1,838.3,Therapeutic weighted blanket for better sleep.,NSL
+541,Peach Fruit Cups,$53.31,$49.11,http://dummyimage.com/222x100.png/ff4444/ffffff,4.1,530.8,"Juicy peach slices in light syrup, in convenient cups.",ARTNA
+542,Window Bird Feeder,$0.64,$38.60,http://dummyimage.com/141x100.png/5fa2dd/ffffff,4.9,206.6,Suction cup bird feeder for close-up bird watching.,MTRX
+543,Crispy Kale Chips,$45.15,$18.88,http://dummyimage.com/184x100.png/5fa2dd/ffffff,1.3,829.5,"Baked kale chips seasoned for a healthy, crunchy snack.",NIE
+544,Roasted Garlic Mashed Potatoes,$38.42,$77.19,http://dummyimage.com/185x100.png/5fa2dd/ffffff,2.1,693.7,Creamy mashed potatoes infused with roasted garlic flavor.,CIB
+545,Leather Wallet,$35.45,$34.34,http://dummyimage.com/140x100.png/cc0000/ffffff,2.3,947.5,Genuine leather wallet with multiple compartments.,RGC
+546,Pasta Sauce Mix,$2.22,$38.44,http://dummyimage.com/231x100.png/cc0000/ffffff,2.2,768.6,Just add water for a quick pasta sauce.,HNNA
+547,Cinnamon Rolls,$16.92,$89.03,http://dummyimage.com/206x100.png/dddddd/000000,2.0,911.0,"Sweet and gooey cinnamon rolls, ready to bake.",ZIONZ
+548,Stainless Steel BBQ Grill Set,$54.78,$50.93,http://dummyimage.com/245x100.png/ff4444/ffffff,1.0,329.5,Essential tools for outdoor barbecues including tongs and spatula.,TNP^B
+549,Pasta (Fusilli),$26.57,$41.16,http://dummyimage.com/134x100.png/cc0000/ffffff,2.8,890.1,Twisted pasta perfect for salads and pasta dishes.,WALA
+550,Magnetic Curtain Tiebacks,$23.89,$59.37,http://dummyimage.com/224x100.png/cc0000/ffffff,2.6,973.1,Easy-to-use tiebacks for curtains or drapes.,IGA
+551,Air Fryer Oven,$99.51,$73.78,http://dummyimage.com/167x100.png/cc0000/ffffff,4.0,800.6,"Versatile air fryer that also roasts, bakes, and broils.",PAGG
+552,Overnight Hiking Backpack,$50.12,$57.32,http://dummyimage.com/101x100.png/cc0000/ffffff,3.3,127.3,Durable backpack with ample storage for outdoor adventures.,BNDX
+553,Leather Biker Jacket,$60.86,$2.45,http://dummyimage.com/203x100.png/ff4444/ffffff,4.2,916.2,Stylish black leather jacket featuring a zip-up front and multiple pockets.,MULE
+554,Frozen Pizza,$51.21,$80.24,http://dummyimage.com/126x100.png/ff4444/ffffff,2.7,143.5,Delicious frozen pizza with a variety of toppings.,COKE
+555,Dark Chocolate Covered Almonds,$34.96,$30.81,http://dummyimage.com/182x100.png/cc0000/ffffff,1.3,141.4,Roasted almonds dipped in rich dark chocolate.,APOP
+556,Pocket Blanket,$17.14,$6.19,http://dummyimage.com/196x100.png/dddddd/000000,4.6,887.1,"Compact, waterproof blanket for picnics and events.",FUNC
+557,Asian Salad Mix,$30.30,$70.04,http://dummyimage.com/127x100.png/5fa2dd/ffffff,1.6,143.7,Fresh greens and veggies for a quick Asian-inspired salad.,WB
+558,Sweet Pea Hummus,$28.16,$86.07,http://dummyimage.com/108x100.png/dddddd/000000,2.7,593.0,Creamy hummus made with sweet peas and tahini.,AN
+559,Smart Water Bottle with Hydration Reminder,$23.26,$15.75,http://dummyimage.com/117x100.png/ff4444/ffffff,2.0,644.8,Bottle that tracks your water intake and reminds you to drink.,AWP
+560,Portable Bluetooth Speaker,$94.16,$54.26,http://dummyimage.com/199x100.png/ff4444/ffffff,3.8,626.9,Compact Bluetooth speaker with rich sound quality.,HQL
+561,Italian Herb Balsamic Marinade,$55.32,$36.95,http://dummyimage.com/138x100.png/ff4444/ffffff,4.9,958.5,"A rich marinade perfect for meats and vegetables, infused with Italian herbs and balsamic vinegar.",FMO
+562,Collapsible Camping Cup,$1.74,$50.86,http://dummyimage.com/155x100.png/5fa2dd/ffffff,4.8,672.2,Space-saving cup that folds flat for easy storage.,SRUNU
+563,Luxury Rolling Makeup Case,$13.81,$20.06,http://dummyimage.com/119x100.png/cc0000/ffffff,3.9,928.5,Stylish and spacious case for makeup and beauty products.,BBT^F
+564,Sweet Potato & Kale Hash,$40.84,$48.51,http://dummyimage.com/214x100.png/ff4444/ffffff,2.6,568.6,"Savory hash made with sweet potatoes and kale, a perfect side dish.",NNN^E
+565,Lemon Herb Grilled Chicken,$7.44,$76.52,http://dummyimage.com/134x100.png/cc0000/ffffff,1.3,596.7,Tender grilled chicken marinated in lemon herbs.,GHY
+566,Slim Fit Chinos,$5.35,$67.42,http://dummyimage.com/222x100.png/dddddd/000000,4.7,5.9,Comfortable slim fit chinos for a polished look.,UBOH
+567,Green Smoothie Mix,$71.24,$86.45,http://dummyimage.com/166x100.png/dddddd/000000,5.0,520.1,A convenient powder mix combining greens and fruits for smoothies.,TAP.A
+568,Chocolate Chip Energy Balls,$99.73,$51.97,http://dummyimage.com/163x100.png/5fa2dd/ffffff,4.6,11.8,"No-bake energy balls made with oats, chocolate chips, and honey.",TCX
+569,Ankle Boots,$50.33,$45.44,http://dummyimage.com/138x100.png/cc0000/ffffff,2.0,287.8,"Stylish leather ankle boots with a block heel, perfect for fall styling.",MHK
+570,Multi-Layer Food Steamer,$6.71,$17.00,http://dummyimage.com/237x100.png/cc0000/ffffff,4.1,50.8,Stackable steamers for healthy cooking of vegetables and seafood.,PSA^U
+571,Garden Vegetable Soup,$58.04,$28.59,http://dummyimage.com/150x100.png/5fa2dd/ffffff,2.8,158.6,"A hearty soup filled with vegetables and herbs, perfect for a light meal.",RCM
+572,Pet Travel Bowl,$7.77,$52.01,http://dummyimage.com/217x100.png/ff4444/ffffff,2.9,167.6,Collapsible travel bowl for pets on the go.,UBOH
+573,Garlic Herb Cream Cheese,$32.52,$27.31,http://dummyimage.com/239x100.png/ff4444/ffffff,2.3,138.6,Spreadable cream cheese blended with garlic and herbs.,PFPT
+574,Smashed Avocado with Lime,$85.61,$96.22,http://dummyimage.com/197x100.png/ff4444/ffffff,1.7,290.9,"A creamy blend of avocados and lime juice, great for spreads or dips.",HRMNW
+575,Sesame Garlic Stir-Fry Sauce,$21.06,$91.04,http://dummyimage.com/212x100.png/dddddd/000000,4.5,139.3,A flavorful sauce for stir-frying vegetables and meats.,VSTO
+576,Teriyaki Sauce,$93.92,$58.05,http://dummyimage.com/233x100.png/dddddd/000000,1.6,622.2,Sweet and savory sauce for marinating and glazing meats or vegetables.,KIM^K
+577,Strawberry Rhubarb Jam,$46.60,$14.89,http://dummyimage.com/176x100.png/dddddd/000000,2.0,925.8,"A sweet and tart jam, perfect on toast or in desserts.",FTRPR
+578,Canvas Tote Bag,$70.21,$28.84,http://dummyimage.com/123x100.png/cc0000/ffffff,1.2,131.4,"Durable canvas tote bag, perfect for everyday use.",UAA
+579,Spinach and Cheese Stuffed Shells,$56.84,$61.58,http://dummyimage.com/141x100.png/cc0000/ffffff,4.7,539.2,Delicious pasta shells filled with spinach and cheese,ARU.CL
+580,LED Desk Lamp,$60.79,$47.67,http://dummyimage.com/215x100.png/5fa2dd/ffffff,4.8,705.8,Dimmable LED desk lamp with USB charging port.,IRCP
+581,Ribbed Knit Dress,$30.99,$38.12,http://dummyimage.com/210x100.png/cc0000/ffffff,1.6,292.4,A fitted ribbed knit dress that hugs your curves perfectly.,CADC
+582,Cinnamon Roll Kit,$25.13,$35.77,http://dummyimage.com/233x100.png/cc0000/ffffff,1.7,580.2,Everything you need to make melt-in-your-mouth cinnamon rolls at home.,CPB
+583,Relaxed Fit Henley Shirt,$90.85,$70.40,http://dummyimage.com/123x100.png/5fa2dd/ffffff,4.8,807.6,"A comfortable henley shirt made of soft cotton, perfect for casual outings.",CSL
+584,Board Game Storage,$56.61,$31.31,http://dummyimage.com/108x100.png/cc0000/ffffff,2.0,862.8,Organize your board games with this storage bin.,TORM          
+585,USB-C Hub,$63.10,$31.55,http://dummyimage.com/106x100.png/5fa2dd/ffffff,1.3,991.9,Multi-port USB-C hub for connecting devices.,SLMBP
+586,Travel Jewelry Organizer,$55.18,$76.27,http://dummyimage.com/175x100.png/dddddd/000000,4.3,858.4,Compact storage for your jewelry while traveling.,OMAM
+587,LED Strip Lights Kit,$53.63,$73.47,http://dummyimage.com/112x100.png/5fa2dd/ffffff,2.4,569.8,DIY LED strip lights with remote control.,CRH
+588,Sliced Bread,$57.35,$64.17,http://dummyimage.com/206x100.png/dddddd/000000,4.1,993.8,"Soft and fresh sliced bread, perfect for sandwiches.",L
+589,Honey Mustard Chicken Breasts,$56.44,$86.56,http://dummyimage.com/177x100.png/5fa2dd/ffffff,2.9,63.5,Marinated chicken breasts coated in a sweet honey mustard glaze.,MARK
+590,Mini Fondue Set,$78.98,$16.85,http://dummyimage.com/236x100.png/5fa2dd/ffffff,1.4,95.5,Complete fondue set for chocolate and cheese parties.,GLBR
+591,Dog Car Seat Cover,$63.84,$26.63,http://dummyimage.com/219x100.png/dddddd/000000,3.4,145.9,Waterproof cover to protect car seats from pet hair and dirt.,JE^A
+592,Pasta Sauce Mix,$26.67,$21.85,http://dummyimage.com/206x100.png/5fa2dd/ffffff,4.5,441.0,Just add water for a quick pasta sauce.,LBRDK
+593,Chicken Parmesan Dinner Kit,$23.00,$63.58,http://dummyimage.com/138x100.png/ff4444/ffffff,2.4,377.3,"A complete meal kit containing breaded chicken breast, marinara sauce, and pasta, perfect for a quick dinner.",MXIM
+594,Pet Safety Belt for Car,$92.39,$36.79,http://dummyimage.com/133x100.png/5fa2dd/ffffff,4.7,141.6,Seat belt attachment to keep dogs safe during car rides.,LTRX
+595,Face Mask Set,$92.66,$48.42,http://dummyimage.com/140x100.png/5fa2dd/ffffff,4.7,467.0,Set of five reusable fabric face masks.,ISP
+596,Camera Lens Cleaning Kit,$52.01,$9.42,http://dummyimage.com/181x100.png/cc0000/ffffff,2.5,761.8,Complete cleaning kit for camera lenses.,SQNS
+597,Almond Milk Yogurt,$15.84,$24.27,http://dummyimage.com/223x100.png/dddddd/000000,5.0,18.7,"Creamy yogurt made from almond milk, vegan-friendly.",UMBF
+598,Silicone Cooking Utensils Set,$20.87,$84.12,http://dummyimage.com/135x100.png/dddddd/000000,3.0,944.1,Non-stick and heat-resistant utensils for cooking.,DFBG
+599,Plant Growing Kit,$49.10,$37.98,http://dummyimage.com/242x100.png/dddddd/000000,1.0,453.5,Complete kit for growing herbs indoors.,XOMA
+600,Classic Baseball Cap,$52.48,$85.69,http://dummyimage.com/232x100.png/ff4444/ffffff,1.3,595.6,A timeless baseball cap that adds a sporty touch to any outfit.,RETA
+601,Chocolate Chip Muffins,$11.26,$98.73,http://dummyimage.com/121x100.png/cc0000/ffffff,1.4,519.1,Fresh baked chocolate chip muffins for breakfast.,CS
+602,Tahini,$82.51,$76.81,http://dummyimage.com/119x100.png/dddddd/000000,1.6,62.8,Creamy tahini made from ground sesame seeds.,CHE
+603,Marinara Sauce,$57.67,$18.29,http://dummyimage.com/117x100.png/cc0000/ffffff,4.9,822.0,Classic marinara sauce for all pasta dishes.,CBAY
+604,Maple Glazed Carrots,$44.35,$2.99,http://dummyimage.com/146x100.png/ff4444/ffffff,4.3,965.5,Tender carrots glazed with a sweet maple sauce.,PFIN
+605,Mango Chunks,$93.89,$21.44,http://dummyimage.com/123x100.png/cc0000/ffffff,2.0,308.0,Frozen mango chunks for smoothies or snacking.,SBOW
+606,Mobile Workbench,$18.16,$72.24,http://dummyimage.com/210x100.png/cc0000/ffffff,2.4,65.1,Sturdy mobile workbench with storage options.,CUZ
+607,Car Trash Can,$85.04,$47.56,http://dummyimage.com/242x100.png/ff4444/ffffff,3.5,752.1,Compact trash can for keeping your car clean.,MXPT
+608,Lasagna Noodles,$59.37,$36.11,http://dummyimage.com/243x100.png/cc0000/ffffff,1.5,702.2,Wide pasta sheets for making lasagna.,NOVT
+609,Portable Speakers,$16.95,$60.20,http://dummyimage.com/140x100.png/5fa2dd/ffffff,2.4,708.8,Bluetooth speakers with excellent sound quality.,NETS
+610,Luxury Memory Foam Mattress Topper,$3.32,$75.74,http://dummyimage.com/142x100.png/cc0000/ffffff,1.1,622.3,Adds extra comfort to your mattress for a better night's sleep.,IDA
+611,Quinoa & Black Bean Salad,$27.17,$91.66,http://dummyimage.com/105x100.png/5fa2dd/ffffff,1.4,165.9,A nutritious salad with quinoa and black beans,IFON
+612,Classic Bagels,$27.06,$7.90,http://dummyimage.com/198x100.png/ff4444/ffffff,4.1,333.7,"Freshly baked bagels, perfect for breakfast or snacks.",SBR
+613,Kettle Corn Popcorn,$30.65,$40.61,http://dummyimage.com/144x100.png/ff4444/ffffff,2.9,248.9,"Sweet and salty kettle corn, perfect for snacking.",CCOI
+614,Smoked Gouda Cheese,$82.70,$74.85,http://dummyimage.com/239x100.png/ff4444/ffffff,2.6,683.8,Rich and creamy smoked Gouda cheese perfect for snacking.,EGOV
+615,Camping Tarp,$58.06,$92.88,http://dummyimage.com/175x100.png/5fa2dd/ffffff,3.8,38.4,Durable tarp for outdoor camping and protection.,SMHI
+616,Electric Kettle,$17.76,$31.21,http://dummyimage.com/153x100.png/ff4444/ffffff,4.9,414.5,Rapid boil electric kettle with temperature control.,AHP^B
+617,Thai Peanut Noodles,$34.98,$36.98,http://dummyimage.com/210x100.png/ff4444/ffffff,2.2,882.5,Noodles tossed in a spicy Thai peanut sauce.,MSCA
+618,Pumpkin Spice Coffee,$53.89,$85.78,http://dummyimage.com/200x100.png/5fa2dd/ffffff,2.6,912.7,"Coffee blend infused with pumpkin spice, perfect for fall.",SQBG
+619,Compact Portable Grill,$38.88,$96.49,http://dummyimage.com/217x100.png/ff4444/ffffff,3.8,860.3,Easy-to-use portable grill for barbecues.,CUBS
+620,Hand Mixer,$43.87,$78.62,http://dummyimage.com/169x100.png/cc0000/ffffff,5.0,358.1,Compact hand mixer for easy baking.,QUOT
+621,Hummus Trio Pack,$57.50,$0.68,http://dummyimage.com/132x100.png/cc0000/ffffff,1.8,351.9,"A variety pack of classic, roasted red pepper, and garlic hummus.",FEO
+622,Portable Projector,$22.14,$10.68,http://dummyimage.com/101x100.png/ff4444/ffffff,3.5,238.7,Compact projector for movies and presentations on the go.,GBX
+623,Handmade Leather Wallet,$9.49,$20.35,http://dummyimage.com/123x100.png/ff4444/ffffff,4.7,800.7,High-quality leather wallet with multiple compartments.,QIWI
+624,Digital Alarm Clock,$82.34,$40.09,http://dummyimage.com/123x100.png/cc0000/ffffff,3.7,453.9,Snooze function and LED display for easy reading.,RBS^H
+625,Puzzle 3D Model Kit,$63.32,$51.12,http://dummyimage.com/111x100.png/cc0000/ffffff,2.8,966.0,3D model puzzle kit for creative builders.,ASYS
+626,Cheesy Cauliflower Bake,$82.12,$85.69,http://dummyimage.com/154x100.png/5fa2dd/ffffff,4.2,402.5,"A frozen cheesy bake made with cauliflower, great as a side dish or a vegetarian meal.",BKEPP
+627,Bluetooth Tracker,$74.49,$99.56,http://dummyimage.com/138x100.png/ff4444/ffffff,3.1,66.0,Smart tracker to locate keys or other items via app.,AJXA
+628,Over-the-Door Shoe Organizer,$85.30,$27.94,http://dummyimage.com/118x100.png/dddddd/000000,1.3,731.2,Space-saving solution to store shoes and keep them organized.,CAFD
+629,Adjustable Pet Grooming Table,$92.20,$18.68,http://dummyimage.com/119x100.png/dddddd/000000,3.4,815.9,Professional grooming table with adjustable height.,SBCP
+630,Silicone Baking Mat Set,$36.51,$79.49,http://dummyimage.com/119x100.png/ff4444/ffffff,2.0,347.7,Non-stick and reusable mats for easy baking.,ATH
+631,Thyme,$54.56,$21.69,http://dummyimage.com/155x100.png/dddddd/000000,1.2,575.0,"Fresh thyme, perfect for seasoning dishes.",NBEV
+632,Whole Grain Cereal,$48.47,$44.07,http://dummyimage.com/214x100.png/dddddd/000000,4.8,713.4,"Healthy whole grain cereal, great for breakfast.",BCE
+633,Savory Oatmeal Cups,$46.58,$68.22,http://dummyimage.com/110x100.png/5fa2dd/ffffff,3.0,898.5,"Savory oatmeal ready to eat, great for breakfast or a snack.",NXC
+634,Outdoor Mosquito Repellent Lantern,$27.07,$51.09,http://dummyimage.com/220x100.png/dddddd/000000,4.8,510.2,Lantern that repels mosquitoes while providing light.,SWFT
+635,Cocoa Powder,$75.58,$5.34,http://dummyimage.com/101x100.png/cc0000/ffffff,3.9,703.4,Rich cocoa powder for baking and chocolate recipes.,SNDR
+636,Portable Leaf Blower,$17.09,$13.89,http://dummyimage.com/208x100.png/cc0000/ffffff,1.0,410.6,Lightweight leaf blower for maintaining outdoor spaces.,HSON
+637,Instant Pot,$97.68,$60.58,http://dummyimage.com/168x100.png/dddddd/000000,3.0,185.3,7-in-1 multi-cooker for versatile cooking.,PKX
+638,Personalized Keychain,$99.46,$44.97,http://dummyimage.com/171x100.png/ff4444/ffffff,1.8,4.1,Custom keychain with engraved text.,NWBI
+639,Spicy Snack Mix,$21.21,$20.97,http://dummyimage.com/149x100.png/dddddd/000000,3.1,866.7,A crunchy blend of nuts and pretzels with a spicy kick.,TDC
+640,Spinach Artichoke Dip,$10.21,$17.15,http://dummyimage.com/201x100.png/ff4444/ffffff,1.0,493.9,"A delicious creamy dip featuring spinach and artichokes, perfect for parties.",LAND
+641,Sriracha Chili Sauce,$46.27,$46.07,http://dummyimage.com/148x100.png/dddddd/000000,1.4,630.3,Spicy chili sauce with garlic and sugar for a flavor kick.,LUV
+642,Protein Pancake Mix,$77.98,$25.03,http://dummyimage.com/188x100.png/ff4444/ffffff,4.8,663.2,A protein-packed pancake mix for a nutritious breakfast.,OLBK
+643,Bicycle Lock,$33.92,$80.77,http://dummyimage.com/157x100.png/ff4444/ffffff,2.2,994.6,Heavy-duty bicycle lock for security.,HALL
+644,Organic Fruit Salad,$80.76,$38.94,http://dummyimage.com/237x100.png/ff4444/ffffff,5.0,972.8,"Fresh fruit salad, ready to eat and refreshing.",COOL
+645,Spicy Kimchi,$76.77,$59.16,http://dummyimage.com/151x100.png/ff4444/ffffff,4.1,581.0,"Traditional Korean fermented vegetables, packed with flavor.",CSGS
+646,Tropical Fruit Bowl,$66.29,$54.59,http://dummyimage.com/150x100.png/ff4444/ffffff,4.1,4.1,A mix of tropical fruits for a refreshing snack or dessert.,NTRA
+647,Cranberry Almond Biscotti,$36.67,$80.59,http://dummyimage.com/146x100.png/5fa2dd/ffffff,3.8,729.2,Crispy and delicious biscotti flavored with cranberry and almond.,IEX
+648,Sweet Corn,$61.55,$66.06,http://dummyimage.com/199x100.png/dddddd/000000,1.7,136.6,"Tender sweet corn kernels, ready to eat or add to dishes.",O
+649,Teriyaki Chicken Skewers,$94.51,$80.14,http://dummyimage.com/221x100.png/cc0000/ffffff,1.7,328.2,Grilled chicken skewers glazed with teriyaki sauce.,EBAY
+650,Pumpkin Pancake Mix,$16.03,$64.50,http://dummyimage.com/128x100.png/ff4444/ffffff,4.8,930.7,Easy-to-make pancake mix with pumpkin spice flavor.,BSRR
+651,Hiking Gaiters,$65.07,$56.54,http://dummyimage.com/235x100.png/5fa2dd/ffffff,3.2,19.5,Protective gaiters to keep dirt and debris out of shoes during hikes.,WBA
+652,Peach Salsa,$3.33,$40.19,http://dummyimage.com/204x100.png/cc0000/ffffff,1.1,973.0,Sweet and spicy salsa made with fresh peaches.,GOVNI
+653,LED Desk Lamp,$1.40,$30.58,http://dummyimage.com/144x100.png/cc0000/ffffff,2.5,126.9,Dimmable LED desk lamp with USB charging port.,HHC
+654,Halloween Decoration Set,$87.24,$16.55,http://dummyimage.com/102x100.png/5fa2dd/ffffff,2.9,774.4,Fun decorations for Halloween to set a spooky atmosphere.,CBPO
+655,Sliced Ham,$73.30,$61.32,http://dummyimage.com/214x100.png/cc0000/ffffff,2.7,665.7,"Delicious and fully cooked sliced ham, ready to eat.",ERF
+656,Coconut Macaroons,$97.27,$85.17,http://dummyimage.com/161x100.png/cc0000/ffffff,3.0,866.8,"Chewy cookies made with coconut, perfect for sweet cravings.",PTCT
+657,Elegant Maxi Skirt,$37.98,$98.27,http://dummyimage.com/117x100.png/cc0000/ffffff,1.9,859.3,Float through the day in this beautiful floor-length skirt.,FONR
+658,Cinnamon Sugar Tortilla Chips,$73.74,$3.54,http://dummyimage.com/149x100.png/ff4444/ffffff,4.0,334.3,"Crispy chips with a sweet twist, perfect for dipping.",DATA
+659,Teriyaki Beef Jerky,$82.50,$46.43,http://dummyimage.com/172x100.png/dddddd/000000,4.6,941.1,Savory and chewy beef jerky with teriyaki flavor.,BZUN
+660,Pet Carrier Backpack,$67.76,$53.63,http://dummyimage.com/201x100.png/cc0000/ffffff,4.4,888.0,Comfortable and breathable backpack for carrying small pets.,FINL
+661,Adjustable Resistance Bands,$48.78,$37.02,http://dummyimage.com/121x100.png/5fa2dd/ffffff,3.4,396.3,Set of resistance bands for versatile strength training workouts.,PRI
+662,Slim Fit Chinos,$3.26,$9.93,http://dummyimage.com/137x100.png/cc0000/ffffff,2.9,287.3,Comfortable slim fit chinos for a polished look.,ARCB
+663,Kids' Science Experiment Kit,$35.50,$78.90,http://dummyimage.com/237x100.png/dddddd/000000,3.3,533.4,Engaging kit with science experiments for children.,CASM
+664,Electric Razor,$43.96,$96.71,http://dummyimage.com/185x100.png/cc0000/ffffff,3.9,26.0,Rechargeable electric razor for a smooth shave.,AMH^A
+665,Interchangeable Watch Bands,$45.63,$73.93,http://dummyimage.com/248x100.png/dddddd/000000,4.9,825.0,Set of stylish watch bands to customize your look.,MELR
+666,Asian Salad Mix,$33.60,$72.65,http://dummyimage.com/200x100.png/5fa2dd/ffffff,3.5,514.9,Fresh greens and veggies for a quick Asian-inspired salad.,SLNO
+667,Sesame Noodles,$71.83,$37.77,http://dummyimage.com/127x100.png/cc0000/ffffff,4.8,29.1,"Chilled noodles dressed in sesame sauce, ready to eat.",JD
+668,Mini Waffle Maker,$32.83,$52.07,http://dummyimage.com/221x100.png/dddddd/000000,4.9,99.6,Compact waffle maker for perfect small waffles.,ITCI
+669,Roasted Garlic,$37.61,$94.51,http://dummyimage.com/167x100.png/cc0000/ffffff,3.7,456.5,Savory roasted garlic in a jar for easy use.,CUB
+670,Smart Wi-Fi Light Bulbs,$22.19,$32.14,http://dummyimage.com/242x100.png/dddddd/000000,4.9,688.3,Energy-efficient LED bulbs that can be controlled via smartphone.,SYMX
+671,Wireless Gaming Headset,$51.24,$84.33,http://dummyimage.com/246x100.png/cc0000/ffffff,2.6,667.7,Comfortable headset with surround sound for immersive gaming.,NIHD
+672,Cabbage,$46.35,$74.79,http://dummyimage.com/123x100.png/5fa2dd/ffffff,1.1,238.7,"Fresh green cabbage, great for salads and slaws.",APEI
+673,Mini Electric Kettle,$18.55,$22.67,http://dummyimage.com/106x100.png/dddddd/000000,2.4,27.2,Quick boiling kettle for small kitchens and dorms.,CPL
+674,Luminous Night Light,$14.55,$64.09,http://dummyimage.com/135x100.png/dddddd/000000,1.2,739.9,Soft glow night light for children's rooms or bedside.,ACXM
+675,Chocolate Peanut Butter Cups,$51.19,$17.96,http://dummyimage.com/245x100.png/dddddd/000000,3.2,80.1,Delicious dark chocolate cups filled with creamy peanut butter.,TWTR
+676,Pet Bed with Removable Cover,$33.60,$95.23,http://dummyimage.com/112x100.png/cc0000/ffffff,4.4,492.0,Comfy pet bed with washable cover for easy cleaning.,TBK
+677,Garden Tool Set,$17.54,$81.31,http://dummyimage.com/161x100.png/5fa2dd/ffffff,2.0,312.9,Complete set of gardening tools for all your needs.,SBLK
+678,Water Bottle,$15.01,$26.65,http://dummyimage.com/231x100.png/cc0000/ffffff,4.0,753.1,Insulated water bottle for keeping drinks cold.,QPAC
+679,LED Desk Lamp with USB Charging Port,$41.07,$27.06,http://dummyimage.com/186x100.png/dddddd/000000,3.3,298.6,Modern lamp featuring a USB port for convenient charging.,WIT
+680,Mini Projector for Smartphones,$22.41,$97.60,http://dummyimage.com/240x100.png/dddddd/000000,1.6,429.2,Compact and portable projector for watching videos anywhere.,CLSN
+681,Window A/C Unit,$10.93,$71.89,http://dummyimage.com/175x100.png/5fa2dd/ffffff,1.1,100.6,Energy-efficient window air conditioner for cooling.,PACB
+682,Compact Hair Dryer,$13.44,$16.06,http://dummyimage.com/150x100.png/dddddd/000000,2.4,423.1,Lightweight hair dryer with multiple speed settings.,GUT^A
+683,Organic Black Beans,$99.46,$69.11,http://dummyimage.com/177x100.png/cc0000/ffffff,3.8,688.8,"Versatile canned black beans, ready to add to any dish.",ABR^C
+684,Training Soccer Ball,$32.82,$77.38,http://dummyimage.com/165x100.png/ff4444/ffffff,1.4,821.1,Durable training soccer ball for practice.,KMX
+685,Pumpkin Waffles,$9.27,$15.07,http://dummyimage.com/183x100.png/dddddd/000000,3.2,177.1,Delicious waffles infused with pumpkin and spices.,FLL
+686,Adjustable Kitchen Broom Stand,$6.26,$81.47,http://dummyimage.com/146x100.png/dddddd/000000,2.0,648.4,Space-saving broom holder for organized cleaning supplies.,WLL
+687,Garlic & Herb Goat Cheese,$88.95,$73.22,http://dummyimage.com/210x100.png/cc0000/ffffff,1.4,457.7,"Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers.",WUBA
+688,Raspberry Limeade,$57.67,$9.15,http://dummyimage.com/206x100.png/cc0000/ffffff,1.8,653.3,Sweet and tangy raspberry lime beverage,BCRX
+689,Reusable Coffee Filter,$91.19,$8.79,http://dummyimage.com/146x100.png/5fa2dd/ffffff,1.6,107.3,Eco-friendly coffee filter for brewing.,EPR^F
+690,Quinoa and Kale Salad Kit,$29.26,$60.32,http://dummyimage.com/134x100.png/5fa2dd/ffffff,3.2,186.3,"Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",FOLD
+691,Puzzle Mat,$39.46,$19.42,http://dummyimage.com/201x100.png/ff4444/ffffff,3.0,923.6,Foldable mat for jigsaw puzzle assembly.,EHTH
+692,Italian Meatballs,$53.76,$67.17,http://dummyimage.com/232x100.png/5fa2dd/ffffff,2.7,544.7,"Juicy meatballs made with a blend of beef and pork, seasoned with Italian herbs.",CNX
+693,Organic Granola Cereal,$58.57,$53.94,http://dummyimage.com/126x100.png/dddddd/000000,1.2,977.3,Crunchy granola made with organic oats,CUBN
+694,Comfortable Bed Pillow,$41.27,$12.08,http://dummyimage.com/236x100.png/cc0000/ffffff,4.6,624.5,Supportive pillow designed for a good night's sleep.,III
+695,Traditional Hummus,$82.47,$88.85,http://dummyimage.com/107x100.png/cc0000/ffffff,2.3,729.3,Creamy chickpea dip blended with tahini and garlic.,NHF
+696,Electric Rice Cooker with Steamer,$61.61,$58.12,http://dummyimage.com/102x100.png/dddddd/000000,3.8,897.9,Cook rice and steam vegetables simultaneously for healthy meals.,HSBC^A
+697,Tennis Racket,$75.39,$99.71,http://dummyimage.com/236x100.png/dddddd/000000,3.6,627.7,Lightweight tennis racket for beginners and advanced players.,FBC
+698,Wireless Charger Stand,$6.04,$5.61,http://dummyimage.com/109x100.png/dddddd/000000,4.9,253.0,Convenient charging stand for smartphones and devices.,AFSI^C
+699,Vegetable and Cheese Quesadillas,$34.52,$91.27,http://dummyimage.com/112x100.png/cc0000/ffffff,4.9,42.6,Flour tortilla filled with cheese and a medley of vegetables.,COWN
+700,Outdoor Adventure Kit,$91.45,$24.89,http://dummyimage.com/148x100.png/5fa2dd/ffffff,1.3,546.4,Complete outdoor kit for camping and hiking.,TNP^C
+701,Garlic Herb Cream Cheese,$91.04,$31.03,http://dummyimage.com/237x100.png/5fa2dd/ffffff,4.1,601.1,Spreadable cream cheese blended with garlic and herbs.,MYGN
+702,Organic Blueberries,$9.82,$26.61,http://dummyimage.com/110x100.png/ff4444/ffffff,2.3,60.0,Fresh organic blueberries perfect for snacking or baking.,TGP
+703,Chicken Sausage,$93.94,$14.86,http://dummyimage.com/141x100.png/cc0000/ffffff,1.4,443.9,"Flavorful chicken sausage, low in fat and fully cooked.",BSTG
+704,Lemon Herb Chicken,$17.11,$58.83,http://dummyimage.com/195x100.png/cc0000/ffffff,1.2,246.1,Marinated chicken grilled with lemon and herbs.,IEX
+705,Tandoori Chicken Skewers,$95.48,$44.58,http://dummyimage.com/241x100.png/ff4444/ffffff,2.8,629.4,Marinated chicken skewers infused with traditional tandoori spices.,DB
+706,Baked Falafel,$47.32,$38.27,http://dummyimage.com/149x100.png/cc0000/ffffff,3.6,280.0,"Crispy baked falafel balls, perfect for salads",JLS
+707,Pasta Maker Machine,$77.62,$0.32,http://dummyimage.com/109x100.png/ff4444/ffffff,2.9,942.3,Manual pasta maker for creating fresh pasta at home.,RCI
+708,LED Makeup Mirror,$64.45,$61.32,http://dummyimage.com/104x100.png/dddddd/000000,2.6,213.1,Illuminated vanity mirror with adjustable brightness settings.,PSA^B
+709,Snack Container Set,$66.35,$59.74,http://dummyimage.com/126x100.png/cc0000/ffffff,5.0,609.6,Stackable containers for organizing snacks and treats.,MQT
+710,Scented Soy Candles,$34.15,$99.25,http://dummyimage.com/150x100.png/ff4444/ffffff,1.6,647.0,Hand-poured candles made of natural soy wax.,MVT
+711,Honey Graham Crackers,$57.30,$68.05,http://dummyimage.com/233x100.png/ff4444/ffffff,2.8,168.4,Sweet and crunchy honey-flavored graham crackers.,FUN
+712,Magnetic Spice Jars,$16.14,$85.98,http://dummyimage.com/104x100.png/cc0000/ffffff,2.6,337.6,Convenient magnetic jars for easy spice storage.,ENDP
+713,Electric Nail File Kit,$82.35,$58.66,http://dummyimage.com/156x100.png/5fa2dd/ffffff,4.2,844.2,Professional-grade nail care set for manicures and pedicures.,NHLD
+714,Electric Blanket,$32.89,$19.76,http://dummyimage.com/246x100.png/dddddd/000000,2.6,600.4,Extra soft electric blanket with adjustable heat settings.,TCAP
+715,Chocolate Chip Cliff Bars,$40.66,$68.87,http://dummyimage.com/147x100.png/ff4444/ffffff,3.4,148.9,Nutritious energy bars packed with chocolate chips.,ESL
+716,Coconut Macaroons,$49.81,$71.11,http://dummyimage.com/211x100.png/ff4444/ffffff,4.6,9.1,"Chewy cookies made with coconut, perfect for sweet cravings.",VEEV
+717,Honey mustard chicken tenders,$18.22,$4.84,http://dummyimage.com/218x100.png/dddddd/000000,2.0,780.5,Golden crispy chicken tenders coated with honey mustard flavor.,DL
+718,Cotton Sweatpants,$43.76,$91.10,http://dummyimage.com/201x100.png/5fa2dd/ffffff,4.1,168.0,Soft and breathable cotton sweatpants perfect for lounging or workouts.,HURN
+719,Crispy Tofu Bites,$63.34,$0.19,http://dummyimage.com/212x100.png/cc0000/ffffff,1.5,86.3,"Crispy on the outside, tender on the inside, perfect for stir-fries or salads.",ILG
+720,Bluetooth Headphones,$10.24,$35.04,http://dummyimage.com/113x100.png/cc0000/ffffff,4.7,252.6,Noise-cancelling Bluetooth headphones for immersive sound.,GLA
+721,Plant-Based Cookbook,$66.93,$90.93,http://dummyimage.com/183x100.png/5fa2dd/ffffff,2.8,830.2,Delicious recipes focusing on plant-based ingredients.,SSW^G
+722,Spice Rack,$8.58,$50.42,http://dummyimage.com/110x100.png/dddddd/000000,3.6,786.5,Rotating spice rack with 20 spice jars.,AC
+723,Fishing Rod,$72.15,$21.92,http://dummyimage.com/231x100.png/cc0000/ffffff,2.9,427.9,Lightweight fishing rod suitable for beginners.,PML
+724,Cinnamon Sugar Popcorn,$63.85,$52.22,http://dummyimage.com/129x100.png/cc0000/ffffff,1.3,453.0,Sweet popcorn coated in a mixture of cinnamon and sugar.,CAI
+725,Car Vacuum,$72.71,$11.86,http://dummyimage.com/190x100.png/cc0000/ffffff,4.1,716.4,Portable car vacuum cleaner with strong suction.,CLDC
+726,Wooden Puzzle Game,$9.49,$9.14,http://dummyimage.com/242x100.png/dddddd/000000,1.4,525.3,Classic wooden puzzle game for kids and adults.,BAC^A
+727,Terry Cloth Robe,$36.08,$48.88,http://dummyimage.com/103x100.png/ff4444/ffffff,4.7,313.3,"Soft and comfortable robe, perfect for lounging at home.",NBD
+728,Buffalo Sauce,$0.83,$86.94,http://dummyimage.com/153x100.png/ff4444/ffffff,4.6,336.5,Spicy buffalo sauce ideal for wings or dipping.,BWINB
+729,Pet Grooming Brush,$19.69,$87.50,http://dummyimage.com/172x100.png/cc0000/ffffff,2.1,114.5,Self-cleaning grooming brush for cats and dogs.,MMI
+730,Chili Lime Seasoning,$48.77,$52.15,http://dummyimage.com/159x100.png/5fa2dd/ffffff,3.5,534.0,Zesty seasoning great for tacos and grilling.,IRS
+731,Green Smoothie Mix,$78.03,$31.51,http://dummyimage.com/219x100.png/dddddd/000000,3.8,431.3,A convenient powder mix combining greens and fruits for smoothies.,UBNK
+732,Car Escape Tool,$92.39,$71.31,http://dummyimage.com/189x100.png/ff4444/ffffff,3.3,103.4,Multi-functional tool for emergency situations in the car.,CSWI
+733,Computer Monitor Stand,$98.95,$46.59,http://dummyimage.com/225x100.png/dddddd/000000,1.3,843.5,Ergonomic monitor stand for improved workspace organization.,ETB
+734,Almond Joy Munch Bars,$34.55,$66.09,http://dummyimage.com/229x100.png/ff4444/ffffff,4.5,202.7,"A delightful mix of chocolate, coconut, and almonds in a snack bar.",AA
+735,Travel Luggage Scale,$43.26,$87.48,http://dummyimage.com/175x100.png/cc0000/ffffff,3.1,504.5,Digital scale to avoid overweight baggage fees.,CMRE^B
+736,Honey Roasted Almonds,$42.81,$6.43,http://dummyimage.com/196x100.png/5fa2dd/ffffff,4.6,516.0,Sweet and crunchy roasted almonds.,FSFG
+737,Dog Waste Bag Dispenser,$23.40,$77.46,http://dummyimage.com/246x100.png/ff4444/ffffff,4.7,563.3,Convenient dispenser for dog waste bags on walks.,IVR
+738,Pet Water Fountain with Filtration,$4.65,$69.23,http://dummyimage.com/250x100.png/ff4444/ffffff,1.7,818.0,"Continuous stream of fresh water for pets, promoting hydration.",PXI
+739,Portable Refrigerator Freezer,$97.19,$92.14,http://dummyimage.com/162x100.png/cc0000/ffffff,3.0,972.0,Compact fridge ideal for camping and road trips.,AXGN
+740,Water Bottle with Built-in Fruit Infuser,$46.21,$47.05,http://dummyimage.com/190x100.png/ff4444/ffffff,3.4,220.7,Stay hydrated with refreshing flavored water.,BHAC
+741,Oven Mitts,$53.77,$32.98,http://dummyimage.com/242x100.png/cc0000/ffffff,3.7,195.7,Silicone oven mitts for safe handling of hot cookware.,F
+742,Savory Mushroom Risotto,$27.31,$5.12,http://dummyimage.com/169x100.png/5fa2dd/ffffff,3.7,135.0,Creamy risotto infused with wild mushrooms.,ALL^F
+743,Instant Pot,$0.58,$97.91,http://dummyimage.com/154x100.png/5fa2dd/ffffff,3.1,941.9,7-in-1 multi-cooker for versatile cooking.,ACTG
+744,Insulated Lunch Bag,$28.95,$74.74,http://dummyimage.com/167x100.png/cc0000/ffffff,4.8,216.5,Stylish insulated lunch bag for on-the-go meals.,CVG
+745,Foldable Yoga Mat,$74.34,$87.99,http://dummyimage.com/198x100.png/ff4444/ffffff,4.4,430.5,Compact yoga mat that folds for easy storage and transport.,GPIA
+746,Electric Griddle with Lid,$45.76,$34.99,http://dummyimage.com/203x100.png/ff4444/ffffff,1.2,442.9,"Non-stick griddle for pancakes, burgers, and more.",TOO^B
+747,Garden Hose Reel,$49.74,$4.58,http://dummyimage.com/118x100.png/5fa2dd/ffffff,1.7,120.9,Compact hose reel to keep your garden tidy.,RLGY
+748,Organic Blueberries,$35.57,$67.03,http://dummyimage.com/162x100.png/cc0000/ffffff,1.2,575.6,Fresh organic blueberries perfect for snacking or baking.,SHO
+749,Motion Sensor Light,$86.90,$4.75,http://dummyimage.com/238x100.png/ff4444/ffffff,3.0,56.5,Battery-operated motion sensor light for safety.,ATTU
+750,Pumpkin Ice Cream,$49.19,$61.31,http://dummyimage.com/233x100.png/cc0000/ffffff,4.6,436.0,"Seasonal pumpkin ice cream, perfect for fall.",OKE
+751,Coffee Making Kit,$72.75,$87.28,http://dummyimage.com/111x100.png/ff4444/ffffff,4.8,129.4,Complete set to brew coffee with different methods.,FNK
+752,Maple Glazed Carrots,$31.77,$4.79,http://dummyimage.com/141x100.png/dddddd/000000,3.4,892.8,Tender carrots glazed with a sweet maple sauce.,VCO
+753,Portable Air Conditioner,$16.55,$29.63,http://dummyimage.com/188x100.png/dddddd/000000,3.2,957.9,Compact air conditioner for personal cooling.,VBTX
+754,Avocado Oil Mayo,$66.83,$88.84,http://dummyimage.com/159x100.png/cc0000/ffffff,1.7,731.1,Creamy mayonnaise made with avocado oil for a healthier twist.,PSCT
+755,Canvas High-Top Sneakers,$68.81,$21.49,http://dummyimage.com/131x100.png/dddddd/000000,1.8,59.8,Trendy high-top canvas sneakers for a stylish streetwear look.,DLTR
+756,Frozen Berry Medley,$66.09,$19.22,http://dummyimage.com/213x100.png/5fa2dd/ffffff,4.6,718.7,"A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts.",HOVNP
+757,Reusable Food Storage Bags,$6.37,$28.13,http://dummyimage.com/213x100.png/ff4444/ffffff,4.6,699.3,Eco-friendly silicone bags for food storage and snacks.,OHAI
+758,Pasta Primavera Kit,$40.75,$95.19,http://dummyimage.com/151x100.png/ff4444/ffffff,1.9,215.6,Quick meal kit with pasta and fresh vegetables.,NOVT
+759,Organic Quinoa,$95.41,$32.98,http://dummyimage.com/120x100.png/ff4444/ffffff,2.8,793.6,Nutritious organic quinoa for salads or sides,HEAR
+760,Indestructible Dog Toy,$99.49,$91.94,http://dummyimage.com/152x100.png/cc0000/ffffff,3.8,241.0,Durable toy designed for heavy chewers.,MIC
+761,High-Waisted Skirt,$63.81,$34.88,http://dummyimage.com/157x100.png/dddddd/000000,3.9,695.5,"Chic high-waisted skirt, perfect for professional or casual settings.",VYMI
+762,LED Flashing Pet Collar,$68.04,$0.75,http://dummyimage.com/163x100.png/ff4444/ffffff,5.0,420.4,Safety collar with flashing lights for pets during night walks.,STO
+763,Flavored Instant Oatmeal,$0.68,$34.44,http://dummyimage.com/127x100.png/ff4444/ffffff,3.3,216.9,Quick oatmeal with various flavors,WHR
+764,Buffalo Cauliflower Bites,$33.97,$63.58,http://dummyimage.com/110x100.png/ff4444/ffffff,3.0,355.7,Spicy cauliflower bites for a vegetarian snack.,SPG^J
+765,Creative Puzzle Game,$20.53,$83.84,http://dummyimage.com/227x100.png/cc0000/ffffff,4.9,677.8,Challenging and fun puzzle game for all ages.,SVA
+766,Maple Cinnamon Almonds,$4.35,$31.98,http://dummyimage.com/123x100.png/ff4444/ffffff,1.3,217.8,Roasted almonds coated in a sweet maple and cinnamon mixture.,AXS^D
+767,Smartphone Projector,$73.67,$89.51,http://dummyimage.com/122x100.png/ff4444/ffffff,4.4,1.0,DIY projector that magnifies your smartphone screen for movie nights.,ENZ
+768,Garlic Herb Seasoning,$37.81,$79.09,http://dummyimage.com/118x100.png/cc0000/ffffff,3.7,667.1,A blend of herbs and garlic for seasoning meats and vegetables.,PFO
+769,Microfiber Cleaning Cloth Set,$63.47,$48.74,http://dummyimage.com/187x100.png/cc0000/ffffff,2.0,100.4,Assorted cloths for cleaning electronics and delicate surfaces.,TPC
+770,First Aid Kit,$69.91,$34.56,http://dummyimage.com/114x100.png/5fa2dd/ffffff,3.9,939.7,Comprehensive first aid kit for emergency situations.,FSBW
+771,Honey Garlic Shrimp,$60.75,$76.74,http://dummyimage.com/108x100.png/ff4444/ffffff,1.9,423.0,"Shrimp marinated in a honey garlic sauce, ready to cook.",AIN
+772,Almond Flour Pizza Crust,$76.39,$94.12,http://dummyimage.com/123x100.png/5fa2dd/ffffff,1.5,603.1,"Low-carb pizza crust made from almond flour, gluten-free.",GLRE
+773,Organic Blueberries,$63.09,$88.76,http://dummyimage.com/167x100.png/5fa2dd/ffffff,1.8,403.0,Fresh organic blueberries perfect for snacking or baking.,MHO
+774,Faux Fur Coat,$63.98,$67.22,http://dummyimage.com/103x100.png/cc0000/ffffff,1.7,615.9,A luxurious faux fur coat that adds glamour to any outfit.,JPM^F
+775,Coconut Cream Pie,$85.42,$85.74,http://dummyimage.com/214x100.png/dddddd/000000,4.8,310.1,Delicious pie filled with coconut cream and topped with whipped cream.,KKR^B
+776,Travel Size Toiletry Bottles,$35.83,$25.83,http://dummyimage.com/211x100.png/cc0000/ffffff,2.9,517.7,Leak-proof bottles for travel-sized toiletries.,CLA.CL
+777,Electric Blanket,$92.18,$55.19,http://dummyimage.com/106x100.png/5fa2dd/ffffff,4.0,396.7,Extra soft electric blanket with adjustable heat settings.,PCBK
+778,Children's Gardening Set,$42.98,$33.98,http://dummyimage.com/192x100.png/cc0000/ffffff,3.7,220.7,Fun gardening tools designed specifically for kids.,HBM
+779,Gardening Gloves,$1.12,$48.82,http://dummyimage.com/156x100.png/ff4444/ffffff,2.0,98.8,Durable gardening gloves with reinforced fingertips.,PGR
+780,Spicy Salsa Verde,$96.26,$13.54,http://dummyimage.com/145x100.png/cc0000/ffffff,5.0,897.7,"Green salsa with a spicy kick, great for dipping.",VJET
+781,Mini Air Hockey Table,$22.83,$43.14,http://dummyimage.com/141x100.png/ff4444/ffffff,4.7,60.4,Fun tabletop air hockey for home or office.,RAVE
+782,Shredded Cheese,$69.69,$30.28,http://dummyimage.com/249x100.png/dddddd/000000,4.5,383.8,"Blend of cheddar and mozzarella cheese, great for recipes.",K
+783,Smart Scale,$89.90,$61.64,http://dummyimage.com/192x100.png/dddddd/000000,1.7,415.1,Wi-Fi smart scale for tracking weight and BMI.,VNO^L
+784,Fishing Tackle Box,$41.15,$43.16,http://dummyimage.com/222x100.png/cc0000/ffffff,4.0,20.6,Organized tackle box for fishing gear.,OFLX
+785,Magnetic Puzzle Board,$30.72,$32.03,http://dummyimage.com/184x100.png/cc0000/ffffff,3.2,867.6,Magnetic puzzle assembly board for kids.,FNF
+786,Coconut Cream Pie Yogurt,$33.53,$50.61,http://dummyimage.com/132x100.png/dddddd/000000,1.8,919.9,"Yogurt with the flavors of coconut cream pie, nice and indulgent.",FWONA
+787,Protein Pancake Mix,$30.80,$25.36,http://dummyimage.com/196x100.png/ff4444/ffffff,1.8,518.9,A protein-packed pancake mix for a nutritious breakfast.,CHKP
+788,Overnight Hiking Backpack,$7.29,$55.89,http://dummyimage.com/116x100.png/5fa2dd/ffffff,1.3,107.0,Durable backpack with ample storage for outdoor adventures.,KTOV
+789,Chickpea Salad Deluxe,$53.45,$72.24,http://dummyimage.com/226x100.png/5fa2dd/ffffff,1.6,571.2,"Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad.",TRC
+790,Coconut Curry Lentils,$52.38,$75.21,http://dummyimage.com/189x100.png/5fa2dd/ffffff,3.9,874.5,Lentils cooked in a coconut curry for a hearty meal.,EXC
+791,Chopping Board,$38.37,$67.38,http://dummyimage.com/232x100.png/dddddd/000000,4.8,480.8,Reversible bamboo chopping board for food prep.,VRIG
+792,Garden Hoses with Expandable Features,$77.90,$72.78,http://dummyimage.com/170x100.png/ff4444/ffffff,3.8,693.1,"Lightweight, expandable hoses for easy handling.",CVX
+793,Robot Vacuum Cleaner,$60.16,$4.89,http://dummyimage.com/144x100.png/cc0000/ffffff,2.9,46.2,Smart robotic vacuum for automatic cleaning.,JCO
+794,Memory Foam Pillow,$23.36,$95.19,http://dummyimage.com/229x100.png/cc0000/ffffff,4.3,343.6,Ergonomic memory foam pillow for better sleep.,LNTH
+795,Sliced Provolone Cheese,$17.75,$34.96,http://dummyimage.com/233x100.png/dddddd/000000,1.8,233.4,Mild cheese great for sandwiches.,ULH
+796,Vegetable Fried Rice,$59.69,$70.64,http://dummyimage.com/149x100.png/cc0000/ffffff,2.6,136.1,Quick and easy fried rice mixed with vegetables and soy sauce.,MAT
+797,Peas (frozen),$40.21,$21.89,http://dummyimage.com/111x100.png/dddddd/000000,4.0,138.6,"Frozen green peas, a great addition to meals.",C
+798,Spinach and Cheese Stuffed Shells,$16.78,$21.85,http://dummyimage.com/243x100.png/ff4444/ffffff,2.9,200.0,Delicious pasta shells filled with spinach and cheese,BHL
+799,Spicy Thai Coconut Soup,$51.32,$67.24,http://dummyimage.com/117x100.png/dddddd/000000,1.3,82.6,"A ready-to-eat soup with coconut milk, spices, and vegetables.",FAST
+800,Honeycrisp Apple Chips,$33.73,$97.78,http://dummyimage.com/202x100.png/ff4444/ffffff,2.5,355.3,Crispy and sweet dried apple slices,ARC
+801,Microwave Popcorn Maker,$34.06,$68.20,http://dummyimage.com/241x100.png/cc0000/ffffff,4.3,875.3,Healthier way to make popcorn in the microwave without oil.,AXP
+802,Wooden Toy Train Set,$81.86,$4.37,http://dummyimage.com/126x100.png/dddddd/000000,4.4,173.6,Classic wooden train set for imaginative play.,EKSO
+803,Caribbean Jerk Marinade,$76.47,$43.24,http://dummyimage.com/150x100.png/ff4444/ffffff,3.2,661.9,A spicy marinade perfect for chicken and fish.,FAST
+804,Outdoor Adventure Backpack,$9.59,$16.43,http://dummyimage.com/203x100.png/cc0000/ffffff,1.2,355.9,Durable backpack for hiking or travel.,STZ
+805,Pomegranate Juice,$22.94,$33.61,http://dummyimage.com/168x100.png/ff4444/ffffff,3.0,59.1,"Fresh pomegranate juice, rich in antioxidants.",VNO^I
+806,Organic Vanilla Bean Ice Cream,$79.19,$42.96,http://dummyimage.com/126x100.png/cc0000/ffffff,3.0,999.3,"Creamy ice cream made with real vanilla beans, perfect for desserts.",CIG
+807,Two-Tone Windbreaker,$59.55,$38.97,http://dummyimage.com/205x100.png/5fa2dd/ffffff,2.1,640.8,"Stylish two-tone windbreaker, perfect for active days.",TAHO
+808,Pear and Gorgonzola Salad,$4.23,$70.70,http://dummyimage.com/135x100.png/cc0000/ffffff,4.3,606.8,"Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch.",DSGX
+809,Almond Flour Bread Mix,$25.99,$56.67,http://dummyimage.com/209x100.png/cc0000/ffffff,2.1,709.3,Gluten-free bread mix made with almond flour.,SYNT
+810,Balsamic Salad Dressing,$60.70,$36.87,http://dummyimage.com/239x100.png/cc0000/ffffff,3.2,417.9,"Tangy and sweet balsamic dressing, perfect for salads.",KALV
+811,Leather Notebook Cover,$34.98,$0.14,http://dummyimage.com/127x100.png/5fa2dd/ffffff,4.2,549.1,Elegant cover that protects your notebook with style.,NUM
+812,Maple Cinnamon Almonds,$65.53,$14.94,http://dummyimage.com/228x100.png/ff4444/ffffff,3.3,879.9,Roasted almonds coated in a sweet maple and cinnamon mixture.,CLNS^I
+813,Bamboo Toothbrush Holder,$78.91,$31.63,http://dummyimage.com/132x100.png/5fa2dd/ffffff,1.9,615.4,Eco-friendly bamboo holder for toothbrushes.,EDN
+814,Whole Wheat Bread,$96.06,$27.51,http://dummyimage.com/228x100.png/cc0000/ffffff,2.8,949.9,"Freshly baked whole wheat bread, rich in fiber.",EQC^D
+815,Scent Diffuser Oil,$75.10,$0.90,http://dummyimage.com/233x100.png/cc0000/ffffff,3.5,194.2,Essential oil blends for a soothing atmosphere in your home.,UBA
+816,Whisk Set,$35.22,$65.66,http://dummyimage.com/104x100.png/dddddd/000000,2.1,978.9,Set of whisks in various sizes for cooking.,CLNS^C
+817,Pear and Gorgonzola Salad,$14.88,$36.81,http://dummyimage.com/116x100.png/cc0000/ffffff,2.8,782.9,"Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch.",JBHT
+818,Electric Rice Cooker with Steamer,$49.04,$63.45,http://dummyimage.com/169x100.png/dddddd/000000,2.1,736.1,Cook rice and steam vegetables simultaneously for healthy meals.,BLBD
+819,Maple Pecan Granola,$80.01,$41.64,http://dummyimage.com/237x100.png/cc0000/ffffff,3.4,642.3,"Crunchy granola with maple syrup and pecans, great for breakfast or snacking.",MSI
+820,High-Pressure Handheld Shower Head,$4.68,$14.22,http://dummyimage.com/219x100.png/ff4444/ffffff,1.9,697.3,Shower head designed for a strong spray and complete coverage.,EOD
+821,Adjustable Kneeling Pad,$45.45,$80.32,http://dummyimage.com/170x100.png/cc0000/ffffff,2.7,366.3,Comfortable kneeling pad for gardening or home projects.,KIM^J
+822,Camera Tripod,$49.59,$94.58,http://dummyimage.com/115x100.png/cc0000/ffffff,2.9,523.0,Sturdy camera tripod for professional photography.,WBS^E
+823,Savory Mushroom Risotto,$96.71,$3.69,http://dummyimage.com/207x100.png/5fa2dd/ffffff,3.4,207.4,Creamy risotto infused with wild mushrooms.,WB
+824,Portable Hand Warmer,$78.84,$16.54,http://dummyimage.com/214x100.png/dddddd/000000,4.7,554.3,Rechargeable hand warmer for cold weather comfort.,NATR
+825,Coconut Cream Pie Yogurt,$46.06,$16.22,http://dummyimage.com/178x100.png/ff4444/ffffff,2.3,590.6,"Yogurt with the flavors of coconut cream pie, nice and indulgent.",TATT
+826,Shredded Cheese,$92.64,$13.70,http://dummyimage.com/223x100.png/cc0000/ffffff,2.8,22.9,"Blend of cheddar and mozzarella cheese, great for recipes.",ECOM          
+827,Travel Pillow,$52.22,$30.59,http://dummyimage.com/193x100.png/5fa2dd/ffffff,1.4,46.8,Memory foam travel pillow for neck support.,MYN
+828,Magnetic Spice Containers,$41.26,$30.92,http://dummyimage.com/247x100.png/dddddd/000000,2.4,235.8,Set of magnetic jars for convenient spice organization.,NVMI
+829,Almond Flour Cookies,$43.26,$36.83,http://dummyimage.com/120x100.png/cc0000/ffffff,2.1,976.9,Delicious cookies made with almond flour for a gluten-free treat.,BOOM
+830,Dried Cranberries,$64.76,$87.03,http://dummyimage.com/109x100.png/5fa2dd/ffffff,4.6,953.2,"Sweet and tart dried cranberries, great for salads and baking.",EQT
+831,Sriracha Sauce,$97.80,$49.23,http://dummyimage.com/196x100.png/cc0000/ffffff,4.3,245.9,Spicy chili sauce for an extra kick in your meals.,ESGU
+832,USB Desk Fan,$26.23,$48.32,http://dummyimage.com/142x100.png/dddddd/000000,2.6,659.6,Compact USB fan for personal cooling.,LFVN
+833,Smartphone Car Mount with Wireless Charging,$42.92,$79.03,http://dummyimage.com/112x100.png/ff4444/ffffff,2.6,54.5,Secure phone mount that wirelessly charges your device while driving.,WMIH
+834,Cucumber,$7.80,$6.46,http://dummyimage.com/195x100.png/dddddd/000000,4.7,14.0,"Fresh and crunchy cucumbers, great for salads.",MEOH
+835,Sea Salt Tortilla Chips,$26.31,$54.85,http://dummyimage.com/102x100.png/ff4444/ffffff,4.4,929.8,"Crunchy tortilla chips with a hint of sea salt, great with dips.",UN
+836,Peach & Mango Salsa,$21.91,$13.86,http://dummyimage.com/206x100.png/cc0000/ffffff,2.1,668.9,"A zesty salsa made with peaches and mangos, great for chips.",WRLD
+837,Cranberry Almond Biscotti,$49.13,$14.29,http://dummyimage.com/206x100.png/cc0000/ffffff,3.0,782.8,Crispy and delicious biscotti flavored with cranberry and almond.,BOCH
+838,Caramel Apple Chips,$53.65,$81.00,http://dummyimage.com/121x100.png/5fa2dd/ffffff,1.3,160.8,Crispy apple chips drizzled with caramel for a sweet treat.,CRVL
+839,Vegetable Stock,$53.83,$6.18,http://dummyimage.com/142x100.png/5fa2dd/ffffff,4.8,198.5,Rich vegetable stock for cooking soups and stews.,SU
+840,Wireless Printer,$90.90,$30.58,http://dummyimage.com/170x100.png/5fa2dd/ffffff,4.9,525.6,Compact wireless printer for home use.,NMI
+841,Lemon Dill Chicken Skewers,$8.78,$8.57,http://dummyimage.com/148x100.png/ff4444/ffffff,3.7,898.6,"Marinated chicken skewers with lemon and dill flavor, grilled to perfection.",SNCR
+842,Chic Ankle Strap Heels,$99.78,$77.65,http://dummyimage.com/102x100.png/cc0000/ffffff,2.3,16.9,Stylish ankle strap heels for a classy look at any event.,AEGN
+843,Pet Travel Bed,$66.00,$49.46,http://dummyimage.com/207x100.png/ff4444/ffffff,1.6,904.1,Portable bed for pets while traveling.,OLD
+844,Compact Dishwasher,$59.12,$58.77,http://dummyimage.com/183x100.png/5fa2dd/ffffff,3.8,892.7,Countertop dishwasher for small kitchens.,ATR
+845,Garlic Breadsticks,$93.41,$34.66,http://dummyimage.com/212x100.png/ff4444/ffffff,1.1,67.6,"Ready-to-bake garlic breadsticks, perfect with pasta dishes.",PATK
+846,Organic Coconut Oil,$81.10,$88.86,http://dummyimage.com/134x100.png/cc0000/ffffff,2.9,550.7,"Cold-pressed coconut oil, perfect for cooking, baking, or skin care.",MPAA
+847,Almond Joy Munch Bars,$17.42,$18.77,http://dummyimage.com/139x100.png/5fa2dd/ffffff,1.5,506.9,"A delightful mix of chocolate, coconut, and almonds in a snack bar.",SRCE
+848,Lemon Dill Salmon,$53.21,$5.66,http://dummyimage.com/147x100.png/ff4444/ffffff,4.0,262.3,"Salmon fillets seasoned with lemon and dill, perfect for grilling.",EBMT
+849,Sliced Bell Peppers,$77.24,$35.41,http://dummyimage.com/214x100.png/cc0000/ffffff,4.9,589.0,Fresh sliced bell peppers for salads or stir-fries.,MTBCP
+850,Travel Mug,$65.43,$78.11,http://dummyimage.com/125x100.png/ff4444/ffffff,3.7,702.1,Stainless steel travel mug with spill-proof lid.,RSO^B
+851,Ice Pack,$47.97,$36.29,http://dummyimage.com/135x100.png/5fa2dd/ffffff,1.7,374.0,Reusable gel ice pack for injuries and cooling.,HZN
+852,Pesto Pasta Sauce,$78.95,$34.12,http://dummyimage.com/242x100.png/cc0000/ffffff,2.8,951.9,Rich basil pesto sauce for pasta and more.,IROQ
+853,Zesty Cilantro Lime Dressing,$39.51,$38.74,http://dummyimage.com/237x100.png/dddddd/000000,3.6,345.7,A bright and zesty dressing perfect for salads and tacos.,IMMU
+854,Foam Muscle Roller,$22.51,$91.76,http://dummyimage.com/144x100.png/ff4444/ffffff,4.5,624.7,Relieve muscle tension and soreness with this foam roller.,AGO^E
+855,Skincare Set,$84.00,$3.21,http://dummyimage.com/202x100.png/ff4444/ffffff,1.3,403.5,All-natural skincare set for daily use.,LZB
+856,Watercolor Set,$67.15,$49.73,http://dummyimage.com/244x100.png/5fa2dd/ffffff,3.8,273.7,Complete watercolor set with paints and brushes.,MOXC
+857,Mediterranean Flatbread,$8.90,$56.85,http://dummyimage.com/176x100.png/dddddd/000000,2.4,130.1,"Artisan bread topped with olives, feta, and herbs, perfect for sharing.",FNK
+858,Pumpkin Seeds,$56.65,$27.77,http://dummyimage.com/217x100.png/5fa2dd/ffffff,3.1,681.5,"Crunchy roasted pumpkin seeds, great for snacking.",UMH^B
+859,Reversible Comforter Set,$17.11,$40.72,http://dummyimage.com/122x100.png/ff4444/ffffff,4.7,150.8,Soft comforter set for a cozy bedroom look.,ETB
+860,Mediterranean Couscous Salad,$49.95,$7.59,http://dummyimage.com/191x100.png/dddddd/000000,3.6,890.9,"Couscous salad with cucumbers, tomatoes, feta, and olives, ready to eat.",HT^D
+861,Smartphone UV Sanitizer,$67.21,$75.12,http://dummyimage.com/183x100.png/cc0000/ffffff,3.6,898.0,UV light sanitizer for phones and small items.,CYRXW
+862,Portable Projector,$65.39,$64.25,http://dummyimage.com/238x100.png/dddddd/000000,1.7,843.2,Compact projector for movies and presentations on the go.,SBBX
+863,Teriyaki Tofu Stir-Fry,$65.94,$75.72,http://dummyimage.com/218x100.png/dddddd/000000,4.2,230.3,Tofu stir-fried with fresh vegetables in teriyaki sauce.,CBO
+864,Coconut Bowls Set,$78.12,$1.73,http://dummyimage.com/193x100.png/dddddd/000000,3.8,658.7,Handmade eco-friendly bowls made from real coconuts.,AGI
+865,Shatterproof Wine Glasses,$12.14,$43.77,http://dummyimage.com/185x100.png/cc0000/ffffff,2.8,656.6,"Durable, unbreakable wine glasses for outdoor use.",AWP
+866,Red Lentil Pasta,$31.22,$23.77,http://dummyimage.com/187x100.png/cc0000/ffffff,1.4,537.8,"Gluten-free pasta made from red lentils, packed with protein.",ZPIN
+867,Savory Breakfast Sausage,$88.77,$15.94,http://dummyimage.com/143x100.png/ff4444/ffffff,1.9,466.8,"Frozen sausage patties made with herbs and spices, perfect for breakfast sandwiches.",USAC
+868,Electric Heat Pad,$60.74,$41.79,http://dummyimage.com/240x100.png/cc0000/ffffff,1.6,388.4,Microwaveable heat pad for soothing muscle aches.,ABM
+869,Watering Can with Nozzle,$28.81,$7.57,http://dummyimage.com/233x100.png/dddddd/000000,2.7,952.8,Stylish watering can for plants with easy pouring nozzle.,CHK^D
+870,Silicone Ice Cube Tray,$98.10,$86.79,http://dummyimage.com/227x100.png/dddddd/000000,2.6,109.5,Flexible tray for easy-release ice cubes.,CHEF
+871,Lemon Herb Grilled Chicken,$50.64,$5.93,http://dummyimage.com/114x100.png/dddddd/000000,2.8,454.0,Tender grilled chicken marinated in lemon herbs.,STAR^G
+872,Running Shorts,$66.94,$51.21,http://dummyimage.com/235x100.png/cc0000/ffffff,1.3,340.4,Lightweight and breathable running shorts for your workouts.,MSLI
+873,Almond Milk,$67.62,$70.31,http://dummyimage.com/218x100.png/5fa2dd/ffffff,3.6,363.4,"Deliciously creamy almond milk, perfect for smoothies.",TEDU
+874,Baby Monitor,$48.24,$71.81,http://dummyimage.com/150x100.png/5fa2dd/ffffff,4.0,802.1,Video baby monitor with night vision.,FSD
+875,Chocolate Mint Cookies,$38.89,$4.35,http://dummyimage.com/160x100.png/cc0000/ffffff,3.4,568.0,Delicious cookies with rich chocolate flavor and a hint of mint.,CLNS^F.CL
+876,Wall Planner,$18.46,$84.68,http://dummyimage.com/222x100.png/cc0000/ffffff,1.9,338.5,Large wall planner for organizing schedules.,BANC
+877,Sweet Chili Sauce,$93.33,$55.38,http://dummyimage.com/137x100.png/cc0000/ffffff,2.7,433.7,"A sweet and spicy sauce, great for dipping or cooking.",DEI
+878,Garlic Naan Bread,$26.14,$98.68,http://dummyimage.com/231x100.png/cc0000/ffffff,4.7,14.4,"Soft and delicious garlic-infused flatbread, perfect for dipping.",RAI
+879,Black Bean Salsa,$27.43,$46.11,http://dummyimage.com/183x100.png/ff4444/ffffff,2.4,997.6,Spicy salsa made with black beans and tomatoes.,CORR
+880,Blackberry Compote,$35.48,$86.01,http://dummyimage.com/108x100.png/dddddd/000000,1.6,931.8,"Sweet blackberry compote, perfect for topping desserts.",PMPT
+881,Desk Organizer Set,$98.12,$33.67,http://dummyimage.com/183x100.png/5fa2dd/ffffff,4.2,353.3,Stylish desk set to keep your workspace tidy and organized.,LEXEB
+882,Organic Coconut Yogurt,$83.67,$89.85,http://dummyimage.com/194x100.png/cc0000/ffffff,2.0,966.9,Dairy-free yogurt made from coconut milk.,VHI
+883,Memory Foam Mattress Topper,$59.15,$21.84,http://dummyimage.com/113x100.png/ff4444/ffffff,3.9,291.0,3-inch memory foam mattress topper for added comfort.,ASFI
+884,Coffee Subscription Service,$86.25,$72.32,http://dummyimage.com/247x100.png/cc0000/ffffff,3.6,453.9,Monthly subscription for freshly roasted coffee delivered to your door.,UNTY
+885,Roasted Garlic,$34.15,$36.64,http://dummyimage.com/221x100.png/ff4444/ffffff,3.8,829.3,Savory roasted garlic in a jar for easy use.,VPV
+886,Salsa,$75.77,$52.10,http://dummyimage.com/201x100.png/cc0000/ffffff,2.5,199.8,"Fresh and zesty salsa, perfect for nachos.",GAINO
+887,Protein Pancake Mix,$39.87,$88.04,http://dummyimage.com/146x100.png/cc0000/ffffff,2.8,518.8,A protein-packed pancake mix for a nutritious breakfast.,SHSP
+888,Chocolate Raspberry Tart,$48.63,$54.52,http://dummyimage.com/129x100.png/dddddd/000000,2.1,105.8,"Rich tart filled with chocolate and raspberry, a gourmet dessert.",STAG^B
+889,Collapsible Water Bottle,$94.49,$23.26,http://dummyimage.com/154x100.png/ff4444/ffffff,1.2,446.4,Space-saving collapsible bottle for outdoor activities.,AMC
+890,Set of Herb Garden Markers,$92.50,$34.06,http://dummyimage.com/120x100.png/cc0000/ffffff,2.9,81.5,Stylish markers for labeling your indoor garden plants.,BCX
+891,Creamy Spinach Dip,$53.59,$53.45,http://dummyimage.com/158x100.png/ff4444/ffffff,3.4,341.0,"Deliciously creamy spinach dip, perfect for parties.",XIV
+892,Bluetooth Car Adapter,$71.06,$77.26,http://dummyimage.com/136x100.png/cc0000/ffffff,2.1,30.4,Connect your phone to the car's audio system via Bluetooth.,NL
+893,Fitbit Activity Tracker,$49.79,$14.94,http://dummyimage.com/198x100.png/5fa2dd/ffffff,1.4,432.0,Advanced wristband that tracks daily activities and sleep.,ARLZ
+894,Digital Thermostat,$87.82,$87.30,http://dummyimage.com/210x100.png/5fa2dd/ffffff,2.9,885.0,Programmable digital thermostat for home heating.,UTF
+895,Classic Caesar Dressing,$56.73,$71.16,http://dummyimage.com/139x100.png/5fa2dd/ffffff,2.1,399.4,Rich and creamy Caesar dressing for salads and wraps.,BDGE
+896,Vegan Alfredo Sauce,$20.78,$2.42,http://dummyimage.com/138x100.png/ff4444/ffffff,2.6,848.0,"Creamy, dairy-free Alfredo sauce",TCF.WS
+897,Kettle BBQ Grill,$65.78,$17.30,http://dummyimage.com/156x100.png/dddddd/000000,2.1,604.6,Charcoal kettle grill perfect for backyard barbecues.,MCHP
+898,Measuring Cups Set,$19.31,$28.44,http://dummyimage.com/202x100.png/dddddd/000000,3.1,971.9,Stackable measuring cups made from stainless steel.,STBZ
+899,Home Cleaning Robot,$15.21,$64.23,http://dummyimage.com/110x100.png/cc0000/ffffff,2.3,868.8,Automated cleaning robot for hassle-free home maintenance.,ABEOW
+900,Pineapple Salsa,$43.40,$31.10,http://dummyimage.com/219x100.png/cc0000/ffffff,2.6,559.3,Fresh salsa made with pineapple and spices,WYIG
+901,Gingerbread House Kit,$29.79,$77.15,http://dummyimage.com/167x100.png/5fa2dd/ffffff,3.3,77.4,Everything you need to build a festive gingerbread house.,WSBF
+902,Olive Oil,$23.26,$47.99,http://dummyimage.com/177x100.png/ff4444/ffffff,3.6,852.3,"Extra virgin olive oil, ideal for cooking and salads.",KFS
+903,Floral Summer Dress,$22.28,$63.99,http://dummyimage.com/109x100.png/cc0000/ffffff,1.4,103.3,Light and breezy dress perfect for summer outings with a vibrant floral pattern.,DTUL
+904,Non-Stick Grill Mat,$81.70,$83.97,http://dummyimage.com/210x100.png/ff4444/ffffff,1.8,826.4,Reusable mat that prevents food from sticking to the grill.,AEMD
+905,Colorful Post-It Notes Set,$30.67,$44.33,http://dummyimage.com/215x100.png/dddddd/000000,1.8,629.5,Variety pack of sticky notes in different colors and sizes.,MELR
+906,Ricotta Cheese,$39.79,$97.55,http://dummyimage.com/185x100.png/cc0000/ffffff,4.2,241.3,"Creamy ricotta cheese, great for cooking or making desserts.",MLP
+907,Thai Red Curry Paste,$65.21,$5.91,http://dummyimage.com/192x100.png/ff4444/ffffff,3.5,211.1,Spicy and flavorful curry paste for authentic Thai dishes.,NBL
+908,Car Windshield Sun Shade,$57.91,$64.78,http://dummyimage.com/162x100.png/dddddd/000000,4.9,253.5,Protects car interior from sun damage and heat.,FITBI
+909,Portable Jump Starter,$70.20,$50.70,http://dummyimage.com/171x100.png/ff4444/ffffff,4.9,886.1,Compact jump starter for emergency vehicle starts.,FDIV
+910,Vegetable Curry,$51.34,$19.31,http://dummyimage.com/160x100.png/5fa2dd/ffffff,1.5,278.5,A hearty vegetable curry for a quick and satisfying meal.,MBLY
+911,Dog Training Whistle,$39.26,$27.25,http://dummyimage.com/119x100.png/5fa2dd/ffffff,4.1,153.9,High-frequency whistle for training your dog effectively.,SBGI
+912,Ginger Turmeric Latte Mix,$62.43,$57.00,http://dummyimage.com/190x100.png/ff4444/ffffff,1.4,726.4,A warming blend of ginger and turmeric for lattes.,NEE^R
+913,Organic Quinoa,$76.90,$37.83,http://dummyimage.com/100x100.png/5fa2dd/ffffff,4.2,996.7,Nutritious organic quinoa for salads or sides,CAPL
+914,Cheesy Broccoli Soup Mix,$99.77,$25.42,http://dummyimage.com/222x100.png/ff4444/ffffff,3.1,772.1,Just add water for a hearty cheese and broccoli soup in minutes.,AMRI
+915,Yoga Blocks,$35.31,$86.04,http://dummyimage.com/114x100.png/dddddd/000000,1.8,546.5,Set of two yoga blocks for increased stability and support.,FVE
+916,Chocolate Protein Powder,$38.34,$4.58,http://dummyimage.com/158x100.png/dddddd/000000,2.0,432.8,Rich chocolate protein powder for smoothies and baking.,HIFS
+917,Vegan Protein Powder,$7.00,$3.53,http://dummyimage.com/243x100.png/cc0000/ffffff,2.7,44.6,Plant-based protein powder for post-workout recovery.,AR
+918,Artisan Bread,$35.78,$55.93,http://dummyimage.com/250x100.png/dddddd/000000,1.3,847.7,"Freshly baked artisan bread, perfect for sandwiches or toasting.",HNP
+919,Smartphone Camera Lens Kit,$88.37,$3.53,http://dummyimage.com/185x100.png/5fa2dd/ffffff,1.9,802.1,Upgrade your phone photography with this lens kit that includes wide-angle and macro lenses.,SPWR
+920,Cotton Tote Bag Set,$85.71,$28.58,http://dummyimage.com/168x100.png/5fa2dd/ffffff,4.3,609.6,Reusable tote bags for shopping and eco-friendly living.,NBR
+921,Foot Massager Machine,$70.64,$67.55,http://dummyimage.com/163x100.png/cc0000/ffffff,1.4,434.8,Electric foot massager for relaxation and relief.,PBIB
+922,Canvas Wall Art,$16.37,$48.44,http://dummyimage.com/135x100.png/cc0000/ffffff,4.6,84.7,Stylish wall art to enhance home decor.,RUSHA
+923,Pet Hair Removal Roller,$86.30,$68.59,http://dummyimage.com/119x100.png/ff4444/ffffff,4.7,525.8,Lint roller designed specifically for removing pet hair from furniture.,CLRBW
+924,Dried Apricots,$66.64,$64.55,http://dummyimage.com/128x100.png/cc0000/ffffff,2.4,103.8,"Sweet, chewy dried apricots, great for snacking or baking.",MDWD
+925,Fashionable Belt Bag,$75.05,$15.07,http://dummyimage.com/103x100.png/cc0000/ffffff,2.3,573.3,Trendy belt bag for hands-free carrying.,PM
+926,Teriyaki Beef Strips,$78.61,$47.50,http://dummyimage.com/159x100.png/cc0000/ffffff,3.7,777.3,Marinated beef strips in teriyaki sauce for easy grilling.,GLOB
+927,Athletic Compression Tights,$20.91,$53.58,http://dummyimage.com/181x100.png/cc0000/ffffff,1.1,338.4,High-performance compression tights designed for optimal support and comfort.,IX
+928,Pet Tracking Collar,$91.49,$11.61,http://dummyimage.com/126x100.png/dddddd/000000,2.2,151.6,GPS pet collar that helps locate your pet via smartphone app.,AGZD
+929,Non-Stick Crepe Pan,$63.82,$98.36,http://dummyimage.com/188x100.png/cc0000/ffffff,1.6,375.5,Perfectly designed pan for making crepes and pancakes.,PINC
+930,Wild Rice & Quinoa Mix,$46.09,$46.63,http://dummyimage.com/124x100.png/dddddd/000000,2.4,360.4,"Nutritious blend of wild rice and quinoa, perfect as a side dish.",FNWB
+931,French Onion Dip,$29.98,$88.02,http://dummyimage.com/139x100.png/5fa2dd/ffffff,3.2,188.8,"Creamy dip made with real onions and spices, great for chips and veggies.",AJG
+932,Sliced Ham,$86.50,$23.51,http://dummyimage.com/232x100.png/cc0000/ffffff,4.9,377.4,"Delicious and fully cooked sliced ham, ready to eat.",AAC
+933,Black Bean Salsa,$9.40,$29.82,http://dummyimage.com/133x100.png/5fa2dd/ffffff,2.2,324.8,Spicy salsa made with black beans and tomatoes.,WAFD
+934,Flavored Instant Oatmeal,$4.53,$42.27,http://dummyimage.com/140x100.png/5fa2dd/ffffff,1.9,492.8,Quick oatmeal with various flavors,CPRX
+935,Fitness Jump Rope,$45.06,$26.34,http://dummyimage.com/182x100.png/dddddd/000000,2.1,434.2,Durable jump rope for cardio workouts.,CTRV
+936,Memory Foam Mattress Topper,$26.29,$75.73,http://dummyimage.com/209x100.png/5fa2dd/ffffff,3.8,655.7,3-inch memory foam mattress topper for added comfort.,CTW
+937,Home Office Chair,$17.24,$70.95,http://dummyimage.com/176x100.png/5fa2dd/ffffff,4.3,549.1,Ergonomic office chair with lumbar support and adjustable height.,NVGS
+938,Blue Denim Jeans,$18.11,$29.40,http://dummyimage.com/120x100.png/5fa2dd/ffffff,3.7,335.0,Classic fit blue jeans with a slight stretch for comfort and durability.,MDWD
+939,Red Lentil Pasta,$89.76,$83.01,http://dummyimage.com/160x100.png/5fa2dd/ffffff,2.1,364.0,"Gluten-free pasta made from red lentils, packed with protein.",YRD
+940,Puzzle 3D Model Kit,$82.02,$99.64,http://dummyimage.com/118x100.png/dddddd/000000,1.5,37.8,3D model puzzle kit for creative builders.,CTU
+941,Fitness Tracker Band,$58.86,$36.73,http://dummyimage.com/152x100.png/ff4444/ffffff,4.5,899.4,Affordable fitness tracker with heart rate monitor.,APO^A
+942,Crispy Rice Treats,$2.86,$63.82,http://dummyimage.com/195x100.png/cc0000/ffffff,2.7,905.5,Classic marshmallow treats made with crispy rice.,ARE^D
+943,Blackberry Jam,$36.96,$30.15,http://dummyimage.com/147x100.png/ff4444/ffffff,4.7,625.9,Delicious homemade style blackberry jam.,BAP
+944,Creative Puzzle Game,$55.38,$3.70,http://dummyimage.com/189x100.png/dddddd/000000,3.6,342.4,Challenging and fun puzzle game for all ages.,EXPE
+945,Whole Wheat Pita Bread,$21.31,$24.78,http://dummyimage.com/150x100.png/ff4444/ffffff,2.7,587.3,"Soft and fluffy whole wheat pita bread, great for wraps.",LEO
+946,Chocolate Hazelnut Spread,$26.39,$58.21,http://dummyimage.com/206x100.png/5fa2dd/ffffff,1.6,785.0,"A creamy spread made with chocolate and hazelnuts, perfect for toast.",BAC^A
+947,Decorative Throw Pillows,$77.73,$12.43,http://dummyimage.com/150x100.png/5fa2dd/ffffff,2.3,244.5,Set of stylish throw pillows for home decor.,LDL
+948,Body Pillow Case,$13.77,$47.89,http://dummyimage.com/167x100.png/dddddd/000000,3.4,101.0,Soft and breathable pillowcase for body pillows.,PRGO
+949,Tomato Basil Soup,$45.74,$43.32,http://dummyimage.com/149x100.png/5fa2dd/ffffff,2.6,738.3,"A classic soup combining tomatoes and basil, great with grilled cheese sandwiches.",PN
+950,Sliced Turkey Breast,$0.79,$68.38,http://dummyimage.com/108x100.png/cc0000/ffffff,3.4,383.3,"Oven-roasted sliced turkey, perfect for sandwiches.",FTGC
+951,Cushion Covers,$55.74,$5.63,http://dummyimage.com/241x100.png/ff4444/ffffff,1.5,119.3,Set of decorative cushion covers for home decor.,CACC
+952,Maple Chipotle Glaze,$93.71,$10.86,http://dummyimage.com/130x100.png/dddddd/000000,3.9,227.2,A sweet and spicy glaze that's perfect for grilling or marinades.,CECE
+953,Electric Meat Grinder,$24.90,$90.18,http://dummyimage.com/185x100.png/cc0000/ffffff,4.4,319.3,Powerful grinder for making sausage and burgers at home.,AMH^C
+954,Wireless Earbuds,$12.61,$55.46,http://dummyimage.com/215x100.png/cc0000/ffffff,3.2,320.1,True wireless earbuds with touch control.,WST
+955,Wi-Fi Enabled Smart Light Switch,$48.54,$7.98,http://dummyimage.com/139x100.png/dddddd/000000,4.0,313.6,Control your lights remotely with a smartphone app.,HLIT
+956,Portable Pet Pooper Scooper,$14.47,$49.28,http://dummyimage.com/228x100.png/5fa2dd/ffffff,1.7,728.8,Compact scooper for easy waste clean-up during walks.,CLAC
+957,Thyme,$3.96,$40.50,http://dummyimage.com/192x100.png/ff4444/ffffff,4.0,177.9,"Fresh thyme, perfect for seasoning dishes.",DTEA
+958,Elderberry Syrup Kit,$27.87,$54.72,http://dummyimage.com/198x100.png/5fa2dd/ffffff,1.0,53.3,DIY kit to make your own elderberry syrup.,PSCC
+959,Pet Safety Belt for Car,$16.98,$69.71,http://dummyimage.com/224x100.png/cc0000/ffffff,3.4,575.8,Seat belt attachment to keep dogs safe during car rides.,SSD
+960,Athletic Sports Bra,$39.79,$5.42,http://dummyimage.com/220x100.png/5fa2dd/ffffff,2.8,573.6,"Supportive sports bra designed for high-impact workouts, made with moisture-wicking fabric.",EMF
+961,Sesame Seeds,$63.66,$90.64,http://dummyimage.com/237x100.png/cc0000/ffffff,1.9,351.7,Crunchy seeds perfect for toppings and baking.,BFIT
+962,Wireless Security System,$95.88,$41.02,http://dummyimage.com/151x100.png/cc0000/ffffff,4.7,921.6,Comprehensive camera and alert system for home security.,NUTR
+963,Spinach and Feta Wraps,$10.13,$27.01,http://dummyimage.com/121x100.png/ff4444/ffffff,3.9,960.1,Whole wheat wraps filled with spinach and feta cheese.,GG
+964,Vintage Graphic Tee,$80.88,$32.41,http://dummyimage.com/243x100.png/5fa2dd/ffffff,2.1,959.7,Retro-style graphic tee with a soft wash for a vintage feel.,AFMD
+965,Compost Bin,$60.65,$58.45,http://dummyimage.com/176x100.png/5fa2dd/ffffff,4.2,34.4,Countertop compost bin for kitchen waste.,SFST
+966,Waffle Maker,$58.23,$83.44,http://dummyimage.com/217x100.png/ff4444/ffffff,1.6,630.3,Make delicious waffles with this user-friendly device.,RUTH
+967,Pet Waterer with Filtration,$1.28,$42.40,http://dummyimage.com/140x100.png/cc0000/ffffff,3.6,922.0,Automatic waterer that filters and provides fresh drinking water for pets.,LMT
+968,Decorative LED Neon Sign,$27.88,$51.22,http://dummyimage.com/106x100.png/cc0000/ffffff,2.8,333.4,"Bright, vibrant sign to add flair to any space.",GNMX
+969,Feta Cheese,$69.10,$92.12,http://dummyimage.com/135x100.png/dddddd/000000,1.0,510.9,"Tangy feta cheese, perfect for salads and sandwiches.",NBEV
+970,Animal Paw Print Soap Dispenser,$90.22,$53.99,http://dummyimage.com/151x100.png/dddddd/000000,1.9,93.4,Cute dispenser for bathrooms or kitchens featuring paw prints.,FLL
+971,Italian Sausage and Peppers,$10.08,$44.20,http://dummyimage.com/113x100.png/ff4444/ffffff,3.5,485.6,A flavorful blend of Italian sausage with sautéed peppers and onions.,XCO
+972,Smoky BBQ Jackfruit,$12.24,$79.55,http://dummyimage.com/101x100.png/cc0000/ffffff,4.8,906.5,Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish.,VRX
+973,Green Tea Matcha Powder,$27.85,$84.77,http://dummyimage.com/246x100.png/cc0000/ffffff,3.0,985.2,High-quality matcha powder for smoothies and baking.,SUN
+974,Stuffed Peppers with Quinoa,$45.26,$95.68,http://dummyimage.com/188x100.png/cc0000/ffffff,2.1,96.3,Bell peppers filled with quinoa and vegetables.,STKS
+975,Spicy Vegetable Sushi Rolls,$90.19,$36.00,http://dummyimage.com/210x100.png/5fa2dd/ffffff,3.9,712.3,Vegan sushi filled with spicy vegetables and avocado.,PRU
+976,Sweet Cherry Tomatoes,$83.62,$54.23,http://dummyimage.com/147x100.png/dddddd/000000,1.6,236.9,Fresh and juicy cherry tomatoes for salads and snacking.,IFF
+977,Ankle Boots,$34.44,$2.91,http://dummyimage.com/194x100.png/5fa2dd/ffffff,1.4,677.6,"Stylish leather ankle boots with a block heel, perfect for fall styling.",JSMD
+978,Spinach and Cheese Stuffed Shells,$61.35,$2.16,http://dummyimage.com/101x100.png/cc0000/ffffff,2.8,810.5,Delicious pasta shells filled with spinach and cheese,NEV
+979,Cherry Almond Protein Bar,$14.93,$64.05,http://dummyimage.com/114x100.png/cc0000/ffffff,1.2,964.0,"Nutritious protein bar with cherry and almond flavor, great for on-the-go.",AIV^A
+980,Dark Chocolate Tart,$0.00,$52.89,http://dummyimage.com/232x100.png/5fa2dd/ffffff,2.6,875.5,Decadent tart made with rich dark chocolate.,DD
+981,Pet Carrier Backpack,$6.16,$53.54,http://dummyimage.com/108x100.png/cc0000/ffffff,1.3,202.3,Comfortable and breathable backpack for carrying small pets.,DDR^K
+982,Portable Speaker Stand,$97.89,$59.67,http://dummyimage.com/148x100.png/dddddd/000000,1.7,829.6,Adjustable stand for portable speakers and devices.,DFT
+983,Ceramic Knife Set,$80.93,$33.07,http://dummyimage.com/123x100.png/5fa2dd/ffffff,2.9,548.3,Set of ceramic knives for precision slicing.,TDJ
+984,Black Olives,$38.45,$99.24,http://dummyimage.com/117x100.png/cc0000/ffffff,3.5,427.7,"Sliced black olives, perfect for salads and pizzas.",BDX
+985,Sour Cream,$80.98,$90.50,http://dummyimage.com/212x100.png/dddddd/000000,1.7,348.7,"Tangy sour cream, perfect for dips and toppings.",WST
+986,Maple Oatmeal,$63.23,$50.78,http://dummyimage.com/226x100.png/5fa2dd/ffffff,1.1,286.4,Delicious maple-flavored oatmeal for a quick breakfast.,HLT
+987,Travel Beach Blanket,$66.16,$87.92,http://dummyimage.com/143x100.png/cc0000/ffffff,4.6,727.7,Sand-resistant and compact for outdoor and beach use.,FONR
+988,Stainless Steel Travel Mug,$35.72,$27.23,http://dummyimage.com/154x100.png/5fa2dd/ffffff,4.6,331.1,Insulated mug to keep drinks hot on the go.,CLFD
+989,Sooji (Semolina),$3.37,$7.81,http://dummyimage.com/161x100.png/cc0000/ffffff,1.4,510.2,"Fine semolina flour, perfect for pasta and desserts.",CHL
+990,Avocado Lime Dressing,$56.30,$43.49,http://dummyimage.com/213x100.png/cc0000/ffffff,2.9,833.7,"Refreshing dressing made with avocado and lime, perfect for salads.",WTBA
+991,Bluetooth Headphones,$63.89,$20.31,http://dummyimage.com/177x100.png/ff4444/ffffff,3.5,304.0,Noise-cancelling Bluetooth headphones for immersive sound.,CALI
+992,Desk Lamp with USB Port,$88.63,$36.90,http://dummyimage.com/175x100.png/dddddd/000000,3.5,644.3,Modern desk lamp that features a built-in USB charging port.,GCO
+993,Compact Pop-Up Tent,$60.72,$97.17,http://dummyimage.com/210x100.png/5fa2dd/ffffff,3.6,590.0,Easy setup tent perfect for camping and outdoor festivals.,KIM^J
+994,Thai Red Curry Paste,$86.19,$99.42,http://dummyimage.com/218x100.png/dddddd/000000,3.3,420.2,Spicy and flavorful curry paste for authentic Thai dishes.,DDS
+995,Bodyweight Resistance Bands,$68.39,$74.06,http://dummyimage.com/211x100.png/cc0000/ffffff,2.6,502.9,Set of resistance bands for strength training at home.,TLND
+996,Maple Bacon Popcorn,$29.90,$93.22,http://dummyimage.com/246x100.png/cc0000/ffffff,3.0,287.9,Savory popcorn flavored with maple syrup and bacon bits.,AFT
+997,Coconut Milk Ice Cream,$4.95,$35.59,http://dummyimage.com/181x100.png/5fa2dd/ffffff,4.1,181.0,"Dairy-free ice cream made with coconut milk, creamy and delicious.",ALXN
+998,Plant-Based Meal Prep Containers,$18.22,$57.42,http://dummyimage.com/223x100.png/cc0000/ffffff,2.5,364.8,Eco-friendly meal prep containers for healthy eating.,IX
+999,Nutty Trail Mix,$51.32,$36.20,http://dummyimage.com/192x100.png/dddddd/000000,1.2,400.7,"A blend of nuts, seeds, and dried fruits for snacking.",WFC^P
+1000,Cheesy Cauliflower Bake,$6.54,$29.08,http://dummyimage.com/188x100.png/ff4444/ffffff,2.8,312.8,"A frozen cheesy bake made with cauliflower, great as a side dish or a vegetarian meal.",IBKR

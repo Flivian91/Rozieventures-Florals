@@ -1,9 +1,11 @@
 import ProductsCard from "@/components/card/ProductsCard";
 import Heading from "@/components/common/Heading";
 import { Button } from "@/components/ui/button";
+import products from "../../../../data/MOCK_DATA.json";
 import React from "react";
 
 function Collection() {
+  const visibleProducts = products.filter((product) => product.id < 3);
   return (
     <div className="py-16 px-4">
       <div className="flex flex-col gap-3 items-center">
@@ -14,9 +16,9 @@ function Collection() {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        <ProductsCard />
-        <ProductsCard />
-        <ProductsCard />
+        {visibleProducts.map((item) => {
+          return <ProductsCard key={item.id} data={item} />;
+        })}
       </div>
       <div className="flex items-center justify-center">
         <Button>View All Products</Button>

@@ -14,20 +14,20 @@ import { Badge } from "../ui/badge";
 import { FaStar } from "react-icons/fa";
 import { Heart, ShoppingCart } from "lucide-react";
 
-function ProductsCard() {
+function ProductsCard({ data }) {
   return (
     <Card className={"group"}>
       <CardHeader>
         <div className="relative overflow-hidden transition-all duration-300">
           <Image
-            src={"/images/purple-roses.jpg"}
+            src={data.image}
             height={100}
             width={100}
-            alt="Gloden Image"
+            alt={data.name}
             className="group-hover:scale-105 group-hover:opacity-40 object-cover w-full"
           />
           <div className="absolute z-10 top-2 left-0 w-full flex items-center justify-between">
-            <Badge className={"bg-accent"}>New</Badge>
+            <Badge className={"bg-accent"}>{data.badge}</Badge>
             <Button className={"bg-slate-100 text-slate-800"}>
               <Heart />
             </Button>
@@ -53,19 +53,19 @@ function ProductsCard() {
             <FaStar />
             <FaStar />
           </div>
-          <div className="flex items-center gap-2">
-            <span>4.9</span>
-            <span>(127)</span>
+          <div className="flex items-center gap-1 tracking-wide font-mono">
+            <span>{data.rating}</span>
+            <span>({Math.round(data.review)})</span>
           </div>
         </div>
-        <h2 className="text-xl tracking-wider group-hover:text-primary">
-          Soft Pink Peonies
+        <h2 className="md:text-2xl text-xl tracking-wider text-slate-700 group-hover:text-primary font-bold">
+          {data.name}
         </h2>
-        <p>Delicate pink peonies perfet for romantice</p>
+        <p className="text-">{data.description}</p>
       </CardContent>
       <CardFooter className={"flex justify-between items-center"}>
         <div>
-          <span>Ksh 2,000</span>
+          <span>{data.originalPrice}</span>
         </div>
         <Button>Add to Cart</Button>
       </CardFooter>
