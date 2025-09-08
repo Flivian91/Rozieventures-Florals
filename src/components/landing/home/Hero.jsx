@@ -38,7 +38,7 @@ const Hero = () => {
         </h1>
 
         {/* Subheading */}
-        <p className="text-lg text-white/90 max-w-2xl">
+        <p className="text-lg md:text-xl text-white/90 max-w-2xl">
           Discover our exquisite collection of premium floral arrangements,
           perfect for every occasion and delivered with love.
         </p>
