@@ -10,9 +10,16 @@ const Hero = () => {
     // Hero Section
     <section className="min-h-screen bg-primary/60 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <div className="flex flex-col gap-2">
-        <span>Fresh Flowers</span>
+        <span>Beautifull Florals</span>
+        <span>Delivered fresh</span>
         {/* Fresh */}
-        <h1>Find your own happiness</h1>
+        <h1>
+          Discover our exquisite collection of premium floral arrangements,
+          perfect for every occasion and delivered with love.
+        </h1>
+        <div>
+          
+        </div>
       </div>
       <div>
         <Image
