@@ -48,8 +48,8 @@ export default function VideoShowcase() {
   }, []);
 
   return (
-    <section className="h-screen w-full bg-gradient-to-b  from-pink-50 to-purple-100 flex flex-col items-center justify-center">
-      <div className="mb-5">
+    <section className="h-screen w-full bg-gradient-to-b py-12 from-pink-50 to-purple-100 flex flex-col items-center justify-center">
+      <div className="mb-5 flex items-center justify-center">
         <Heading text={"How We Create Our Flowers"} />
       </div>
       <div

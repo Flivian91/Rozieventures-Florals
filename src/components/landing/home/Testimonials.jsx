@@ -78,7 +78,7 @@ const Testimonials = () => {
               {testimonials.map((testimonial) => (
                 <div key={testimonial.id} className="w-full flex-shrink-0 px-4">
                   <Card className="glass-card border-0 text-center">
-                    <CardContent className="p-8 md:p-12">
+                    <CardContent className="p-4 md:p-12">
                       {/* Quote Icon */}
                       <div className="flex justify-center mb-6">
                         <div className="w-16 h-16  bg-gradient-to-l from-secondary to-primary  rounded-full flex items-center justify-center">
@@ -97,7 +97,7 @@ const Testimonials = () => {
                       </div>
 
                       {/* Content */}
-                      <blockquote className="text-xl md:text-2xl font-inter text-foreground mb-8 leading-relaxed">
+                      <blockquote className="sm:text-xl text-lg md:text-2xl font-inter text-foreground mb-8 leading-relaxed">
                         "{testimonial.content}"
                       </blockquote>
 

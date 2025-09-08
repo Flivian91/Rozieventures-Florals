@@ -10,7 +10,7 @@ function Collection() {
     <div className="py-16 px-4 flex flex-col gap-5">
       <div className="flex flex-col gap-3 items-center">
         <Heading text={"Featured Collections"} />
-        <p className="text-center tracking-wide text-lg md:text-2xl w-[700]">
+        <p className="text-center tracking-wide text-lg md:text-2xl lg:w-[700]">
           Handpicked premium arrangements crafted with love and delivered fresh
           to your doorstep
         </p>
