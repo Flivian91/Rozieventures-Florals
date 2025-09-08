@@ -1,4 +1,5 @@
 "use client";
+import Heading from "@/components/common/Heading";
 import { useRef, useEffect } from "react";
 
 const videos = [
@@ -48,10 +49,9 @@ export default function VideoShowcase() {
 
   return (
     <section className="h-screen w-full bg-gradient-to-b  from-pink-50 to-purple-100 flex flex-col items-center justify-center">
-      <h2 className="text-4xl md:text-5xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600">
-        How We Create Our Flowers
-      </h2>
-
+      <div className="mb-5">
+        <Heading text={"How We Create Our Flowers"} />
+      </div>
       <div
         ref={containerRef}
         className="h-[80vh] w-full max-w-3xl overflow-y-scroll snap-y snap-mandatory rounded-2xl shadow-2xl scrollbar-hide"
