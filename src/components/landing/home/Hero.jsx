@@ -30,7 +30,7 @@ const Hero = () => {
         </div>
 
         {/* Heading */}
-        <h1 className="text-5xl sm:text-6xl font-bold leading-tight text-white">
+        <h1 className="text-3xl sm:text-6xl font-bold leading-tight text-white">
           Beautiful Florals{" "}
           <span className="block text-pink-300 drop-shadow-lg">
             Delivered Fresh

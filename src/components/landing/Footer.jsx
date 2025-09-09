@@ -21,7 +21,7 @@ function Footer() {
             />
             <span className="text-xl font-semibold">Rozieventures Florals</span>
           </Link>
-          <p className="text-slg text-slate-700">
+          <p className="text-slg text-slate-700 text-center md:text-left">
             Creating beautiful moments with premium floral arrangements. Every
             bouquet tells a story of love, joy, and celebration.
           </p>
