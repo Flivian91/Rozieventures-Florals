@@ -1,6 +1,6 @@
 import Heading from "@/components/common/Heading";
 import ShopFilter from "@/components/landing/shop/ShopFilter";
-import ShopPagination from "@/components/landing/shop/ShopPagination";
+import { ShopPagination } from "@/components/landing/shop/ShopPagination";
 import ShopProducts from "@/components/landing/shop/ShopProducts";
 import React from "react";
 
