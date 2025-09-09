@@ -27,20 +27,20 @@ function ProductsCard({ data }) {
             className="group-hover:scale-105 group-hover:opacity-40 object-cover w-full"
           />
           <div className="absolute z-10 top-2 left-0 w-full flex items-center justify-between">
-            <Badge className={"bg-accent"}>New</Badge>
-            <Button className={"bg-slate-100 text-slate-800"}>
+            <Badge className={"bg-accent text-slate-800"}>New</Badge>
+            <Button className={"bg-slate-100 text-slate-800 hover:text-slate-100"}>
               <Heart />
             </Button>
           </div>
           <CardAction>
-            <button
+            <Button
               className={
                 "items-center cursor-pointer gap-2 bg-primary text-slate-100 rounded px-4 py-2 justify-between hidden group-hover:flex absolute top-1/2 left-1/2 transform -translate-x-1/2  -translate-y-1/2 z-10"
               }
             >
               <ShoppingCart />
               <span>Quick Add</span>
-            </button>
+            </Button>
           </CardAction>
         </div>
       </CardHeader>
@@ -56,16 +56,17 @@ function ProductsCard({ data }) {
             <span>({Math.round(data.review)})</span>
           </div>
         </div>
-        <h2 className="md:text-2xl text-xl tracking-wider text-slate-700 group-hover:text-primary font-bold">
+        <h2 className="md:text-2xl text-xl tracking-wider text-slate-700 group-hover:text-primary font-bold truncate">
           {data.name}
         </h2>
-        <p className="text-">{data.description}</p>
+        <p className="truncate">{data.description}</p>
       </CardContent>
       <CardFooter className={"flex justify-between items-center"}>
-        <div>
+        <div className="flex items-center gap-2">
           <span>{data.originalPrice}</span>
+          <del>{data.price}</del>
         </div>
-        <Button>Add to Cart</Button>
+        <Button className={"cursor-pointer"}>Add to Cart</Button>
       </CardFooter>
     </Card>
   );
