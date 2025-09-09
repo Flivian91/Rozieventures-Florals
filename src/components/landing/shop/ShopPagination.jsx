@@ -10,14 +10,28 @@ import {
 
 export function ShopPagination() {
   return (
-    <div className="flex items-center justify-between">
-      <div>
-        <span>Showing</span>
-      </div>
-      <Pagination>
+    <div className="pt-4">
+      <Pagination className={"flex flex-col gap-4 md:flex-row items-center justify-between"}>
+        <div>
+          <h3 className="flex items-center gap-1 text-slate-700">
+            Showing{" "}
+            <span className="text-slate-950 font-bold tracking-wide font-mono">
+              1
+            </span>{" "}
+            to{" "}
+            <span className="text-slate-950 font-bold tracking-wide font-mono">
+              10
+            </span>{" "}
+            of{" "}
+            <span className="text-slate-950 font-bold tracking-wide font-mono">
+              100
+            </span>
+            Entities
+          </h3>
+        </div>
         <PaginationContent>
           <PaginationItem>
-            <PaginationPrevious href="#" />
+            <PaginationPrevious href="#" className={"rounded"} />
           </PaginationItem>
           <PaginationItem>
             <PaginationLink href="#">1</PaginationLink>
@@ -34,7 +48,7 @@ export function ShopPagination() {
             <PaginationEllipsis />
           </PaginationItem>
           <PaginationItem>
-            <PaginationNext href="#" />
+            <PaginationNext href="#" className={"rounded"} />
           </PaginationItem>
         </PaginationContent>
       </Pagination>

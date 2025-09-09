@@ -37,7 +37,7 @@ export function ShopFilterPrices() {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="w-full justify-between rounded bg-gray-50"
+          className="w-full justify-between rounded bg-white"
         >
           {value
             ? priceRanges.find((price) => price.value === value)?.label

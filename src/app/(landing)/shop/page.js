@@ -6,7 +6,7 @@ import React from "react";
 
 function page() {
   return (
-    <div className="py-10 px-5">
+    <div className="py-10 px-5 bg-slate-50">
       <div className="flex flex-col gap-2 items-center justify-center">
         <Heading text={"Our Floral Collection"} />
         <h3 className="text-center w-[500px]">Discover our carefully curated selection of premium floral arrangements</h3>
