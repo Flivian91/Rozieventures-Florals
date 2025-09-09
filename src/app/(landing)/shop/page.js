@@ -1,7 +1,11 @@
 import React from "react";
 
 function page() {
-  return <div>All product listing</div>;
+  return <div>
+    {/* Filter Part */}
+    {/* Products */}
+    {/* Load more */}
+  </div>;
 }
 
 export default page;
