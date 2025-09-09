@@ -3,6 +3,7 @@ import Hero from "@/components/landing/home/Hero";
 import Testimonials from "@/components/landing/home/Testimonials";
 import VideoShowcase from "@/components/landing/home/VideoShowcase";
 import Navbar from "@/components/landing/Navbar";
+import  { SubscribeModel } from "@/components/landing/SubscribeModel";
 import Image from "next/image";
 
 export default function Home() {
@@ -17,6 +18,8 @@ export default function Home() {
       {/* Testimonial */}
 
       <Testimonials />
+      {/* Subscribe Model */}
+      <SubscribeModel/>
     </div>
   );
 }
