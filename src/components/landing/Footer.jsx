@@ -130,7 +130,7 @@ function Footer() {
             </li>
           </ul>
         </div>
-        <div className="">
+        <div className="flex flex-col gap-4 items-center md:items-start">
           <h2 className="text-lg uppercase tracking-wider font-medium">
             Get in Touch
           </h2>
@@ -156,7 +156,7 @@ function Footer() {
             </div>
           </div>
           <div className="mt-3">
-            <h2 className="text-lg uppercase tracking-wider font-medium">
+            <h2 className="text-lg uppercase tracking-wider font-medium flex flex-col gap-4 items-center md:items-start">
               Business Hours
             </h2>
             <div className="flex flex-col gap-2 text-sm tracking-wide mt-2">
@@ -168,12 +168,12 @@ function Footer() {
         </div>
       </div>
       {/* Down Footer */}
-      <div className="border-t-2  flex items-center justify-between py-3 md:py-4">
-        <div className="flex items-center gap-1">
+      <div className="border-t-2  grid grid-cols-1 gap-2 md:grid-cols-2 items-center justify-between py-3 md:py-4">
+        <div className="flex items-center gap-1 justify-center md:justify-start ">
           <span>@ 2025 Rozieventures Floral.</span>
           <span>All right reserved</span>
         </div>
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-4 justify-center md:justify-end ">
           <Link
             href={"/privacy"}
             className="hover:text-primary text-sm text-slate-700"
