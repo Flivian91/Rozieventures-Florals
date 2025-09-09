@@ -3,6 +3,8 @@ import Heading from "@/components/common/Heading";
 import { Button } from "@/components/ui/button";
 import products from "../../../../data/MOCK_DATA.json";
 import React from "react";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
 function Collection() {
   const visibleProducts = products.filter((product) => product.id < 4);
@@ -20,8 +22,14 @@ function Collection() {
           return <ProductsCard key={item.id} data={item} />;
         })}
       </div>
-      <div className="flex items-center justify-center">
-        <Button variant={"outline"}>View All Products</Button>
+      <div className="flex items-center justify-center mt-5">
+        <Link
+          href={"/shop"}
+          className="px-4 py-2 border rounded border-slate-300 text-slate-800 tracking-wider flex items-center gap-2 hover:bg-accent hover:border-transparent"
+        >
+          <span>View All Products</span>
+          <ArrowRight size={17} />
+        </Link>
       </div>
     </div>
   );
