@@ -6,7 +6,7 @@ import { FaStar } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden">
+    <section className="relative py-12 flex items-center justify-center text-center overflow-hidden">
       {/* Background Image */}
       <Image
         src="/images/hero-florals.jpg"

@@ -59,7 +59,7 @@ const Testimonials = () => {
 
   return (
     <section className="py-16 bg-slate-50">
-      <div className="container mx-auto px-6">
+      <div className="container mx-auto sm:px-6">
         {/* Section Header */}
         <div className="text-center mb-16 animate-fade-up">
           <Heading text={" What Our Customers Say"} />
