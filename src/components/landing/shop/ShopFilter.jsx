@@ -16,7 +16,7 @@ function ShopFilter() {
       <ShopFilterCategories />
       {/* Search by price */}
       <ShopFilterPrices />
-      {/*  */}
+      {/* Filter option */}
       <ShopFilterOptions />
     </div>
   );
