@@ -9,7 +9,7 @@ function page() {
         <h3 className="text-center w-[500px]">
           Founded with a passion for bringing natural beauty into everyday life,
           Rozieventures Florals has been creating stunning floral arrangements
-          for over a decade.
+          for over a decade.X
         </h3>
       </div>
       <div className="grid grid-cols-2 gap-8">
