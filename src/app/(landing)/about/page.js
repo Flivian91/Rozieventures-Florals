@@ -39,7 +39,7 @@ const valueData = [
 function page() {
   return (
     <div className="py-6  bg-slate-50">
-      <div className="flex px-5 flex-col gap-2 items-center justify-center">
+      <div className="flex px-5 flex-col py-10 gap-2 items-center justify-center">
         <Heading text={"Our Story"} />
         <h3 className="text-center text-lg tracking-wider w-[700px]">
           Founded with a passion for bringing natural beauty into everyday life,
