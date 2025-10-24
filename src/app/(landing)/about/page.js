@@ -1,4 +1,5 @@
 import Heading from "@/components/common/Heading";
+import PageHeading from "@/components/common/PageHeading";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Award, Handshake, Heart, User2 } from "lucide-react";
@@ -39,14 +40,15 @@ const valueData = [
 function page() {
   return (
     <div className="py-6  bg-slate-50">
-      <div className="flex px-5 flex-col py-10 gap-2 items-center justify-center">
-        <Heading text={"Our Story"} />
-        <h3 className="text-center text-lg tracking-wider w-[700px]">
-          Founded with a passion for bringing natural beauty into everyday life,
-          Rozieventures Florals has been creating stunning floral arrangements
-          for over a decade.
-        </h3>
+      <div className="bg-primary/20 py-10">
+        <PageHeading
+          heading={"Our Story"}
+          subHeading={
+            "Founded with a passion for bringing natural beauty into everyday life,Rozieventures Florals has been creating stunning floral arrangements for over a decade."
+          }
+        />
       </div>
+
       <div className="grid px-5 grid-cols-2 gap-8 ">
         <div className="flex flex-col gap-4 px-2 py-8">
           <h1 className="text-4xl font-mono tracking-wider">
@@ -124,7 +126,9 @@ function page() {
         </div>
       </div>
       <div className="py-16 bg-primary/20 flex items-center justify-center flex-col gap-3">
-        <h1 className="text-4xl  tracking-wider">Ready to Brighten Your Day?</h1>
+        <h1 className="text-4xl  tracking-wider">
+          Ready to Brighten Your Day?
+        </h1>
         <p className="tracking-wider text-lg text-gray-600 leading-6 w-[400px] text-center">
           Discover our beautiful collection of fresh flowers, thoughtfully
           arranged to bring joy to any occasion.
