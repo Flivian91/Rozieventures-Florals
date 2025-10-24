@@ -38,7 +38,7 @@ function AboutCoreValues() {
     <section className="flex px-5 flex-col gap-3 py-10">
       <div className="flex flex-col gap-4 items-center justify-center">
         <Heading text={"Our Values"} />
-        <p className="text-center w-[600px] text-lg tracking-wider">
+        <p className="text-center md:w-[600px] text-lg tracking-wider">
           These core principles guide everything we do, from selecting the
           finest flowers to delivering exceptional customer experiences.
         </p>

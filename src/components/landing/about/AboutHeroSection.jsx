@@ -5,7 +5,7 @@ import React from "react";
 function AboutHeroSection() {
   return (
     <div>
-      <section className="grid px-5 grid-cols-2 gap-8 ">
+      <section className="grid px-5 md:grid-cols-2 gap-8 ">
         <div className="flex flex-col gap-4 px-2 py-8">
           <h1 className="text-4xl font-mono tracking-wider">
             Blooming since 2024
@@ -28,14 +28,14 @@ function AboutHeroSection() {
             <p>
               Every bloom tells a story, and were honored to be part of yours.
             </p>
-            <div className="mt-4">
+            <div className="mt-4 flex items-center justify-between w-full">
               <Button className={"text-lg px-5 py-5"}>
                 Shop Our Collections
               </Button>
             </div>
           </div>
         </div>
-        <div className="w-full px-2 py-8 bg-gradient-to-br rounded-lg from-gray-50 via-gray-100 to-gray-300">
+        <div className="w-full row-end-1 md:row-auto px-2 py-8 bg-gradient-to-br rounded-lg from-gray-50 via-gray-100 to-gray-300">
           <div className="relative h-96   ">
             <Image
               src={"/images/purple.png"}
