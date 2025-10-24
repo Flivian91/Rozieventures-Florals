@@ -38,8 +38,8 @@ const valueData = [
 
 function page() {
   return (
-    <div className="py-6 px-5 bg-slate-50">
-      <div className="flex flex-col gap-2 items-center justify-center">
+    <div className="py-6  bg-slate-50">
+      <div className="flex px-5 flex-col gap-2 items-center justify-center">
         <Heading text={"Our Story"} />
         <h3 className="text-center text-lg tracking-wider w-[700px]">
           Founded with a passion for bringing natural beauty into everyday life,
@@ -47,7 +47,7 @@ function page() {
           for over a decade.
         </h3>
       </div>
-      <div className="grid grid-cols-2 gap-8 ">
+      <div className="grid px-5 grid-cols-2 gap-8 ">
         <div className="flex flex-col gap-4 px-2 py-8">
           <h1 className="text-4xl font-mono tracking-wider">
             Blooming since 2024
@@ -89,7 +89,7 @@ function page() {
           </div>
         </div>
       </div>
-      <div className="flex flex-col gap-3">
+      <div className="flex px-5 flex-col gap-3 py-10">
         <div className="flex flex-col gap-4 items-center justify-center">
           <Heading text={"Our Values"} />
           <p className="text-center w-[600px] text-lg tracking-wider">
@@ -97,25 +97,41 @@ function page() {
             finest flowers to delivering exceptional customer experiences.
           </p>
         </div>
-        <div className="grid md:grid-cols-4 gap-4 smgrid-cols-2 grid-cols-1">
+        <div className="grid md:grid-cols-4 mt-5 gap-8 smgrid-cols-2 grid-cols-1">
           {valueData.map((data) => {
             return (
-              <Card key={data.id}>
-                <CardHeader>
+              <Card
+                key={data.id}
+                className={
+                  "group transition-all duration-300 flex flex-col hover:shadow-primary/40"
+                }
+              >
+                <CardHeader
+                  className={"flex items-center justify-center flex-col"}
+                >
                   {/* Logo */}
-                  <div className="">
-                    <data.icon />
+                  <div className="p-4 group-hover:scale-110 bg-gradient-to-br to-secondary/10 from-primary text-white text-xl rounded-full">
+                    <data.icon fontSize={20} />
                   </div>
                   <CardTitle>{data.title}</CardTitle>
                 </CardHeader>
-                <CardContent>
-                  <p>
-                    {data.description}
-                  </p>
+                <CardContent className={"-mt-3 text-center"}>
+                  <p>{data.description}</p>
                 </CardContent>
               </Card>
             );
           })}
+        </div>
+      </div>
+      <div className="py-16 bg-primary/20 flex items-center justify-center flex-col gap-3">
+        <h1 className="text-4xl  tracking-wider">Ready to Brighten Your Day?</h1>
+        <p className="tracking-wider text-lg text-gray-600 leading-6 w-[400px] text-center">
+          Discover our beautiful collection of fresh flowers, thoughtfully
+          arranged to bring joy to any occasion.
+        </p>
+        <div className="flex items-center gap-3 mt-5">
+          <Button>Shop Now</Button>
+          <Button variant={"outline"}>Contact Us</Button>
         </div>
       </div>
     </div>
