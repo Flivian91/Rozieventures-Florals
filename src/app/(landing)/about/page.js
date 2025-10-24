@@ -1,7 +1,40 @@
 import Heading from "@/components/common/Heading";
 import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Award, Handshake, Heart, User2 } from "lucide-react";
 import Image from "next/image";
 import React from "react";
+
+const valueData = [
+  {
+    id: 1,
+    icon: Heart,
+    title: "Passion for Beauty",
+    description:
+      "Every arrangement is crafted with love and attention to detail, bringing natural beauty into your life.",
+  },
+  {
+    id: 2,
+    icon: Award,
+    title: "Quality Excellence",
+    description:
+      "We source only the finest flowers and maintain the highest standards in every bouquet we create.",
+  },
+  {
+    id: 3,
+    icon: User2,
+    title: "Customers First",
+    description:
+      "Your satisfaction is our priority. We're here to make every moment special with our floral expertise.",
+  },
+  {
+    id: 4,
+    icon: Handshake,
+    title: "Sustainable Practices",
+    description:
+      "We're committed to eco-friendly practices and supporting local growers for a greener future.",
+  },
+];
 
 function page() {
   return (
@@ -56,9 +89,34 @@ function page() {
           </div>
         </div>
       </div>
-      <div>
-        <div></div>
-        <div></div>
+      <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-4 items-center justify-center">
+          <Heading text={"Our Values"} />
+          <p className="text-center w-[600px] text-lg tracking-wider">
+            These core principles guide everything we do, from selecting the
+            finest flowers to delivering exceptional customer experiences.
+          </p>
+        </div>
+        <div className="grid md:grid-cols-4 gap-4 smgrid-cols-2 grid-cols-1">
+          {valueData.map((data) => {
+            return (
+              <Card key={data.id}>
+                <CardHeader>
+                  {/* Logo */}
+                  <div className="">
+                    <data.icon />
+                  </div>
+                  <CardTitle>{data.title}</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p>
+                    {data.description}
+                  </p>
+                </CardContent>
+              </Card>
+            );
+          })}
+        </div>
       </div>
     </div>
   );
