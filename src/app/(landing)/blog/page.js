@@ -91,7 +91,7 @@ function page() {
         <BlogCategory />
         <Separator />
         {/* Blog Items */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
           {blogData.map((data) => {
             return (
               <Card
@@ -142,6 +142,9 @@ function page() {
               </Card>
             );
           })}
+        </div>
+        <div className="flex items-center justify-center  mt-5">
+          <Button variant={"outline"}>Load more blogs</Button>
         </div>
       </section>
       {/* Newsletter */}
