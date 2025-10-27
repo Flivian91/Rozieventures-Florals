@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import {
@@ -9,7 +10,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { MessageCircle } from "lucide-react";
+import { Textarea } from "@/components/ui/textarea";
+import { MessageCircle, Send } from "lucide-react";
 import React from "react";
 
 function ContactForm() {
@@ -54,21 +56,45 @@ function ContactForm() {
           </Label>
           <Input type="phone" id="phone" placeholder="Phone Number" />
         </div>
-        <Select>
-          <SelectTrigger className="w-full">
-            <SelectValue placeholder="Select a fruit" />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectGroup>
-              <SelectLabel>Fruits</SelectLabel>
-              <SelectItem value="apple">Apple</SelectItem>
-              <SelectItem value="banana">Banana</SelectItem>
-              <SelectItem value="blueberry">Blueberry</SelectItem>
-              <SelectItem value="grapes">Grapes</SelectItem>
-              <SelectItem value="pineapple">Pineapple</SelectItem>
-            </SelectGroup>
-          </SelectContent>
-        </Select>
+        <div className="flex flex-col gap-2">
+          <Label htmlFor="service">Service Needed</Label>
+          <Select id="service">
+            <SelectTrigger className="w-full">
+              <SelectValue placeholder="Select a service" />
+            </SelectTrigger>
+            <SelectContent id="service">
+              <SelectGroup>
+                <SelectLabel>Fruits</SelectLabel>
+                <SelectItem value="apple">Apple</SelectItem>
+                <SelectItem value="banana">Banana</SelectItem>
+                <SelectItem value="blueberry">Blueberry</SelectItem>
+                <SelectItem value="grapes">Grapes</SelectItem>
+                <SelectItem value="pineapple">Pineapple</SelectItem>
+              </SelectGroup>
+            </SelectContent>
+          </Select>
+        </div>
+        <div className="grid w-full  items-center gap-3">
+          <Label htmlFor="message" className={"text-gray-600"}>
+            Message *
+          </Label>
+          <Textarea
+            id="message"
+            placeholder="Tell us about your floral needs, event details, or any questions you have..."
+          />
+        </div>
+        <div className="flex items-center justify-center">
+          <Button className={"cursor-pointer"}>
+            <Send />
+            <span>Send Message</span>
+          </Button>
+        </div>
+        <div className="flex items-center justify-center">
+          <p className="text-gray-600 text-center">
+            * Required fields. We respect your privacy and will never share you
+            infomation.
+          </p>
+        </div>
       </div>
     </div>
   );
