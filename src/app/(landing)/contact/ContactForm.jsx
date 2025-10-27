@@ -1,5 +1,14 @@
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import {
+  Select,
+  SelectContent,
+  SelectGroup,
+  SelectItem,
+  SelectLabel,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 import { MessageCircle } from "lucide-react";
 import React from "react";
 
@@ -38,13 +47,28 @@ function ContactForm() {
           </Label>
           <Input type="email" id="email" placeholder="Email Address" />
         </div>
-         {/* Phone Number */}
+        {/* Phone Number */}
         <div className="grid w-full  items-center gap-3">
           <Label htmlFor="phone" className={"text-gray-600"}>
             Phone Number*
           </Label>
           <Input type="phone" id="phone" placeholder="Phone Number" />
         </div>
+        <Select>
+          <SelectTrigger className="w-full">
+            <SelectValue placeholder="Select a fruit" />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectGroup>
+              <SelectLabel>Fruits</SelectLabel>
+              <SelectItem value="apple">Apple</SelectItem>
+              <SelectItem value="banana">Banana</SelectItem>
+              <SelectItem value="blueberry">Blueberry</SelectItem>
+              <SelectItem value="grapes">Grapes</SelectItem>
+              <SelectItem value="pineapple">Pineapple</SelectItem>
+            </SelectGroup>
+          </SelectContent>
+        </Select>
       </div>
     </div>
   );
