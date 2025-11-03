@@ -85,7 +85,7 @@ function ContactForm() {
           />
         </div>
         <div className="flex items-center justify-center">
-          <Button className={"cursor-pointer"}>
+          <Button className={"cursor-pointer w-full"}>
             <Send />
             <span>Send Message</span>
           </Button>
