@@ -16,7 +16,7 @@ import React from "react";
 
 function ContactForm() {
   return (
-    <div className="bg-white shadow rounded px-7 py-4 ">
+    <div className="bg-white shadow rounded-md px-7 py-4 ">
       <div className="flex flex-col gap-1">
         <div className="flex items-center gap-2">
           <MessageCircle className="text-primary" />
