@@ -1,4 +1,5 @@
-import { Dot } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Dot, Phone } from "lucide-react";
 import React from "react";
 
 function ContactInformation() {
@@ -83,8 +84,16 @@ function ContactInformation() {
         </div>
       </div>
       {/* urgent */}
-      <div className="bg-secondary/20 rounded-md p-5">
-      
+      <div className="bg-secondary/20 rounded-md p-5 flex flex-col gap-5">
+        <h1 className="text-2xl font-medium">Need Something Urgent?</h1>
+        <p className="tracking-wider font-medium text-gray-600">
+          For same-day delivery or emergency floral needs, call our priority
+          line:
+        </p>
+        <Button variant={"outline"}>
+          <Phone />
+          <span>Call Emergency Line</span>
+        </Button>
       </div>
     </section>
   );
